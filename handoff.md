@@ -216,15 +216,17 @@ Pandoc's HTML tables from the docx source use `<tr><td>` for headers (no `<thead
 
 ---
 
-## 10. Recommended next steps
+## 10. Project roadmap (as of 2026-07-29)
 
-In priority order:
+The project now has a git repo (`main` branch), to be pushed to GitHub. Phases, in order:
 
-1. **Nothing, if the user wants to ship as-is.** The PDF is publication-ready.
-2. **Get sign-off on `open-issues.md` C1–C3 from the SOG author or Chief.** These need domain input.
-3. **Do F1 (pandoc list separators) and F2 (HTML tables → GFM).** Both are agent-executable, one-time cleanup, and improve diff-ability of the source going forward. Do F1 before F2 because F2's Appendix D work will get simpler if list nesting is already correct.
-4. **If a web version is needed**, evaluate MkDocs Material or Docusaurus. The current `.md` is portable — main things to plan for are (a) how to render `[TOC]` in the chosen pipeline, (b) whether the SVG chain-of-command renders correctly (it should — foreignObjects work fine in browsers), and (c) publishing pipeline.
-5. **Content-editing phase.** Only after the format phase is fully signed off. The user has `38_STYLE_GUIDE.md` prepared for this — it's an editor persona / rulebook for making the SOG language authoritative, imperative, and rural-context-aware. Treat that as a separate project phase.
+1. **Manual formatting cleanup pass (user, in progress).** The user is taking a first pass over `FD SOGs.md` by hand to fix formatting issues that aren't reliably detectable/fixable by script or agent (as opposed to the deterministic F1–F4 items in `open-issues.md`). Wait for this to land before doing further format work on the same regions.
+2. **Editing pass using `38_STYLE_GUIDE.md`.** Once formatting is settled, apply the style guide as the ruleset to make the SOG language authoritative, imperative, and rural-context-aware. This is the content-editing phase referenced in `38_STYLE_GUIDE.md`'s own header — do not start it early.
+3. **Output refinement.** Build/refine the publishable outputs from the clean, styled markdown:
+   - **PDF** — via `build_sog_pdf.py` (already working, see [§5](#5-build-pipeline)).
+   - **Offline-capable web app** — responsive across all devices (desktop/tablet/mobile), works offline (likely a PWA — service worker + cached assets, installable). Not started. Do not start until phases 1–2 are done and the user asks for it.
+
+**CI/publishing plan:** repo will be hosted on GitHub. `FD-SOGs.pdf` is gitignored — it's a build artifact, not committed. We still build it locally during iteration to preview before pushing. Eventually a CI job (GitHub Actions, on push/check-in) will run the build script(s) and publish the generated assets (PDF, and later the web app) rather than committing them to the repo. CI wiring itself is not done yet.
 
 ---
 
