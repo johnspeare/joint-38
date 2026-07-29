@@ -1,0 +1,34 @@
+%% Chain of Command — Joint Fire Protection District 3 & 8
+%% Source: derived from the Job Descriptions section of the SOGs.
+%% Solid arrows = formal reporting lines (supervisor -> subordinate).
+%%
+%% To regenerate both the SVG (for HTML/web) and the PNG (for print/PDF):
+%%   mmdc -i chain-of-command.mmd -o chain-of-command.svg -b white
+%%   mmdc -i chain-of-command.mmd -o chain-of-command.png -b white --width 800 --scale 3
+%%
+%% Note: mermaid-cli v11 always emits <foreignObject> HTML for flowchart
+%% node labels, which WeasyPrint's SVG rasterizer does not render. The
+%% PNG copy is a workaround for the PDF pipeline — build_sog_pdf.py swaps
+%% .svg → .png for image tags at PDF-build time.
+
+flowchart TD
+    Chief["Fire Chief"]
+    AsstChief["Assistant Chief<br/>(Deputy Chief)"]
+    Captain["Captain"]
+    Lieutenant["Lieutenant"]
+    Firefighter["Firefighter<br/>(II / I / ELF)"]
+    Probationary["Firefighter<br/>Probationary"]
+
+    Chief --> AsstChief
+    AsstChief --> Captain
+    Captain --> Lieutenant
+    Lieutenant --> Firefighter
+    Firefighter --> Probationary
+
+    classDef officer fill:#FFD966,stroke:#7F6000,stroke-width:1.5px,color:#000;
+    classDef line    fill:#F4B183,stroke:#843C0C,stroke-width:1.5px,color:#000;
+    classDef entry   fill:#F8CBAD,stroke:#843C0C,stroke-width:1.5px,color:#000;
+
+    class Chief,AsstChief officer;
+    class Captain,Lieutenant,Firefighter line;
+    class Probationary entry;
