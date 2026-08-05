@@ -983,13 +983,13 @@ This policy is intended to provide specific practices and procedures to safeguar
 
 Personnel can be seriously or fatally injured if machinery or equipment they are working within becomes unexpectedly energized, starts-up or releases stored energy. The stored energy sources include electrical, mechanical, hydraulic, pneumatic, chemical, thermal, and others.
 
-### Situations requiring device lock-out:
+### Situations requiring device lock-out
 
 1. When a device or piece of equipment is not operating in its designed capacity and could injury any employee who attempts to use the device. This includes department fire and rescue apparatus that are unsafe for travel on public ways or are unable to carry passengers safely.  
 2. When a device or piece of equipment is being serviced and/or the safety features have been disabled in any way.  
 3. When the department responds to an emergency scene where employees are required to interact with machines, devices, or utilities that are powered by electrical, chemical, thermal, hydraulic, or other energy types.
 
-### Emergency Incident Procedure:
+### Emergency Incident Procedure
 
 This requires that designated fire department personnel (company officers, chiefs, etc.) work with facility personnel to turn off and disconnect the machinery or equipment from its energy source(s) before working in and around the equipment. This also requires that designated fire department personnel lock-out/tag-out the energy isolating device(s) to prevent the release of hazardous stored energy and take steps to verify that the energy has been effectively isolated.
 
@@ -1001,7 +1001,7 @@ Upon arrival at an emergency incident involving machinery or equipment that was 
 4. The Officer in Charge holds the keys and controls the fire department’s lock-out/tag-out equipment.  
 5. Once fire department operations have been completed, remove the fire department’s lock-out/tag-out equipment and turn the machinery or equipment back over to facility personnel.
 
-### Non-Emergency/Servicing/Maintenance Procedure:
+### Non-Emergency/Servicing/Maintenance Procedure
 
 1. Notify all affected personnel that servicing or maintenance is required on a machine or equipment and that the machine or equipment must be shut down and locked out to perform the servicing or maintenance.  
 2. The authorized person shall refer to the manufacturer’s procedure to identify the type and magnitude of the energy that the machine or equipment utilizes, shall understand the hazards of the energy, and shall know the methods to control the energy.  
@@ -1013,7 +1013,7 @@ Upon arrival at an emergency incident involving machinery or equipment that was 
 8. **Caution: Return operating control(s) to neutral or "off" position after verifying the isolation of the equipment.**  
 9. The machine or equipment is now locked out.
 
-### Restoring Equipment to Service:
+### Restoring Equipment to Service
 
 1. Check the machine or equipment and the immediate area around the machine to ensure that nonessential items have been removed and that the machine or equipment components are operationally intact.  
 2. Check the work area to ensure that all personnel have been safely positioned or removed from the area.  
@@ -1021,7 +1021,7 @@ Upon arrival at an emergency incident involving machinery or equipment that was 
 4. Remove the lockout devices and reenergize the machine or equipment. The removal of some forms of blocking may require repowering of the machine before safe removal.  
 5. Notify affected personnel that the operation is completed and the machine or equipment is ready for use.
 
-### Keeping Equipment Out of Service:
+### Keeping Equipment Out of Service
 
 If equipment is deemed unsafe the equipment shall remain in the off position. The equipment shall be secured with tie wraps and a tag stating that the equipment should remain out of service until serviced by authorized personnel.
 
@@ -1038,7 +1038,7 @@ In the event that a lockout, tag-out situation occurs during normal operations (
 
 ### Structure Fires
 
-#### Arrival On Scene
+#### Arrival on Scene
 
 1. The Officer will provide a scene size-up, assume command, and develop a fire suppression plan  
 2. The Officer will complete a 360-degree viewing of the structure to determine number of stories, type of structure, what is showing, location of problem, exposures, what is burning, where it is going, and the need for additional resources  
@@ -1283,18 +1283,18 @@ Examples of activities and functions appropriate at the **AWARENESS** level incl
 - Initiating response of operations and/or technician level personnel  
 - Establishing scene control and management
 
-#### Arrival On Scene
+#### Arrival on Scene
 
 1. A. The first-in unit should position the apparatus appropriately  
 2. The first arriving officer should establish command and complete an initial size-up including:  
-1. Secure any witnesses  
-2. Obtain the confined space entry permit and any other available information  
-3. Location, number, condition of victims, and length of time in confined space  
-4. Utility and other scene hazards – i.e. hazardous materials, low oxygen levels  
-5. Type of work being performed in the confined space  
-6. Type of PPE being used by victim(s)  
-7. Determination of rescue or recovery mode  
-8. Determination of additional resources needed
+   a. Secure any witnesses  
+   b. Obtain the confined space entry permit and any other available information  
+   c. Location, number, condition of victims, and length of time in confined space  
+   d. Utility and other scene hazards – i.e. hazardous materials, low oxygen levels  
+   e. Type of work being performed in the confined space  
+   f. Type of PPE being used by victim(s)  
+   g. Determination of rescue or recovery mode  
+   h. Determination of additional resources needed
 
 #### Scene Safety
 
@@ -1343,7 +1343,7 @@ Examples of activities and functions appropriate at this level include:
    e. Determination of rescue or recovery mode  
    f. Determination of additional resources needed
 
-#### Scene safety
+#### Scene Safety
 
 1. Establish hot, warm, and cold zones (utilize barrier tape and natural boundaries)
 
@@ -1367,11 +1367,11 @@ Hot – 0-100’ from trench Warm – 100-500’ from trench Cold – 500’ and
 
 The nature of fire fighting places the firefighter at risk for becoming lost, trapped or imperiled with equipment malfunctions. The toxic environment where work is performed provides only a narrow window of survivability. Survival depends on a mix of predictable self-survival actions by the affected firefighter(s), the Incident Commander and the Rapid Intervention Team. The purpose of this procedure is to provide action steps to be taken by the trapped/lost firefighter(s) and the Incident Commander. Specific procedures provided in this document include how to activate the Rapid Intervention Team (RIT) and remove those in danger to a safe location in a quick and efficient manner.
 
-#### Definition:
+#### Definition
 
 The term Mayday will be designated solely for when a firefighter is in immediate distress. Specific examples include when a firefighter or firefighters become trapped, lost, disoriented or experience equipment malfunctions.
 
-#### Procedures:
+#### Procedures
 
 The number one basic self survival responsibility is to avoid getting into situations where a firefighter or fire company gets trapped, lost or low/out of air.
 
@@ -1382,17 +1382,17 @@ The rescue of trapped or lost firefighters within a burning building is extremel
 3. Crews must also be working on a specific assignment and be working under the direct supervision of a Division Officer or Command.  
 4. Crews will follow all SCBA guidelines, including, but not limited to PASS device usage.
 
-#### Emergency Procedures:
+#### Emergency Procedures
 
 When a firefighter(s) become lost, trapped or experiences an equipment malfunction, the following procedures must be followed.
 
 1. Call For Help Immediately – Report on a portable radio “Mayday – Mayday – Mayday”. Announce your situation while continuing to find your way out. Firefighters should not delay notification of distress. The Mayday announcement should occur as soon as the firefighter thinks that he/she may be in trouble. The longer the delay of notification, the smaller the window of survivability will become.  
 2. Lost/trapped firefighter(s) should give Command information: LUNAR  
-   - L \= Location (as accurately as possible)  
-   - U \= Unit ID (i.e. Eng. 3930\)  
-   - N \= Name (names of lost or trapped crew members)  
-   - A \= Assignment (assignment crew was working on or assigned to prior to trouble)  
-   - R \= Resources you need (any special needs or information that may assist the RIT in locating and removing affected crew(s))
+   - L = Location (as accurately as possible)  
+   - U = Unit ID (i.e. Eng. 3930)  
+   - N = Name (names of lost or trapped crew members)  
+   - A = Assignment (assignment crew was working on or assigned to prior to trouble)  
+   - R = Resources you need (any special needs or information that may assist the RIT in locating and removing affected crew(s))
 3. **THE TERM “MAYDAY” WILL BE RESERVED ONLY TO REPORT LOST OR TRAPPED FIREFIGHTERS. THE TERM “EMERGENCY TRAFFIC” WILL BE USED TO REPORT ALL OTHER FIRE GROUND EMERGENCIES.**  
 4. **If a Mayday is heard, all other radio traffic on that channel will cease, until the Mayday operation is complete. The Incident Commander will then designate a new radio frequency for all unaffected fire ground units to switch to. The IC will also notify dispatch of the change in fire ground channels, and have dispatch announce this change.**  
 5. Radio Channels –  
@@ -1400,16 +1400,16 @@ When a firefighter(s) become lost, trapped or experiences an equipment malfuncti
    b. After a Mayday is broadcast, the stricken firefighter(s), the Rapid Intervention Team, and the Safety Officer will stay on the designated channel, until resolution of the incident is achieved.  
    c. All communications will be directed to the RIT officer. All non-affected companies shall switch to another channel as assigned by the IC and the communications center.  
    d. All companies shall continue to operate in their originally assigned Division/Group.
-2. Activate PASS Device – As soon as a firefighter recognizes he/she is lost or trapped, the PASS device must be manually activated to sound the audible tone. If the device interferes with radio communications it may be turned off temporarily. Once messages are completed, the device must again be manually activated.  
-3. Crews Stay Together – Members that separate from each other make it more difficult for rescuers to locate all members of the crew. Crew members who stay together enhance their chances for all to be rescued and allows for easier, more efficient extraction  
-4. Follow Hose or Lifeline Out \- Crew members should stay with the hose line and follow it out whenever possible. The hose line should always be treated as the safety line to the outside. The RIT team may follow the hose line into the structure to locate distressed firefighters. Where lifeline ropes are in use, follow the life line to the outside.  
-   a. Searching For an Exit – A lost firefighter should always attempt to exit out of the building by whatever means possible. Where doors, windows, or other means of egress are not available, firefighters should next attempt to reach an exterior wall. Once at an exterior wall the firefighter can try to locate windows, doors, or hallways that generally lead to the outside. Rescuers will first search hallways, around windows and doors before sweeping large areas if victim location is unknown. Getting to hallways, doors, or windows will greatly increase the chances of being rescued early. Breeching walls for escape or fresh air can aid survivability. These actions will also provide predictable activities that will aid rescuers.
-11. Retreat to a Safe Refuge – Where firefighter cannot find a way out, but there is a safe refuge (protected room or floor) away from the fire that the firefighter can retreat to, he/she should take advantage of this location. Command and the RIT team must then be notified of this location as soon as possible.  
-12. Stay Calm and Conserve Air – A conscious effort must be made by the firefighter(s) to control breathing. Unnecessary talking or physical activity must cease, unless absolutely necessary. Firefighters must control and pace their activities and breathing to extend their SCBA supply.  
-13. Horizontal Position – If a firefighter cannot get out, he/she should assume a horizontal position on the floor that maximizes the audible effects of the PASS device. The firefighter should attempt to take this position at an exterior wall, doorway, or hallway that maximizes quick discovery by rescue crews.  
-14. Flashlight / Tapping Noise – In assuming a position to await rescuers, the firefighter(s) should attempt to position their flashlight towards the ceiling. This will enhance the rescuers ability to see the light and locate the downed firefighter. If able the firefighter should attempt tapping noises to assist in location by rescuers, (hitting a tool on a metal door, tapping on the floor).  
-15. Company or Division / Group Officers – Company officers who are unable to locate a crew or firefighters assigned to them, must immediately notify command and use Mayday to notify all personnel operating on the scene. When possible the officer’s report should include who is missing, their last known location, and the actions being taken. Fire fighting positions must not be abandoned during the rescue effort, the officers must control free-lancing. Command will initiate a rescue effort. On-going fire suppression and ventilation must continue to afford the victims increased opportunity for survival.  
-16. Personal Accountability Report – Immediately following declaration of a Mayday, a PAR shall be taken. This is important to confirm if additional personnel are safe and accounted for. With the exception of the RIT and Safety Officer, the PAR shall be conducted on the alternate radio channel assigned by the IC and communication’s center, as to not interfere with direct communication between RIT and effected crew(s).
+6. Activate PASS Device – As soon as a firefighter recognizes he/she is lost or trapped, the PASS device must be manually activated to sound the audible tone. If the device interferes with radio communications it may be turned off temporarily. Once messages are completed, the device must again be manually activated.  
+7. Crews Stay Together – Members that separate from each other make it more difficult for rescuers to locate all members of the crew. Crew members who stay together enhance their chances for all to be rescued and allows for easier, more efficient extraction  
+8. Follow Hose or Lifeline Out - Crew members should stay with the hose line and follow it out whenever possible. The hose line should always be treated as the safety line to the outside. The RIT team may follow the hose line into the structure to locate distressed firefighters. Where lifeline ropes are in use, follow the life line to the outside.  
+9. Searching For an Exit – A lost firefighter should always attempt to exit out of the building by whatever means possible. Where doors, windows, or other means of egress are not available, firefighters should next attempt to reach an exterior wall. Once at an exterior wall the firefighter can try to locate windows, doors, or hallways that generally lead to the outside. Rescuers will first search hallways, around windows and doors before sweeping large areas if victim location is unknown. Getting to hallways, doors, or windows will greatly increase the chances of being rescued early. Breeching walls for escape or fresh air can aid survivability. These actions will also provide predictable activities that will aid rescuers.  
+10. Retreat to a Safe Refuge – Where firefighter cannot find a way out, but there is a safe refuge (protected room or floor) away from the fire that the firefighter can retreat to, he/she should take advantage of this location. Command and the RIT team must then be notified of this location as soon as possible.  
+11. Stay Calm and Conserve Air – A conscious effort must be made by the firefighter(s) to control breathing. Unnecessary talking or physical activity must cease, unless absolutely necessary. Firefighters must control and pace their activities and breathing to extend their SCBA supply.  
+12. Horizontal Position – If a firefighter cannot get out, he/she should assume a horizontal position on the floor that maximizes the audible effects of the PASS device. The firefighter should attempt to take this position at an exterior wall, doorway, or hallway that maximizes quick discovery by rescue crews.  
+13. Flashlight / Tapping Noise – In assuming a position to await rescuers, the firefighter(s) should attempt to position their flashlight towards the ceiling. This will enhance the rescuers ability to see the light and locate the downed firefighter. If able the firefighter should attempt tapping noises to assist in location by rescuers, (hitting a tool on a metal door, tapping on the floor).  
+14. Company or Division / Group Officers – Company officers who are unable to locate a crew or firefighters assigned to them, must immediately notify command and use Mayday to notify all personnel operating on the scene. When possible the officer’s report should include who is missing, their last known location, and the actions being taken. Fire fighting positions must not be abandoned during the rescue effort, the officers must control free-lancing. Command will initiate a rescue effort. On-going fire suppression and ventilation must continue to afford the victims increased opportunity for survival.  
+15. Personal Accountability Report – Immediately following declaration of a Mayday, a PAR shall be taken. This is important to confirm if additional personnel are safe and accounted for. With the exception of the RIT and Safety Officer, the PAR shall be conducted on the alternate radio channel assigned by the IC and communication’s center, as to not interfere with direct communication between RIT and effected crew(s).
 
 ### Rehab
 
@@ -1425,11 +1425,9 @@ During any emergency incident or training activity, all personnel are to advise 
 
 The IC shall establish rehab when conditions indicate that rest and rehabilitation is needed for personnel working at an incident or training activity. Climactic or environmental conditions that indicate the need to establish rehab are a heat stress index above 90 degrees Fahrenheit or wind-chill index below 10 degrees Fahrenheit. Additional factors that should be considered in the need to establish rehab include:
 
-• Time – including extended use of PPE and exposure to weather conditions
-
-• Complexity – including crime scenes, specials teams incidents
-
-• Intensity – mental and/or physical stress at incidents such as major extrications, interior search and rescue, etc.
+* Time – including extended use of PPE and exposure to weather conditions
+* Complexity – including crime scenes, specials teams incidents
+* Intensity – mental and/or physical stress at incidents such as major extrications, interior search and rescue, etc.
 
 The Rehab Manager shall function within the incident command system and report to the Incident Commander (IC) or the Incident Safety Officer (if established).
 
@@ -1460,7 +1458,7 @@ Rehab should be in a location that will provide physical rest by allowing person
 6. Allow for prompt re-assignment by the Rehab Manager as determined by the IC.  
 7. Should be marked using scene tape and signs and provide a single entry/exit point.
 
-#### Rehab efforts should include the following:
+#### Rehab efforts should include the following
 
 1. Relief from weather conditions  
 2. Rest and recovery  
@@ -1549,19 +1547,19 @@ Qualified Firefighter: Any individual possessing a minimum of a Washington State
    Upon completion of their evaluation, the RIT leader may make recommendations to the incident commander concerning deployment of the RIT (i.e. laddering the building, the need of more than one team, etc.)
 
 2. Organize/procure the appropriate equipment necessary to affect a rescue of a lost, trapped, or disoriented member. The equipment chosen shall be influenced by the type of building construction, but a minimum should consist of the following:  
-1. A complete SCBA (regulator, face piece, air cylinder and frame).  
-2. Lifeline  
-3. Forcible entry, cutting and breaking tools.  
-4. Appropriate lighting.  
-5. Portable radio.  
-6. Small hand tools (pliers, wire cutters…)  
+   a. A complete SCBA (regulator, face piece, air cylinder and frame).  
+   b. Lifeline  
+   c. Forcible entry, cutting and breaking tools.  
+   d. Appropriate lighting.  
+   e. Portable radio.  
+   f. Small hand tools (pliers, wire cutters…)
 
-   \*Note: these are only suggestions for the minimum equipment that will be needed and should not be a limiting factor in selecting the equipment for use.  
+   \*Note: these are only suggestions for the minimum equipment that will be needed and should not be a limiting factor in selecting the equipment for use.
 
-7. When deployed, the members of the RIT are to operate as a unit and report directly to the team leader. The assignment of the RIT is to locate, rescue and remove lost, trapped, or disoriented firefighters, using any means necessary.  
-8. At no time during the incident should members of the RIT be assigned other fire ground tasks, unless the members can either be replaced or the alternate task does not interfere with deployment of the team. This is particularly important, as the task of the RIT is critical.  
-9. Throughout the rescue effort the RIT will provide updates to the Incident Commander.  
-10. As appropriate, the Incident Commander shall assign personnel to assist the RIT with the rescue effort. The Incident Commander shall also provide personnel to establish a second RIT when the original RIT has been deployed as, unfortunately, these members may also find themselves in need of being rescued.
+3. When deployed, the members of the RIT are to operate as a unit and report directly to the team leader. The assignment of the RIT is to locate, rescue and remove lost, trapped, or disoriented firefighters, using any means necessary.  
+4. At no time during the incident should members of the RIT be assigned other fire ground tasks, unless the members can either be replaced or the alternate task does not interfere with deployment of the team. This is particularly important, as the task of the RIT is critical.  
+5. Throughout the rescue effort the RIT will provide updates to the Incident Commander.  
+6. As appropriate, the Incident Commander shall assign personnel to assist the RIT with the rescue effort. The Incident Commander shall also provide personnel to establish a second RIT when the original RIT has been deployed as, unfortunately, these members may also find themselves in need of being rescued.
 
 ## Health and Safety
 
@@ -1571,58 +1569,58 @@ It is the policy of the Joint Fire Protection District 3&8 to provide the highes
 
 1. A Health and Safety Officer shall be appointed and will be responsible for managing the Departments safety program and shall report to the Fire Chief or his designee.  
 2. The Health and Safety Officer duties shall include, but not be limited to:  
-1. Chair the Safety Committee by preparing meeting agendas and notices.  
-2. Act as the Incident Safety Officer at incidents, if needed.  
-3. Provide input on equipment and protective clothing safety.  
-4. Manage the safety inspection program.  
-5. Assist with the investigation of all accidents, injuries and exposures.  
-6. Maintain accident, injury and exposure statistics.  
-7. Make recommendations to reduce or eliminate accidents, injuries or exposures.  
-8. Provide for safety education to all Department members.  
+   a. Chair the Safety Committee by preparing meeting agendas and notices.  
+   b. Act as the Incident Safety Officer at incidents, if needed.  
+   c. Provide input on equipment and protective clothing safety.  
+   d. Manage the safety inspection program.  
+   e. Assist with the investigation of all accidents, injuries and exposures.  
+   f. Maintain accident, injury and exposure statistics.  
+   g. Make recommendations to reduce or eliminate accidents, injuries or exposures.  
+   h. Provide for safety education to all Department members.  
 3. The Health and Safety Officer qualifications.  
-1. The Health and Safety Officer will have and maintain knowledge of current applicable laws, codes and standards regulating occupational safety and health to the fire service.  
-2. The Health and Safety Officer will have and maintain knowledge of occupational safety and health hazards involved in emergency operations.  
-3. The Health and Safety Officer will have and maintain knowledge of current principles and techniques of safety management.  
-4. The Health and Safety Officer will have and maintain knowledge of current health maintenance and physical fitness issues that affect the fire service members.  
+   a. The Health and Safety Officer will have and maintain knowledge of current applicable laws, codes and standards regulating occupational safety and health to the fire service.  
+   b. The Health and Safety Officer will have and maintain knowledge of occupational safety and health hazards involved in emergency operations.  
+   c. The Health and Safety Officer will have and maintain knowledge of current principles and techniques of safety management.  
+   d. The Health and Safety Officer will have and maintain knowledge of current health maintenance and physical fitness issues that affect the fire service members.  
 4. The Health and Safety Officer will have the responsibility to identify and cause correction of safety and health hazards.  
 5. The Health and Safety Officer will have the authority to cause immediate correction of situations that create an imminent hazard to members.  
 6. Where no imminent hazards are identified, the Health and Safety Officer shall develop actions to correct the situation within the administrative process of the Department. The Health and Safety Officer shall have the authority to bring notice of such hazards to whom ever has the ability to cause correction.  
 7. Functions of the Health and Safety Office will include, but not be limited to:  
-1. Development, implementation, and management of a written risk management plan.  
-2. Development, review and revision of rules, regulations and standard operating procedures pertaining to the Department occupational safety and health program and that ensure compliance to acceptable standards.  
-3. Ensure training in safety procedures relating to all Department operations and functions is provided to all members.  
-4. Manage an accident prevention program.  
-5. Review specifications for new apparatus, equipment, protective clothing and protective equipment for compliance with applicable safety standards.  
-6. Submit recommendations on occupational safety and health to the Fire Chief or his designee.  
-7. Ensure that the Departments infection control program meets or exceeds the requirements of 29CFR1910.1030, Occupational Exposure to Blood borne Pathogens  
-8. Establish a critical incident stress management program.
+   a. Development, implementation, and management of a written risk management plan.  
+   b. Development, review and revision of rules, regulations and standard operating procedures pertaining to the Department occupational safety and health program and that ensure compliance to acceptable standards.  
+   c. Ensure training in safety procedures relating to all Department operations and functions is provided to all members.  
+   d. Manage an accident prevention program.  
+   e. Review specifications for new apparatus, equipment, protective clothing and protective equipment for compliance with applicable safety standards.  
+   f. Submit recommendations on occupational safety and health to the Fire Chief or his designee.  
+   g. Ensure that the Departments infection control program meets or exceeds the requirements of 29CFR1910.1030, Occupational Exposure to Blood borne Pathogens  
+   h. Establish a critical incident stress management program.
 
 ### Incident Safety Officer
 
 1. An Incident Safety Officer should meet the following requirements:  
-1. Will have the knowledge, skill and ability to manage incident scene safety.  
-2. Will have and maintain a knowledge of safety and health hazards involved in emergency operations.  
-3. Will have and maintain a knowledge of building construction.  
-4. Will have and maintain a knowledge of the Departments Personnel Accountability System.  
-5. Will have and maintain knowledge of incident scene rehabilitation.  
+   a. Will have the knowledge, skill and ability to manage incident scene safety.  
+   b. Will have and maintain a knowledge of safety and health hazards involved in emergency operations.  
+   c. Will have and maintain a knowledge of building construction.  
+   d. Will have and maintain a knowledge of the Departments Personnel Accountability System.  
+   e. Will have and maintain knowledge of incident scene rehabilitation.  
 2. The Incident Safety Officer will have the authority at an emergency incident where activities are judged by the Officer to be unsafe or to involve an imminent hazard, have the authority to alter, suspend, or terminate those activities. The Incident Safety Officer will immediately inform the Incident Commander of any actions taken to correct imminent hazards at the emergency scene.  
 3. At an emergency incident where an Incident Safety Officer identifies unsafe conditions, operations, or hazards that do not present an imminent danger, the Incident Safety Officer shall take appropriate action through the Incident Commander to mitigate or eliminate the unsafe condition, operation, or hazard at the incident scene.  
 4. Functions of the Incident Safety Officer will include, but not be limited to:  
-1. Be integrated with the incident management system as a command staff member  
-2. Shall monitor conditions, activities and operations to determine whether they fall within the criteria as defined in the Departments risk management plan  
-3. Will ensure that the Incident Commander establishes an incident scene rehabilitation tactical level management unit during emergency operations  
-4. Will monitor the scene and report the status of conditions, hazards and risks to the Incident Commander  
-5. Will ensure that the Departments Personnel Accountability System is being utilized  
-6. Will obtain the incident action plan from the Incident Commander and will provide the Incident Commander with a risk assessment of incident scene operations  
-7. Ensure that established safety zones, collapse zones hot zone and other designated hazard areas are communicated to all members present on scene  
-8. Will evaluate motor vehicle scene traffic hazards and apparatus placement and take appropriate actions to mitigate hazards  
-9. Monitor radio transmissions and stay alert to transmission barriers that could result in missed, unclear or incomplete communication  
-10. Survey and evaluate the hazards associated with the designation of a landing zone and interface with helicopters  
-11. Shall ensure that a Rapid Intervention Team is available and ready for deployment  
-12. Where a fire has involved a building or buildings, shall advise the Incident Commander of hazards, potential collapse and any fire extension in such building(s)  
-13. Will evaluate visible smoke and fire conditions and advise the Incident Commander, tactical level management unit officers and company officers on the potential for flashover, backdraft, blow-up or other fire event that could pose a threat to operating teams  
-14. Monitor accessibility of entry and egress of structures and the effect it has on the safety of members conducting interior operations  
-15. Assist with safety management of Hazardous Materials events
+   a. Be integrated with the incident management system as a command staff member  
+   b. Shall monitor conditions, activities and operations to determine whether they fall within the criteria as defined in the Departments risk management plan  
+   c. Will ensure that the Incident Commander establishes an incident scene rehabilitation tactical level management unit during emergency operations  
+   d. Will monitor the scene and report the status of conditions, hazards and risks to the Incident Commander  
+   e. Will ensure that the Departments Personnel Accountability System is being utilized  
+   f. Will obtain the incident action plan from the Incident Commander and will provide the Incident Commander with a risk assessment of incident scene operations  
+   g. Ensure that established safety zones, collapse zones hot zone and other designated hazard areas are communicated to all members present on scene  
+   h. Will evaluate motor vehicle scene traffic hazards and apparatus placement and take appropriate actions to mitigate hazards  
+   i. Monitor radio transmissions and stay alert to transmission barriers that could result in missed, unclear or incomplete communication  
+   j. Survey and evaluate the hazards associated with the designation of a landing zone and interface with helicopters  
+   k. Shall ensure that a Rapid Intervention Team is available and ready for deployment  
+   l. Where a fire has involved a building or buildings, shall advise the Incident Commander of hazards, potential collapse and any fire extension in such building(s)  
+   m. Will evaluate visible smoke and fire conditions and advise the Incident Commander, tactical level management unit officers and company officers on the potential for flashover, backdraft, blow-up or other fire event that could pose a threat to operating teams  
+   n. Monitor accessibility of entry and egress of structures and the effect it has on the safety of members conducting interior operations  
+   o. Assist with safety management of Hazardous Materials events
 
 ### Health and Safety Committee
 
@@ -1630,17 +1628,17 @@ It is the policy of the Joint Fire Protection District 3&8 to provide the highes
 2. The Health and Safety Officer shall report bi-annually to the Health and Safety Committee on the impact and implementation of the Safety Program and on the effectiveness of any specific program actions.  
 3. The Health and Safety Committee will also act as a fact-finding and review entity with the authority to cause immediate corrective action when any hazardous condition or practice is detected or reported.  
 4. The Health and Safety Committee will:  
-1. Meet at least bi-annually to review safety issues and concerns.  
-2. Review effectiveness of safety activities.  
-3. Develop and implement safety procedures.  
-4. Make a written record of its meetings available to all fire fighters in the fire department.  
+   a. Meet at least bi-annually to review safety issues and concerns.  
+   b. Review effectiveness of safety activities.  
+   c. Develop and implement safety procedures.  
+   d. Make a written record of its meetings available to all fire fighters in the fire department.  
 5. The Health and Safety Committee may include:  
-1. Fire Chief  
-2. Assistant Fire Chief  
-3. Department Training Officer  
-4. Health and Safety Officer  
-5. Incident Safety Officers  
-6. Firefighters
+   a. Fire Chief  
+   b. Assistant Fire Chief  
+   c. Department Training Officer  
+   d. Health and Safety Officer  
+   e. Incident Safety Officers  
+   f. Firefighters
 
 ## Injury and Illness Reporting
 
@@ -1713,7 +1711,7 @@ All employees have a right to work in an environment free from discrimination an
 - Submission to or rejection of such conduct is used as the basis for an employment decision affecting an individual.  
 - The conduct interferes with an employee's work or creates an intimidating, hostile or offensive work environment.
 
-### RECOGNIZING HARASSMENT
+### Recognizing Harassment
 
 Discrimination or harassment may be subtle, manipulative and is not always evident. It does not refer to occasional compliments of a socially acceptable nature. It refers to behavior that is not welcome and is personally offensive. All forms of gender harassment are covered. Men can be sexually harassed; men can harass men; Women can harass other women. Offenders can be fellow co-workers, Officers, Chiefs, and others.
 
@@ -1725,7 +1723,7 @@ Jokes, insults and innuendoes (based on race, sex, age, disability, etc.), degra
 **Non-Verbal:**  
 Gestures, staring, touching, hugging, patting, blocking a person's movement, standing too close, brushing against a person's body, or display of sexually suggestive or degrading pictures, racist or other derogatory cartoons or drawings.
 
-### COMPLAINT PROCEDURES
+### Complaint Procedures
 
 Any member or employee who believes he or she is being discriminated against or harassed, or any member or employee, who becomes aware of discrimination or harassment, should promptly notify his or her Officer or the Fire Chief. If the individual believes that the Officer is the harasser, another Officer or the Fire Chief should be notified. If the individual is uncomfortable discussing discrimination or harassment with his or her Officer or the Fire Chief, the individual should contact the board of commissioners.
 
@@ -1748,15 +1746,15 @@ Milwaukee, WI 53203-2292
 
 Upon notification of a discrimination or harassment complaint, a confidential and impartial investigation will be promptly commenced and will include direct interviews with involved parties and where necessary with members or employees who may be witnesses or have knowledge of matters relating to the complaint. The parties of the complaint will be notified of the findings and their options.
 
-### RETALIATION
+### Retaliation
 
 Retaliation of any kind against any member or employee bringing a complaint or assisting in the investigation of a complaint is prohibited. Such member or employee may not be adversely affected in any manner related to their employment. Such retaliation is also illegal under [Section111.322 (2m), Washington Statutes](http://folio.legis.state.wi.us/cgi-bin/om_isapi.dll?clientID=46728346&infobase=stats.nfo&j1=111.322\(2m\)&jump=111.322\(2m\)&softpage=Browse_Frame_Pg).
 
-### DISCIPLINARY ACTION
+### Disciplinary Action
 
 Joint Fire Protection District 3&8 views discrimination, harassment, and retaliation to be among the most serious breaches of workplace behavior. Consequently, appropriate disciplinary or corrective action, ranging from a warning to termination, can be expected.
 
-### FALSE COMPLAINTS
+### False Complaints
 
 Any complaint made by a member or employee of Joint Fire Protection District 3&8 regarding discrimination or harassment in the workplace, which is conclusively proved to be false, shall result in discipline. This discipline may include dismissal from employment. This section is not intended to discourage members or employees from making complaints regarding discrimination or harassment. However, false complaints adversely impact the workplace of the accused, even when disproved, and will not be tolerated.
 
@@ -1779,7 +1777,7 @@ Class II: Written warning, suspension, termination
 
 Class III: Oral warning, written warning, suspension, termination
 
-### Examples of Class I causes:
+### Examples of Class I causes
 
 - Use or under the influence of drugs or alcohol while on duty.  
 - Theft of department property or another employee’s property.  
@@ -1789,7 +1787,7 @@ Class III: Oral warning, written warning, suspension, termination
 - Striking or assaulting a fire fighter or bystander  
 - Lying or willfully omitting critical information on an application.
 
-### Examples of Class II causes:
+### Examples of Class II causes
 
 - Reckless driving of department vehicles.  
 - Disobeying traffic laws when responding to the hall.  
@@ -1797,7 +1795,7 @@ Class III: Oral warning, written warning, suspension, termination
 - Failure to comply with published departmental or municipal rules or regulations.  
 - Fighting.
 
-### Examples of Class III causes:
+### Examples of Class III causes
 
 - Foul and/or abusive language  
 - Inefficient, incompetent or negligent performance of work.  
@@ -2160,8 +2158,20 @@ Make Style: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Model Size: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-| Qualitative (QLFT) Substance used: Isoamyl Acetate Saccharin Solution Aerosol Bitrex Irritant smoke Pass Fail Exercises Performed: Comments: |
-| :---- |
+**Qualitative (QLFT)**
+
+Substance used:
+
+* Isoamyl Acetate
+* Saccharin Solution Aerosol
+* Bitrex
+* Irritant smoke
+
+Pass Fail
+
+Exercises Performed:
+
+Comments:
 
 Person Administering Test:
 
@@ -2215,7 +2225,7 @@ Time of Event:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Witnesses:\_\_\_\_\_\_\
 | :---: | :---: |
 | Type of injury sustained: |  |
 | Cause of injury: |  |
-| Was medical treatment or first aid necessary? | Yes\_\_\_\_\_ No\_\_\_\_\_ If yes, name of hospital or physician: If First Aid, type of aid received: |
+| Was medical treatment or first aid necessary? | Yes\_\_\_\_\_ No\_\_\_\_\_<br>If yes, name of hospital or physician:<br>If First Aid, type of aid received: |
 
 Signature of Member/ Employee: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
