@@ -68,6 +68,19 @@ def main() -> None:
 
     doc = Document(str(DEFAULT_REFERENCE))
 
+    # Pandoc's default reference.docx points body/heading text at "Aptos" via
+    # the docx theme — a Microsoft-only font not present on either macOS or
+    # Linux LibreOffice. Both substitute for it, but with *different*
+    # fallback fonts, which changes line-wrapping and therefore pagination
+    # between build machines (found via CI: 79 pages locally on macOS vs. 92
+    # on the Ubuntu runner, same source, same LibreOffice version). Pin an
+    # explicit font that LibreOffice bundles identically on every platform
+    # instead of relying on theme/system substitution.
+    BODY_FONT = "Liberation Sans"
+    for style_name in ("Normal", "Heading 1", "Heading 2", "Heading 3", "Heading 4", "Title"):
+        if style_name in doc.styles:
+            doc.styles[style_name].font.name = BODY_FONT
+
     heading_sizes = {"Heading 1": 24, "Heading 2": 16, "Heading 3": 13, "Heading 4": 11.5}
     for name, size in heading_sizes.items():
         style = doc.styles[name]
