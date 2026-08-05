@@ -60,6 +60,31 @@ def build_footer_paragraph(paragraph) -> None:
         r.font.color.rgb = RGBColor(0x55, 0x55, 0x55)
 
 
+def add_thin_table_borders(doc: Document, style_name: str = "Table") -> None:
+    """Give the table style hairline borders on every edge, incl. between cells.
+
+    Pandoc's default reference.docx defines a "Table" style with no borders
+    at all, so every table renders as bare, unruled text columns. python-docx
+    has no high-level API for table-*style* borders (only per-table/per-cell
+    overrides), so this edits the style's <w:tblPr> XML directly.
+    """
+    style_element = doc.styles[style_name].element
+    tbl_pr = style_element.find(qn("w:tblPr"))
+    if tbl_pr is None:
+        tbl_pr = OxmlElement("w:tblPr")
+        style_element.append(tbl_pr)
+
+    borders = OxmlElement("w:tblBorders")
+    for edge in ("top", "left", "bottom", "right", "insideH", "insideV"):
+        edge_el = OxmlElement(f"w:{edge}")
+        edge_el.set(qn("w:val"), "single")
+        edge_el.set(qn("w:sz"), "4")  # 4 eighths-of-a-point = 0.5pt hairline
+        edge_el.set(qn("w:space"), "0")
+        edge_el.set(qn("w:color"), "999999")
+        borders.append(edge_el)
+    tbl_pr.append(borders)
+
+
 def main() -> None:
     subprocess.run(
         ["pandoc", "-o", str(DEFAULT_REFERENCE), "--print-default-data-file", "reference.docx"],
@@ -92,6 +117,10 @@ def main() -> None:
         title_style = doc.styles["Title"]
         title_style.font.color.rgb = BRAND_RED
         title_style.font.size = Pt(28)
+
+    doc.styles["Heading 1"].paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
+
+    add_thin_table_borders(doc)
 
     section = doc.sections[0]
     section.different_first_page_header_footer = True

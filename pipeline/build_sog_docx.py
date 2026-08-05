@@ -8,7 +8,7 @@ though its TOC field shows empty until whoever opens it updates fields
 (completely normal for an editable Word document).
 
 Usage: python build_sog_docx.py [output.docx]
-Requires: pandoc on PATH.
+Requires: pandoc on PATH, `pip install python-docx`.
 """
 
 from __future__ import annotations
@@ -18,7 +18,7 @@ import sys
 import tempfile
 from pathlib import Path
 
-from common import DOC_BASENAME, REFERENCE_DOCX, load_preprocessed_source
+from common import DOC_BASENAME, REFERENCE_DOCX, load_preprocessed_source, restyle_title_page
 
 
 def main() -> None:
@@ -49,6 +49,8 @@ def main() -> None:
         )
     finally:
         tmp_path.unlink(missing_ok=True)
+
+    restyle_title_page(out_path)
 
     print(f"Done -> {out_path}")
 

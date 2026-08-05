@@ -20,7 +20,7 @@ Two things this script does that build_sog_docx.py doesn't need to:
    https://github.com/jgm/pandoc/issues/458).
 
 Usage: python build_sog_pdf.py [output.pdf]
-Requires: pandoc and soffice (LibreOffice) on PATH.
+Requires: pandoc and soffice (LibreOffice) on PATH, `pip install python-docx`.
 """
 
 from __future__ import annotations
@@ -33,7 +33,13 @@ import tempfile
 from pathlib import Path
 from xml.sax.saxutils import escape as xml_escape
 
-from common import ASSETS_DIR, DOC_BASENAME, REFERENCE_DOCX, load_preprocessed_source
+from common import (
+    ASSETS_DIR,
+    DOC_BASENAME,
+    REFERENCE_DOCX,
+    load_preprocessed_source,
+    restyle_title_page,
+)
 
 TITLE_LINE_RE = re.compile(r"^(# .+)\n", re.MULTILINE)
 TITLE_LOGO_IMAGE = (ASSETS_DIR / "38-logo-title.png").as_posix()
@@ -169,6 +175,7 @@ def main() -> None:
         intermediate_docx = Path(tmp_dir) / "intermediate.docx"
         print("Building intermediate .docx ...")
         run_pandoc_to_docx(md_text, intermediate_docx)
+        restyle_title_page(intermediate_docx)
 
         print(f"Converting to {out_path} (LibreOffice headless + field-update macro) ...")
         convert_docx_to_pdf(intermediate_docx, out_path.resolve())

@@ -33,6 +33,9 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y pandoc libreoffice-writer
 
+      - name: Install Python dependencies
+        run: pip install python-docx
+
       - name: Build DOCX
         run: python3 pipeline/build_sog_docx.py
 

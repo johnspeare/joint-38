@@ -16,8 +16,10 @@ Officers of the department are responsible to ensure their subordinates understa
 
 The mission of the Joint Fire Protection District 3&8 is to minimize loss of life, property and the environment from fires, natural disasters, life threatening situations, and to assist other emergency agencies.
 
-| Our mission shall be accomplished through quality SERVICE delivery as follows: |  |
-| :---: | :---: |
+Our mission shall be accomplished through quality SERVICE delivery as follows:
+
+|  |  |
+| :---- | :---- |
 | **SAFETY:** | for the community we protect and the personnel that protect it. |
 | **EDUCATION:** | through programs for our residents and youth. |
 | **RESPONSIVENESS:** | to the suggestions, influences, appeals or efforts of others. |
@@ -1942,7 +1944,7 @@ Have you ever worn a respirator? Yes No If “yes,” what type(s)? \_\_\_\_\_\_
 ***Questions 1 through 9 must be answered by every employee who has been selected to use any type of respirator.***
 
 | \# | Question | Yes | No |
-| :---- | :---- | :---: | :---: |
+| :---- | :---- | :---- | :---- |
 | 1 | Do you *currently* smoke tobacco, or have you smoked tobacco in the last month? | ☐ | ☐ |
 | 2 | Have you *ever had* any of the following conditions? |  |  |
 | 2a | Seizures | ☐ | ☐ |
@@ -2010,7 +2012,7 @@ Have you ever worn a respirator? Yes No If “yes,” what type(s)? \_\_\_\_\_\_
 ***Questions 10 through 15 below must be answered by every employee who has been selected to use either a full-facepiece respirator or a self-contained breathing apparatus (SCBA). For employees who have been selected to use other types of respirators, answering these questions is voluntary.***
 
 | \# | Question | Yes | No |
-| :---- | :---- | :---: | :---: |
+| :---- | :---- | :---- | :---- |
 | 10 | Have you *ever lost* vision in either eye (temporarily or permanently) | ☐ | ☐ |
 | 11 | Do you *currently* have any of the following vision problems? |  |  |
 | 11a | Wear contact lenses | ☐ | ☐ |
@@ -2040,7 +2042,7 @@ Have you ever worn a respirator? Yes No If “yes,” what type(s)? \_\_\_\_\_\_
 *Any of the following questions, and other questions not listed, may be added to the questionnaire at the discretion of the health care professional who will review the questionnaire.*
 
 | \# | Question | Yes | No |
-| :---- | :---- | :---: | :---: |
+| :---- | :---- | :---- | :---- |
 | 1 | In your present job, are you working at high altitudes (over 5,000 feet) or in a place that has lower than normal amounts of oxygen? | ☐ | ☐ |
 | 1a | If “yes,” do you have feelings of dizziness, shortness of breath, pounding in your chest, or other symptoms when you are working under these conditions? | ☐ | ☐ |
 | 2 | At work or at home, have you ever been exposed to or come into skin contact with hazardous solvents, hazardous airborne chemicals (e.g., gases, fumes, or dust)? | ☐ | ☐ |
@@ -2048,7 +2050,7 @@ Have you ever worn a respirator? Yes No If “yes,” what type(s)? \_\_\_\_\_\_
 If “yes,” name the chemicals if you know them: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 | \# | Question | Yes | No |
-| :---- | :---- | :---: | :---: |
+| :---- | :---- | :---- | :---- |
 | 3 | Have you ever worked with any of the materials or under any of the conditions listed below: |  |  |
 | 3a | Asbestos | ☐ | ☐ |
 | 3b | Silica (e.g., in sandblasting) | ☐ | ☐ |
@@ -2072,7 +2074,7 @@ If “yes,” describe these exposures: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 6\. List your current and previous hobbies: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 | \# | Question | Yes | No |
-| :---- | :---- | :---: | :---: |
+| :---- | :---- | :---- | :---- |
 | 7 | Have you been in the military services? | ☐ | ☐ |
 | 7a | If “yes,” were you exposed to biological or chemical agents (either in training or combat) | ☐ | ☐ |
 | 8 | Have you ever worked on a HAZMAT team? | ☐ | ☐ |
@@ -2081,7 +2083,7 @@ If “yes,” describe these exposures: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 If “yes,” name the medications if you know them: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 | \# | Question | Yes | No |
-| :---- | :---- | :---: | :---: |
+| :---- | :---- | :---- | :---- |
 | 10 | Will you be using any of the following items with your respirator(s)? |  |  |
 | 10a | HEPA Filters | ☐ | ☐ |
 | 10b | Canisters (for example, gas masks) | ☐ | ☐ |
@@ -2090,7 +2092,7 @@ If “yes,” name the medications if you know them: \_\_\_\_\_\_\_\_\_\_\_\_\_\
 **11\.** How often are you expected to use the respirator(s) (check all that apply)?
 
 | a | Escape only (no rescue) | c | Less than 5 hours *per week* | e | 2 to 4 hours per day |
-| :---: | :---- | :---: | :---- | :---: | :---- |
+| :---- | :---- | :---- | :---- | :---- | :---- |
 | ☐ |  | ☐ |  | ☐ |  |
 | b | Emergency rescue only | d | Less than 2 hours *per day* | f | Over 4 hours per day |
 | ☐ |  | ☐ |  | ☐ |  |
@@ -2116,7 +2118,7 @@ Examples of heavy work are *lifting* a heavy load (about 50 lbs.) from the floor
 If “yes,” how long does this period last during the average shift: \_\_\_\_\_\_ hrs. \_\_\_\_\_\_ min.
 
 | \# | Question | Yes | No |
-| :---- | :---- | :---: | :---: |
+| :---- | :---- | :---- | :---- |
 | 13 | Will you be wearing protective clothing and/or equipment (other than the respirator) when you are using your respirator? | ☐ | ☐ |
 
 If “yes,” describe this protective clothing and/or equipment: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -2124,7 +2126,7 @@ If “yes,” describe this protective clothing and/or equipment: \_\_\_\_\_\_\_
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 | \# | Question | Yes | No |
-| :---- | :---- | :---: | :---: |
+| :---- | :---- | :---- | :---- |
 | 14 | Will you be working under hot conditions (temperature exceeding 77°F) | ☐ | ☐ |
 | 15 | Will you be working under humid conditions? | ☐ | ☐ |
 
@@ -2221,8 +2223,10 @@ Time of Event:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Witnesses:\_\_\_\_\_\_\
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-| TO BE COMPLETED ONLY IF INJURY |  |
-| :---: | :---: |
+**TO BE COMPLETED ONLY IF INJURY**
+
+|  |  |
+| :---- | :---- |
 | Type of injury sustained: |  |
 | Cause of injury: |  |
 | Was medical treatment or first aid necessary? | Yes\_\_\_\_\_ No\_\_\_\_\_<br>If yes, name of hospital or physician:<br>If First Aid, type of aid received: |
