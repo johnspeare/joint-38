@@ -39,6 +39,7 @@ from common import (
     REFERENCE_DOCX,
     load_preprocessed_source,
     restyle_title_page,
+    use_letters_for_nested_lists,
 )
 
 TITLE_LINE_RE = re.compile(r"^(# .+)\n", re.MULTILINE)
@@ -176,6 +177,7 @@ def main() -> None:
         print("Building intermediate .docx ...")
         run_pandoc_to_docx(md_text, intermediate_docx)
         restyle_title_page(intermediate_docx)
+        use_letters_for_nested_lists(intermediate_docx)
 
         print(f"Converting to {out_path} (LibreOffice headless + field-update macro) ...")
         convert_docx_to_pdf(intermediate_docx, out_path.resolve())

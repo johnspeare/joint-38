@@ -168,8 +168,8 @@ State and local laws provide certain exemptions for authorized emergency vehicle
 1. Appropriate audible and visible warning devices shall be in operation when responding to an emergency incident.  
 2. The driver shall maintain a speed that is safe under the prevailing conditions.  
 3. When approaching a controlled intersection (i.e. stop sign, traffic light):  
-   a. The driver of an authorized emergency vehicle may proceed past a stop sign or red light only after slowing down or stopping to ascertain that the intersection is clear.  
-   b. The driver of an authorized emergency vehicle may disregard regulations governing the direction of movement and turning in specific directions as long as he/she does not endanger life and/or property.
+   1. The driver of an authorized emergency vehicle may proceed past a stop sign or red light only after slowing down or stopping to ascertain that the intersection is clear.  
+   2. The driver of an authorized emergency vehicle may disregard regulations governing the direction of movement and turning in specific directions as long as he/she does not endanger life and/or property.
 
 #### School zone related driving
 
@@ -251,10 +251,10 @@ The member or unit establishing command initiates the command process with an in
 ### Transfer of Command
 
 1. The first arriving Unit on the scene will establish and CONTINUE COMMAND until transferred within the following guidelines:  
-   a. A face-to-face briefing between command, and the officer command is being transferred to, must be completed.  
-   b. The officer command is being transferred to is willing to accept the responsibilities of command.  
-   c. Under NO circumstances will command be transferred to a unit that is not on scene.  
-   d. Once the officer that command is being transferred to has been briefed, The Incident Command will advise dispatch that the officer taking command has been briefed and is now command of the Incident.  
+   1. A face-to-face briefing between command, and the officer command is being transferred to, must be completed.  
+   2. The officer command is being transferred to is willing to accept the responsibilities of command.  
+   3. Under NO circumstances will command be transferred to a unit that is not on scene.  
+   4. Once the officer that command is being transferred to has been briefed, The Incident Command will advise dispatch that the officer taking command has been briefed and is now command of the Incident.  
 2. The arrival of a ranking officer on the incident scene does not mean “command” has automatically been transferred.   
 
    Command is only transferred when the transfer of command process has been completed. In cases where an individual is effectively commanding the incident and satisfactory progress is being made to bring the incident under control, it may be desirable for that person to continue an active command role.   
@@ -523,8 +523,8 @@ Contaminated materials shall be handled as little as possible. When handling con
 #### Post-Exposure Evaluation and Follow-up
 
 1. Following a report of an exposure incident, the employer shall make immediately available to the exposed employee a confidential medical evaluation and follow-up, including at least the following elements:  
-   a. Documentation of the route(s) of exposure, and the circumstances under which the exposure incident occurred.  
-   b. Identification and documentation of the source individual, unless the employer can establish that identification is infeasible or prohibited by state or local law.  
+   1. Documentation of the route(s) of exposure, and the circumstances under which the exposure incident occurred.  
+   2. Identification and documentation of the source individual, unless the employer can establish that identification is infeasible or prohibited by state or local law.  
 2. The source individual's blood shall be tested as soon as feasible and after consent is obtained in order to determine HBV and HIV infectivity. If consent is not obtained, the employer shall establish that legally required consent cannot be obtained. When the source individual's consent is not required by law, the source individual's blood, if available, shall be tested and the results documented.  
 3. When the source individual is already known to be infected with HBV or HIV, testing for the source individual's known HBV or HIV status need not be repeated.  
 4. Results of the source individual's testing shall be made available to the exposed employee, and the employee shall be informed of applicable laws and regulations concerning disclosure of the identity and infectious status of the source individual.
@@ -534,8 +534,8 @@ Contaminated materials shall be handled as little as possible. When handling con
 1. The employer shall obtain and provide the employee with a copy of the evaluating healthcare professional's written opinion within 15 days of the completion of the evaluation.  
 2. The healthcare professional's written opinion for Hepatitis B vaccination shall be limited to whether Hepatitis B vaccination is indicated for an employee, and if the employee has received such vaccination.  
 3. The healthcare professional's written opinion for post-exposure evaluation and follow-up shall be limited to the following information:  
-   a. That the employee has been informed of the results of the evaluation  
-   b. That the employee has been told about any medical conditions resulting from exposure to blood or other potentially infectious materials which require further evaluation or treatment.  
+   1. That the employee has been informed of the results of the evaluation  
+   2. That the employee has been told about any medical conditions resulting from exposure to blood or other potentially infectious materials which require further evaluation or treatment.  
 4. All other findings or diagnoses shall remain confidential and shall not be included in the written report.  
 
 #### Communication of Hazards to Personnel
@@ -567,20 +567,20 @@ Contaminated materials shall be handled as little as possible. When handling con
 #### Record keeping
 
 1. Joint Fire Protection District 3&8 shall maintain a record for each employee who has occupational exposure in accordance with 29 CFR 1910.20. The record includes:  
-   a. The name and social security number of the firefighter, a copy of the firefighter's Hepatitis B vaccination status including the dates of all hepatitis vaccinations and any medical records relative to the firefighter's ability to receive the vaccination.  
-   b. A copy of all results of examinations, medical testing, and follow up procedures as required.  
-   c. The employer's copy of the health care professional's written opinion.  
-   d. A copy of the information provided to the health care professional.  
+   1. The name and social security number of the firefighter, a copy of the firefighter's Hepatitis B vaccination status including the dates of all hepatitis vaccinations and any medical records relative to the firefighter's ability to receive the vaccination.  
+   2. A copy of all results of examinations, medical testing, and follow up procedures as required.  
+   3. The employer's copy of the health care professional's written opinion.  
+   4. A copy of the information provided to the health care professional.  
 2. Medical records shall be kept confidential and shall not be disclosed to any person within or outside the Department, except as required by law, without the employee's written consent.  
 3. The records shall be maintained for the duration of employment plus 30 years in accordance with 29 CFR 1910.20.  
 
 #### Training Records
 
 1. Training records shall include the following information:  
-   a. The dates of the training.  
-   b. A summary of the training.  
-   c. The names and qualifications of the persons conducting the training.  
-   d. The names and job titles of all persons attending the training.  
+   1. The dates of the training.  
+   2. A summary of the training.  
+   3. The names and qualifications of the persons conducting the training.  
+   4. The names and job titles of all persons attending the training.  
 2. Training records shall be maintained for three years from the date on which the training occurred.  
 3. Firefighter training records will be provided upon request to the individual firefighter, and to anyone having written consent of the individual in accordance with 29 CFR 1910.20.
 
@@ -681,8 +681,8 @@ The following are not meant to preclude an Incident Commander from starting supp
 1. A rapid intervention team (RIT) shall consist of at least two members and shall be available for rescue of a department member or a team if the need arises. A RIT shall be fully equipped with the appropriate protective clothing, protective equipment, SCBA and any specialized rescue equipment that might be needed given the specifics of the operation under way.  
 2. The composition and structure of a RIT shall be permitted to be flexible based on the type of incident and the size and complexity of operations. The Incident Commander shall evaluate the situation and the risks to operating teams and shall provide one or more RITs commensurate with the needs of the situation.  
 3. In the early stages of the incident, which includes the deployment of a fire department’s initial attack assignment, the RIT shall be of either one of the following:  
-   a. On-scene members designated and dedicated as rapid intervention team(s).  
-   b. On-scene members performing other functions but ready to re-deploy to perform rapid intervention team functions. The assignment of any personnel shall not be permitted as members of the rapid intervention team if abandoning their critical task(s) to perform rescue clearly jeopardizes the safety and health of any member operating at the incident.  
+   1. On-scene members designated and dedicated as rapid intervention team(s).  
+   2. On-scene members performing other functions but ready to re-deploy to perform rapid intervention team functions. The assignment of any personnel shall not be permitted as members of the rapid intervention team if abandoning their critical task(s) to perform rescue clearly jeopardizes the safety and health of any member operating at the incident.  
 4. While working in IDLH atmospheres, during interior firefighting operations in fires that have progressed beyond the incipient stage, or hazmat operations, employees entering will work in teams having a minimum of two (2) persons who remain in visual or voice contact at all times.  
 5. Two firefighters shall be located outside the IDLH atmosphere as the RIT. Visual, voice, radio, or signal line communication will be maintained between the firefighters in the IDLH atmosphere and the firefighters located outside the IDLH atmosphere (RIT).  
 6. The firefighters located outside the IDLH atmosphere as the RIT shall be trained and equipped to provide an effective emergency rescue of the firefighters inside the IDLH.  
@@ -827,11 +827,11 @@ Fire department personnel shall ensure that respirators that fail an inspection 
 2. Repairs shall be made according to the manufacturer’s recommendations and specifications for the type and extent of repairs to be performed; and  
 3. SCBA repairs including but not limited to reducing and admission valves, regulators, and alarms shall be adjusted or repaired only by the manufacturer or a Department technician trained by the manufacturer or vendor supplying the equipment to the fire department.  
 4. All SCBA requiring repairs, or SCBA that fail inspections shall be tagged with a red out-of-service tag indicating the following:  
-   a. Date  
-   b. Station location  
-   c. SCBA unit identification  
-   d. Name of person(s) reporting the problem  
-   e. Brief description of the problem
+   1. Date  
+   2. Station location  
+   3. SCBA unit identification  
+   4. Name of person(s) reporting the problem  
+   5. Brief description of the problem
 5. The SCBA unit with the red tag affixed will be forwarded to safety officer for repair by the manufacturer or a department technician trained by the manufacturer.
 
 ### Inspections
@@ -965,19 +965,19 @@ The Department will also maintain records of employee training (e.g., date, atte
 This standard establishes schedule for the inspection and maintenance of all apparatus and equipment owned or operated by the department. It ensures that emergency response vehicles are maintained in a constant state of readiness. It implements a preventative maintenance schedule for all apparatus and establishes procedures for the daily inspection of apparatus, equipment, and support vehicles.
 
 1. Apparatus and equipment shall be:  
-   a. Maintained in a constant state of readiness.  
-   b. Refueled whenever the fuel level drops below 1/2 of a tank. Oil and ancillary fluid reservoirs shall also be kept full at all times.  
-   c. Kept clean at all times.  
+   1. Maintained in a constant state of readiness.  
+   2. Refueled whenever the fuel level drops below 1/2 of a tank. Oil and ancillary fluid reservoirs shall also be kept full at all times.  
+   3. Kept clean at all times.  
 2. All maintenance, both preventative and repair, shall be recorded in the appropriate vehicle logbook.  
 3. After each use  
-   a. Every vehicle used shall be inspected. The member performing the inspection shall record his findings in the appropriate vehicle logbook.  
-   b. The member performing the inspection shall correct the defects that are found provided that the member has the expertise, tools, and supplies to do so. The items that are corrected shall be noted in the comments section of the vehicle logbook.  
-   c. Defects that cannot immediately be corrected shall be noted in the vehicle logbook and reported to the Chief or Officer in Charge.  
-   d. If a defect requires that a vehicle be placed out of service, the person doing the Inspection shall notify the Chief or Officer in Charge.  
+   1. Every vehicle used shall be inspected. The member performing the inspection shall record his findings in the appropriate vehicle logbook.  
+   2. The member performing the inspection shall correct the defects that are found provided that the member has the expertise, tools, and supplies to do so. The items that are corrected shall be noted in the comments section of the vehicle logbook.  
+   3. Defects that cannot immediately be corrected shall be noted in the vehicle logbook and reported to the Chief or Officer in Charge.  
+   4. If a defect requires that a vehicle be placed out of service, the person doing the Inspection shall notify the Chief or Officer in Charge.  
 4. Weekly Inspections.  
-   a. All apparatus and equipment used shall be inspected weekly. The member performing the inspection shall record his findings in the appropriate vehicle logbook.  
-   b. Refueled whenever the fuel level drops below 1/2 of a tank. Oil and ancillary fluid reservoirs shall also be kept full at all times.  
-   c. All engine-powered equipment shall be run for a minimum of five minutes. Their fuel tanks shall be refilled whenever the level drops below 1/2 of a tank. The oil will be checked and oil shall be added if necessary
+   1. All apparatus and equipment used shall be inspected weekly. The member performing the inspection shall record his findings in the appropriate vehicle logbook.  
+   2. Refueled whenever the fuel level drops below 1/2 of a tank. Oil and ancillary fluid reservoirs shall also be kept full at all times.  
+   3. All engine-powered equipment shall be run for a minimum of five minutes. Their fuel tanks shall be refilled whenever the level drops below 1/2 of a tank. The oil will be checked and oil shall be added if necessary
 
 ## Lock Out/Tag Out
 
@@ -1095,22 +1095,22 @@ Ventilation
 
 1. Based upon the situation, ventilation may need to occur anytime during the operation.  
 2. Ventilation shall be employed to:  
-   a. Channel heat, smoke and flames from potential victims.  
-   b. To prevent backdraft and flashover.  
-   c. To remove heat and smoke from the building so to reduce property damage.  
-   d. To allow the interior of the structure to be more tenable and safer for fire fighting operations.
+   1. Channel heat, smoke and flames from potential victims.  
+   2. To prevent backdraft and flashover.  
+   3. To remove heat and smoke from the building so to reduce property damage.  
+   4. To allow the interior of the structure to be more tenable and safer for fire fighting operations.
 
 Salvage
 
 1. Salvage may need to begin at various points during a fire operation.  
 2. Salvage is those operations required to safeguard personal property, furnishings, and the unaffected portions of a structure from the effects of heat, smoke, fire and the weather.  
 3. Salvage should include:  
-   a. The use of salvage covers.  
-   b. Removing water from the structure.  
-   c. Removing furniture and personal belongings to a safe location.  
-   d. Debris removal.  
-   e. Removal of valuables from debris.  
-   f. Covering openings to keep weather out and to secure the building.
+   1. The use of salvage covers.  
+   2. Removing water from the structure.  
+   3. Removing furniture and personal belongings to a safe location.  
+   4. Debris removal.  
+   5. Removal of valuables from debris.  
+   6. Covering openings to keep weather out and to secure the building.
 4. All members are expected to perform in a manner that continually reduces loss during fire operations.
 
 Utility Control
@@ -1289,14 +1289,14 @@ Examples of activities and functions appropriate at the **AWARENESS** level incl
 
 1. A. The first-in unit should position the apparatus appropriately  
 2. The first arriving officer should establish command and complete an initial size-up including:  
-   a. Secure any witnesses  
-   b. Obtain the confined space entry permit and any other available information  
-   c. Location, number, condition of victims, and length of time in confined space  
-   d. Utility and other scene hazards – i.e. hazardous materials, low oxygen levels  
-   e. Type of work being performed in the confined space  
-   f. Type of PPE being used by victim(s)  
-   g. Determination of rescue or recovery mode  
-   h. Determination of additional resources needed
+   1. Secure any witnesses  
+   2. Obtain the confined space entry permit and any other available information  
+   3. Location, number, condition of victims, and length of time in confined space  
+   4. Utility and other scene hazards – i.e. hazardous materials, low oxygen levels  
+   5. Type of work being performed in the confined space  
+   6. Type of PPE being used by victim(s)  
+   7. Determination of rescue or recovery mode  
+   8. Determination of additional resources needed
 
 #### Scene Safety
 
@@ -1338,12 +1338,12 @@ Examples of activities and functions appropriate at this level include:
 
 1. The first-in unit should position the apparatus a minimum of 50’ from the location of the trench collapse. Additional arriving units should initially stage a minimum of 150’ from the location.  
 2. The first arriving officer should establish command and complete an initial size-up including:  
-   a. Secure any witnesses  
-   b. Location, number, condition of victims and how long buried  
-   c. Depth of trench  
-   d. Utility and other scene hazards  
-   e. Determination of rescue or recovery mode  
-   f. Determination of additional resources needed
+   1. Secure any witnesses  
+   2. Location, number, condition of victims and how long buried  
+   3. Depth of trench  
+   4. Utility and other scene hazards  
+   5. Determination of rescue or recovery mode  
+   6. Determination of additional resources needed
 
 #### Scene Safety
 
@@ -1398,10 +1398,10 @@ When a firefighter(s) become lost, trapped or experiences an equipment malfuncti
 3. **THE TERM “MAYDAY” WILL BE RESERVED ONLY TO REPORT LOST OR TRAPPED FIREFIGHTERS. THE TERM “EMERGENCY TRAFFIC” WILL BE USED TO REPORT ALL OTHER FIRE GROUND EMERGENCIES.**  
 4. **If a Mayday is heard, all other radio traffic on that channel will cease, until the Mayday operation is complete. The Incident Commander will then designate a new radio frequency for all unaffected fire ground units to switch to. The IC will also notify dispatch of the change in fire ground channels, and have dispatch announce this change.**  
 5. Radio Channels –  
-   a. Crews or personnel declaring a Mayday should remain on the assigned operations channel. Once contact is made with the IC, affected crew shall remain on that channel.  
-   b. After a Mayday is broadcast, the stricken firefighter(s), the Rapid Intervention Team, and the Safety Officer will stay on the designated channel, until resolution of the incident is achieved.  
-   c. All communications will be directed to the RIT officer. All non-affected companies shall switch to another channel as assigned by the IC and the communications center.  
-   d. All companies shall continue to operate in their originally assigned Division/Group.
+   1. Crews or personnel declaring a Mayday should remain on the assigned operations channel. Once contact is made with the IC, affected crew shall remain on that channel.  
+   2. After a Mayday is broadcast, the stricken firefighter(s), the Rapid Intervention Team, and the Safety Officer will stay on the designated channel, until resolution of the incident is achieved.  
+   3. All communications will be directed to the RIT officer. All non-affected companies shall switch to another channel as assigned by the IC and the communications center.  
+   4. All companies shall continue to operate in their originally assigned Division/Group.
 6. Activate PASS Device – As soon as a firefighter recognizes he/she is lost or trapped, the PASS device must be manually activated to sound the audible tone. If the device interferes with radio communications it may be turned off temporarily. Once messages are completed, the device must again be manually activated.  
 7. Crews Stay Together – Members that separate from each other make it more difficult for rescuers to locate all members of the crew. Crew members who stay together enhance their chances for all to be rescued and allows for easier, more efficient extraction  
 8. Follow Hose or Lifeline Out - Crew members should stay with the hose line and follow it out whenever possible. The hose line should always be treated as the safety line to the outside. The RIT team may follow the hose line into the structure to locate distressed firefighters. Where lifeline ropes are in use, follow the life line to the outside.  
@@ -1473,9 +1473,9 @@ Rehab should be in a location that will provide physical rest by allowing person
 #### Rehab period
 
 1. All personnel involved in emergency operations should be routinely evaluated in rehab. The following criteria should be used as a general guideline:  
-   a. After the use of two 30 minute SCBA cylinders  
-   b. After use of a single 45 or 60 minute SCBA cylinder  
-   c. After 40 minutes of intense work without SCBA
+   1. After the use of two 30 minute SCBA cylinders  
+   2. After use of a single 45 or 60 minute SCBA cylinder  
+   3. After 40 minutes of intense work without SCBA
 
    \*However, extreme weather or strenuous working conditions may decrease the intervals.
 
@@ -1491,12 +1491,12 @@ Rehab should be in a location that will provide physical rest by allowing person
 #### Medical evaluation
 
 1. EMS personnel assigned to rehab shall have the authority to use their professional judgment to keep members in rehab or to transport them for further medical evaluation or treatment. EMS personnel shall be alert for the following:  
-   a. Complaints of chest pain, dizziness, shortness of breath, weakness, nausea, or headache  
-   b. General complaints such as cramps, aches, and pains  
-   c. Symptoms of heat or cold related stress  
-   d. Changes in gait, speech, or behavior  
-   e. Changes in alertness and orientation to person, place, time  
-   f. Vital signs considered abnormal based on local EMS protocols
+   1. Complaints of chest pain, dizziness, shortness of breath, weakness, nausea, or headache  
+   2. General complaints such as cramps, aches, and pains  
+   3. Symptoms of heat or cold related stress  
+   4. Changes in gait, speech, or behavior  
+   5. Changes in alertness and orientation to person, place, time  
+   6. Vital signs considered abnormal based on local EMS protocols
 2. Personnel who are symptomatic or with abnormal findings shall receive additional monitoring during rehabilitation
 
 #### Accountability
@@ -1527,10 +1527,10 @@ Qualified Firefighter: Any individual possessing a minimum of a Washington State
 
 1. A Rapid Intervention Team (a minimum of 2 qualified firefighters) will be established when operations are being performed in an IDLH atmosphere as soon as is practicable.  
 2. The establishment of a RIT is the responsibility if the Incident Commander and preferably will consist of more than the minimum of two members. The decision will be based on the following:  
-   a. Incident type.  
-   b. Building construction.  
-   c. Size of building.  
-   d. Number of personnel operating within the IDLH atmosphere.
+   1. Incident type.  
+   2. Building construction.  
+   3. Size of building.  
+   4. Number of personnel operating within the IDLH atmosphere.
 
 \*Note: These are not meant to be limiting factors when establishing the RIT.
 
@@ -1541,20 +1541,20 @@ Qualified Firefighter: Any individual possessing a minimum of a Washington State
 #### RIT Responsibilities
 
 1. Immediately after being established the RIT leader will perform their incident evaluation/size-up. The purpose of this is to assess the following:  
-   a. Construction type of the building.  
-   b. Building size (large structures may require more than one RIT).  
-   c. Structural integrity.  
-   d. Access/egress points.
+   1. Construction type of the building.  
+   2. Building size (large structures may require more than one RIT).  
+   3. Structural integrity.  
+   4. Access/egress points.
 
    Upon completion of their evaluation, the RIT leader may make recommendations to the incident commander concerning deployment of the RIT (i.e. laddering the building, the need of more than one team, etc.)
 
 2. Organize/procure the appropriate equipment necessary to affect a rescue of a lost, trapped, or disoriented member. The equipment chosen shall be influenced by the type of building construction, but a minimum should consist of the following:  
-   a. A complete SCBA (regulator, face piece, air cylinder and frame).  
-   b. Lifeline  
-   c. Forcible entry, cutting and breaking tools.  
-   d. Appropriate lighting.  
-   e. Portable radio.  
-   f. Small hand tools (pliers, wire cutters…)
+   1. A complete SCBA (regulator, face piece, air cylinder and frame).  
+   2. Lifeline  
+   3. Forcible entry, cutting and breaking tools.  
+   4. Appropriate lighting.  
+   5. Portable radio.  
+   6. Small hand tools (pliers, wire cutters…)
 
    \*Note: these are only suggestions for the minimum equipment that will be needed and should not be a limiting factor in selecting the equipment for use.
 
@@ -1571,58 +1571,58 @@ It is the policy of the Joint Fire Protection District 3&8 to provide the highes
 
 1. A Health and Safety Officer shall be appointed and will be responsible for managing the Departments safety program and shall report to the Fire Chief or his designee.  
 2. The Health and Safety Officer duties shall include, but not be limited to:  
-   a. Chair the Safety Committee by preparing meeting agendas and notices.  
-   b. Act as the Incident Safety Officer at incidents, if needed.  
-   c. Provide input on equipment and protective clothing safety.  
-   d. Manage the safety inspection program.  
-   e. Assist with the investigation of all accidents, injuries and exposures.  
-   f. Maintain accident, injury and exposure statistics.  
-   g. Make recommendations to reduce or eliminate accidents, injuries or exposures.  
-   h. Provide for safety education to all Department members.  
+   1. Chair the Safety Committee by preparing meeting agendas and notices.  
+   2. Act as the Incident Safety Officer at incidents, if needed.  
+   3. Provide input on equipment and protective clothing safety.  
+   4. Manage the safety inspection program.  
+   5. Assist with the investigation of all accidents, injuries and exposures.  
+   6. Maintain accident, injury and exposure statistics.  
+   7. Make recommendations to reduce or eliminate accidents, injuries or exposures.  
+   8. Provide for safety education to all Department members.  
 3. The Health and Safety Officer qualifications.  
-   a. The Health and Safety Officer will have and maintain knowledge of current applicable laws, codes and standards regulating occupational safety and health to the fire service.  
-   b. The Health and Safety Officer will have and maintain knowledge of occupational safety and health hazards involved in emergency operations.  
-   c. The Health and Safety Officer will have and maintain knowledge of current principles and techniques of safety management.  
-   d. The Health and Safety Officer will have and maintain knowledge of current health maintenance and physical fitness issues that affect the fire service members.  
+   1. The Health and Safety Officer will have and maintain knowledge of current applicable laws, codes and standards regulating occupational safety and health to the fire service.  
+   2. The Health and Safety Officer will have and maintain knowledge of occupational safety and health hazards involved in emergency operations.  
+   3. The Health and Safety Officer will have and maintain knowledge of current principles and techniques of safety management.  
+   4. The Health and Safety Officer will have and maintain knowledge of current health maintenance and physical fitness issues that affect the fire service members.  
 4. The Health and Safety Officer will have the responsibility to identify and cause correction of safety and health hazards.  
 5. The Health and Safety Officer will have the authority to cause immediate correction of situations that create an imminent hazard to members.  
 6. Where no imminent hazards are identified, the Health and Safety Officer shall develop actions to correct the situation within the administrative process of the Department. The Health and Safety Officer shall have the authority to bring notice of such hazards to whom ever has the ability to cause correction.  
 7. Functions of the Health and Safety Office will include, but not be limited to:  
-   a. Development, implementation, and management of a written risk management plan.  
-   b. Development, review and revision of rules, regulations and standard operating procedures pertaining to the Department occupational safety and health program and that ensure compliance to acceptable standards.  
-   c. Ensure training in safety procedures relating to all Department operations and functions is provided to all members.  
-   d. Manage an accident prevention program.  
-   e. Review specifications for new apparatus, equipment, protective clothing and protective equipment for compliance with applicable safety standards.  
-   f. Submit recommendations on occupational safety and health to the Fire Chief or his designee.  
-   g. Ensure that the Departments infection control program meets or exceeds the requirements of 29CFR1910.1030, Occupational Exposure to Blood borne Pathogens  
-   h. Establish a critical incident stress management program.
+   1. Development, implementation, and management of a written risk management plan.  
+   2. Development, review and revision of rules, regulations and standard operating procedures pertaining to the Department occupational safety and health program and that ensure compliance to acceptable standards.  
+   3. Ensure training in safety procedures relating to all Department operations and functions is provided to all members.  
+   4. Manage an accident prevention program.  
+   5. Review specifications for new apparatus, equipment, protective clothing and protective equipment for compliance with applicable safety standards.  
+   6. Submit recommendations on occupational safety and health to the Fire Chief or his designee.  
+   7. Ensure that the Departments infection control program meets or exceeds the requirements of 29CFR1910.1030, Occupational Exposure to Blood borne Pathogens  
+   8. Establish a critical incident stress management program.
 
 ### Incident Safety Officer
 
 1. An Incident Safety Officer should meet the following requirements:  
-   a. Will have the knowledge, skill and ability to manage incident scene safety.  
-   b. Will have and maintain a knowledge of safety and health hazards involved in emergency operations.  
-   c. Will have and maintain a knowledge of building construction.  
-   d. Will have and maintain a knowledge of the Departments Personnel Accountability System.  
-   e. Will have and maintain knowledge of incident scene rehabilitation.  
+   1. Will have the knowledge, skill and ability to manage incident scene safety.  
+   2. Will have and maintain a knowledge of safety and health hazards involved in emergency operations.  
+   3. Will have and maintain a knowledge of building construction.  
+   4. Will have and maintain a knowledge of the Departments Personnel Accountability System.  
+   5. Will have and maintain knowledge of incident scene rehabilitation.  
 2. The Incident Safety Officer will have the authority at an emergency incident where activities are judged by the Officer to be unsafe or to involve an imminent hazard, have the authority to alter, suspend, or terminate those activities. The Incident Safety Officer will immediately inform the Incident Commander of any actions taken to correct imminent hazards at the emergency scene.  
 3. At an emergency incident where an Incident Safety Officer identifies unsafe conditions, operations, or hazards that do not present an imminent danger, the Incident Safety Officer shall take appropriate action through the Incident Commander to mitigate or eliminate the unsafe condition, operation, or hazard at the incident scene.  
 4. Functions of the Incident Safety Officer will include, but not be limited to:  
-   a. Be integrated with the incident management system as a command staff member  
-   b. Shall monitor conditions, activities and operations to determine whether they fall within the criteria as defined in the Departments risk management plan  
-   c. Will ensure that the Incident Commander establishes an incident scene rehabilitation tactical level management unit during emergency operations  
-   d. Will monitor the scene and report the status of conditions, hazards and risks to the Incident Commander  
-   e. Will ensure that the Departments Personnel Accountability System is being utilized  
-   f. Will obtain the incident action plan from the Incident Commander and will provide the Incident Commander with a risk assessment of incident scene operations  
-   g. Ensure that established safety zones, collapse zones hot zone and other designated hazard areas are communicated to all members present on scene  
-   h. Will evaluate motor vehicle scene traffic hazards and apparatus placement and take appropriate actions to mitigate hazards  
-   i. Monitor radio transmissions and stay alert to transmission barriers that could result in missed, unclear or incomplete communication  
-   j. Survey and evaluate the hazards associated with the designation of a landing zone and interface with helicopters  
-   k. Shall ensure that a Rapid Intervention Team is available and ready for deployment  
-   l. Where a fire has involved a building or buildings, shall advise the Incident Commander of hazards, potential collapse and any fire extension in such building(s)  
-   m. Will evaluate visible smoke and fire conditions and advise the Incident Commander, tactical level management unit officers and company officers on the potential for flashover, backdraft, blow-up or other fire event that could pose a threat to operating teams  
-   n. Monitor accessibility of entry and egress of structures and the effect it has on the safety of members conducting interior operations  
-   o. Assist with safety management of Hazardous Materials events
+   1. Be integrated with the incident management system as a command staff member  
+   2. Shall monitor conditions, activities and operations to determine whether they fall within the criteria as defined in the Departments risk management plan  
+   3. Will ensure that the Incident Commander establishes an incident scene rehabilitation tactical level management unit during emergency operations  
+   4. Will monitor the scene and report the status of conditions, hazards and risks to the Incident Commander  
+   5. Will ensure that the Departments Personnel Accountability System is being utilized  
+   6. Will obtain the incident action plan from the Incident Commander and will provide the Incident Commander with a risk assessment of incident scene operations  
+   7. Ensure that established safety zones, collapse zones hot zone and other designated hazard areas are communicated to all members present on scene  
+   8. Will evaluate motor vehicle scene traffic hazards and apparatus placement and take appropriate actions to mitigate hazards  
+   9. Monitor radio transmissions and stay alert to transmission barriers that could result in missed, unclear or incomplete communication  
+   10. Survey and evaluate the hazards associated with the designation of a landing zone and interface with helicopters  
+   11. Shall ensure that a Rapid Intervention Team is available and ready for deployment  
+   12. Where a fire has involved a building or buildings, shall advise the Incident Commander of hazards, potential collapse and any fire extension in such building(s)  
+   13. Will evaluate visible smoke and fire conditions and advise the Incident Commander, tactical level management unit officers and company officers on the potential for flashover, backdraft, blow-up or other fire event that could pose a threat to operating teams  
+   14. Monitor accessibility of entry and egress of structures and the effect it has on the safety of members conducting interior operations  
+   15. Assist with safety management of Hazardous Materials events
 
 ### Health and Safety Committee
 
@@ -1630,17 +1630,17 @@ It is the policy of the Joint Fire Protection District 3&8 to provide the highes
 2. The Health and Safety Officer shall report bi-annually to the Health and Safety Committee on the impact and implementation of the Safety Program and on the effectiveness of any specific program actions.  
 3. The Health and Safety Committee will also act as a fact-finding and review entity with the authority to cause immediate corrective action when any hazardous condition or practice is detected or reported.  
 4. The Health and Safety Committee will:  
-   a. Meet at least bi-annually to review safety issues and concerns.  
-   b. Review effectiveness of safety activities.  
-   c. Develop and implement safety procedures.  
-   d. Make a written record of its meetings available to all fire fighters in the fire department.  
+   1. Meet at least bi-annually to review safety issues and concerns.  
+   2. Review effectiveness of safety activities.  
+   3. Develop and implement safety procedures.  
+   4. Make a written record of its meetings available to all fire fighters in the fire department.  
 5. The Health and Safety Committee may include:  
-   a. Fire Chief  
-   b. Assistant Fire Chief  
-   c. Department Training Officer  
-   d. Health and Safety Officer  
-   e. Incident Safety Officers  
-   f. Firefighters
+   1. Fire Chief  
+   2. Assistant Fire Chief  
+   3. Department Training Officer  
+   4. Health and Safety Officer  
+   5. Incident Safety Officers  
+   6. Firefighters
 
 ## Injury and Illness Reporting
 

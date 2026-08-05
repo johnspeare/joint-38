@@ -18,7 +18,13 @@ import sys
 import tempfile
 from pathlib import Path
 
-from common import DOC_BASENAME, REFERENCE_DOCX, load_preprocessed_source, restyle_title_page
+from common import (
+    DOC_BASENAME,
+    REFERENCE_DOCX,
+    load_preprocessed_source,
+    restyle_title_page,
+    use_letters_for_nested_lists,
+)
 
 
 def main() -> None:
@@ -51,6 +57,7 @@ def main() -> None:
         tmp_path.unlink(missing_ok=True)
 
     restyle_title_page(out_path)
+    use_letters_for_nested_lists(out_path)
 
     print(f"Done -> {out_path}")
 

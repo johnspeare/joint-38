@@ -18,6 +18,8 @@ source and need the same two fixups before handing it to Pandoc:
 from __future__ import annotations
 
 import re
+import shutil
+import zipfile
 from pathlib import Path
 
 from docx import Document
@@ -96,3 +98,35 @@ def restyle_title_page(docx_path: Path) -> None:
     image_paragraph._p.addnext(revision_p._p)
 
     doc.save(str(docx_path))
+
+
+_LEVEL_1_LIST_RE = re.compile(r'<w:lvl w:ilvl="1">.*?</w:lvl>', re.DOTALL)
+
+
+def use_letters_for_nested_lists(docx_path: Path) -> None:
+    """Render the 2nd level of every ordered list ("a. b. c.") instead of decimal.
+
+    The Markdown source encodes nested list items as real nested ordered
+    lists (`   1.`, `   2.`, ...) — CommonMark/GFM has no letter-marker list
+    syntax, so writing literal "a." "b." in the source doesn't produce real
+    list items at all; Pandoc (and GitHub) just treat them as continuation
+    text of the parent item with no extra indentation. The numbered-vs-
+    lettered visual distinction the source markdown wants is instead applied
+    here, in the docx's own numbering definitions, which Word supports
+    natively via `w:numFmt`. Pandoc generates numbering.xml fresh for every
+    build (it isn't inherited from reference.docx), so this has to run as a
+    post-process step on each generated docx, not baked into the template.
+    """
+    tmp_path = docx_path.with_suffix(docx_path.suffix + ".tmp")
+    with zipfile.ZipFile(docx_path, "r") as src, zipfile.ZipFile(tmp_path, "w", zipfile.ZIP_DEFLATED) as dst:
+        for item in src.infolist():
+            data = src.read(item.filename)
+            if item.filename == "word/numbering.xml":
+                xml_text = data.decode("utf-8")
+                xml_text = _LEVEL_1_LIST_RE.sub(
+                    lambda m: m.group(0).replace('w:val="decimal"', 'w:val="lowerLetter"', 1),
+                    xml_text,
+                )
+                data = xml_text.encode("utf-8")
+            dst.writestr(item, data)
+    shutil.move(str(tmp_path), str(docx_path))
