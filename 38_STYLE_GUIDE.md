@@ -21,8 +21,10 @@ You SHALL NOT silently invent policy, legal requirements, operational capabiliti
 
 This document has two kinds of content, and they should not be confused:
 
-- **Sections 1–9 and 12–17** govern the AI's **editorial conduct** — how it behaves while editing or drafting.
+- **Sections 1–9, 12–18** govern the AI's **editorial conduct** — how it behaves while editing or drafting.
 - **Sections 10–11** govern **substantive content requirements** — rules about what a geographic/dispatch-verification SOG should actually say. These are a special case: they define correct operational content in a domain (address and jurisdiction handling) where the AI is expected to apply directly, rather than merely enforcing process on user-supplied text.
+
+Section 18 (Markdown Formatting Rules) is mechanical, not editorial judgment — it governs the literal Markdown syntax the AI writes, independent of what the SOG says. Read it before making any edit to the source file; formatting mistakes there are silent (they don't break Markdown rendering visibly, they just fail to become real structure — see 18.1) and are otherwise easy to introduce without noticing.
 
 ---
 
@@ -828,3 +830,92 @@ The AI SHALL follow this priority order:
 The goal is not merely to make an SOG sound authoritative.
 
 The goal is to produce language that is **clear enough to use, precise enough to train from, realistic enough to operate under, and disciplined enough to survive careful human review.**
+
+---
+
+## 18. MARKDOWN FORMATTING RULES
+
+The source file (`sog-1st-pass.md`) is plain GitHub-Flavored Markdown (GFM). It feeds a build pipeline (`pipeline/`) that produces a print-ready PDF and an editable DOCX, and — separately — is read directly on GitHub and by a future offline web app. **Every rule below exists because GFM, Word, and GitHub each interpret certain constructs differently, or don't support them at all**, and the specific mistakes described here are ones that have actually occurred in this project. Follow them exactly; do not "improve" on them without flagging the change.
+
+Before returning any edit, re-read the diff against this section's checklist (18.7).
+
+### 18.1 Ordered lists: digits only. Never write "a." "b." "c." as literal text.
+
+CommonMark/GFM ordered-list markers must be digits (`1.`, `2.`, ...). There is no letter-marker list syntax. Writing `a.` or `b.` as literal text does **not** create a list item — it silently becomes run-on continuation text of the previous item, with no indentation, on GitHub, in Pandoc, and everywhere else. This is not a cosmetic quibble: it happened in this exact file and produced 136 broken "lists" that were actually unindented walls of text.
+
+Nest a sub-list by indenting a new numbered list **3 spaces** under the parent item's marker, and restart numbering at `1` for each nested run:
+
+GOOD:
+```
+1. Parent item text.
+   1. Child item one.
+   2. Child item two.
+2. Next parent item.
+```
+
+BAD — do not do this under any circumstances:
+```
+1. Parent item text.
+a. Child item one.
+b. Child item two.
+```
+
+The document's "numbers, then letters for the nested level" visual style is applied automatically by the build pipeline (`pipeline/common.py`'s `use_letters_for_nested_lists`, which sets the Word numbering format at build time) — it operates on real nested numbered lists. The source must never contain literal letter markers; there is nothing for you to do to produce the lettered look except nest the list correctly.
+
+### 18.2 Lists are tight: no blank line between items
+
+Do not put a blank line between consecutive list items:
+
+GOOD:
+```
+1. First requirement.
+2. Second requirement.
+3. Third requirement.
+```
+
+BAD:
+```
+1. First requirement.
+
+2. Second requirement.
+
+3. Third requirement.
+```
+
+A blank line between items is only appropriate when an item's own content genuinely has multiple paragraphs and you need that visual break within a single item — not between separate items.
+
+### 18.3 Headings: sentence case or Title Case, never ALL CAPS, never a trailing colon
+
+- No ALL-CAPS section headings. If restructuring a heading that was ALL CAPS, convert it to Title Case.
+- No trailing colon on any heading (`### Training:` → `### Training`).
+- Use the existing hierarchy: `##` for major sections, `###` for subsections, `####` only for the sub-subsection depth already used under `## Incident Guidelines`. Don't introduce a new heading depth.
+- Two acceptable exceptions already in the document: `MAYDAY` and `NFPA.` — these are a distress-call keyword and an acronym, not descriptive titles that need casing fixed.
+
+### 18.4 Tables
+
+- Use GFM pipe tables.
+- Every column alignment row must be left-aligned: `| :---- | :---- |`. Do not use center (`:---:`) or right (`----:`) alignment — it looks fine in a plain HTML render but reads oddly once Word applies its own header-row styling on top of it.
+- Never put a descriptive sentence in a table's header-row cell (e.g., a cell that just says "Our mission shall be accomplished through quality SERVICE delivery as follows:"). Word renders header rows with disproportionate emphasis, so a sentence living there looks like a shouted title. Instead: put that sentence as a normal paragraph immediately before the table, and give the table blank header cells (`|  |  |`) if it has no real column labels. Keep real column labels (`Task`, `Required PPE`, `#`, `Question`) in the header row when the table actually has them.
+- Tables get hairline borders automatically from the build pipeline's reference template — don't try to add borders or styling in the Markdown itself.
+
+### 18.5 Don't escape characters that don't need escaping
+
+Only backslash-escape a character when it would otherwise be misread as Markdown syntax in that exact context (e.g., `18\.` for the literal text "18." appearing mid-paragraph where it isn't a list marker). Do not add `\_`, `\-`, `\#`, `\(`, `\)`, etc. defensively or out of habit — most of this document's escaping cruft came from a lossy Google-Docs round-trip, and cleaning it up (not adding more of it) has been an explicit, ongoing effort.
+
+The long `\_\_\_\_\_\_\_\_` fill-in-the-blank runs in the appendices are an existing, intentional pattern (they render as a blank line to write on). Leave those exactly as they are.
+
+### 18.6 Images
+
+- Reference images with plain `![alt text](FD-SOGs-assets/filename.ext)` syntax. Don't wrap images in raw HTML, and don't add `{width=...}` / `{height=...}` attributes in the source — sizing is a build-pipeline concern (e.g., the Chain of Command diagram's height cap lives in `pipeline/common.py`, not in the Markdown). If a new image you're adding needs specific sizing, say so in a note rather than guessing at pipeline-specific syntax.
+- Do not introduce raw HTML or HTML comments anywhere in the source for any reason. The build pipeline injects raw OOXML for the PDF's title page/TOC placement, but only into a disposable temporary copy at build time — it must never appear in the tracked source file.
+
+### 18.7 Self-check before finishing
+
+Before returning edited Markdown, verify:
+
+- No line matches `^\s+[a-z]\. ` (a lettered list marker — see 18.1).
+- No list item is followed by a blank line before the next item, unless that item is genuinely multi-paragraph (see 18.2).
+- No heading is ALL CAPS (other than `MAYDAY` / `NFPA.`) or ends in `:` (see 18.3).
+- Every table's alignment row uses only `:----` (see 18.4).
+- No new backslash-escaped characters that weren't already necessary (see 18.5).
+- No raw HTML, HTML comments, or `{width=...}`/`{height=...}` image attributes anywhere in the file (see 18.6).
