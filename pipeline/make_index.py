@@ -14,6 +14,7 @@ from common import DOC_BASENAME
 
 PDF_NAME = f"{DOC_BASENAME}.pdf"
 DOCX_NAME = f"{DOC_BASENAME}.docx"
+SOURCE_URL = "https://github.com/johnspeare/joint-38/blob/main/sog-1st-pass.md"
 
 HTML = f"""<!DOCTYPE html>
 <html lang="en">
@@ -26,16 +27,17 @@ HTML = f"""<!DOCTYPE html>
   h1 {{ color: #8B0000; font-size: 1.4rem; }}
   a {{ color: #8B0000; }}
   ul {{ line-height: 2; }}
-  .draft {{ color: #a00; font-weight: bold; }}
+  .soon {{ color: #555; font-style: italic; }}
 </style>
 </head>
 <body>
 <h1>Joint Fire Protection District 3 &amp; 8 — Standard Operating Guidelines</h1>
-<p class="draft">DRAFT — built automatically from the Markdown source on every push.</p>
 <ul>
   <li><a href="{quote(PDF_NAME)}">{PDF_NAME}</a> — print-ready</li>
   <li><a href="{quote(DOCX_NAME)}">{DOCX_NAME}</a> — editable</li>
+  <li><a href="{SOURCE_URL}">Markdown source</a></li>
 </ul>
+<p class="soon">Coming soon: Offline mobile web app version</p>
 </body>
 </html>
 """
