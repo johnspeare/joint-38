@@ -216,17 +216,28 @@ Pandoc's HTML tables from the docx source use `<tr><td>` for headers (no `<thead
 
 ---
 
-## 10. Project roadmap (as of 2026-07-29)
+## 10. Project roadmap (updated 2026-08-05)
 
-The project now has a git repo (`main` branch), to be pushed to GitHub. Phases, in order:
+The project is on GitHub at `johnspeare/joint-38` (public — required for GitHub Pages on the free plan). Phases:
 
-1. **Manual formatting cleanup pass (user, in progress).** The user is taking a first pass over `FD SOGs.md` by hand to fix formatting issues that aren't reliably detectable/fixable by script or agent (as opposed to the deterministic F1–F4 items in `open-issues.md`). Wait for this to land before doing further format work on the same regions.
-2. **Editing pass using `38_STYLE_GUIDE.md`.** Once formatting is settled, apply the style guide as the ruleset to make the SOG language authoritative, imperative, and rural-context-aware. This is the content-editing phase referenced in `38_STYLE_GUIDE.md`'s own header — do not start it early.
-3. **Output refinement.** Build/refine the publishable outputs from the clean, styled markdown:
-   - **PDF** — via `build_sog_pdf.py` (already working, see [§5](#5-build-pipeline)).
-   - **Offline-capable web app** — responsive across all devices (desktop/tablet/mobile), works offline (likely a PWA — service worker + cached assets, installable). Not started. Do not start until phases 1–2 are done and the user asks for it.
+1. **Manual + agent-assisted formatting cleanup pass — done.** `sog-1st-pass.md` (superseded `FD SOGs.md` as the source of truth) has standardized headings, lists (including nested-list letters, which are applied at build time, not in the source — see below), and tables. Tagged and released as `formatting-baseline` (`git reset --hard formatting-baseline` to return to this exact state; see the release notes on GitHub for what is and isn't covered). Content is still unedited/native to the original source at this tag — no editorial work has happened yet.
+2. **Editing pass using `38_STYLE_GUIDE.md`.** Not started. This is the content-editing phase — modal terms (SHALL/SHOULD/MAY), rural-department realism, flagging invented/unverifiable claims, etc. Uses the review-ingestion pipeline below to bring reviewer edits back in.
+3. **Output refinement — done, iterate as needed.** `pipeline/` (Pandoc + LibreOffice, replacing the old WeasyPrint `build_sog_pdf.py` at the repo root, which is kept for local formatting experiments only — not part of the live pipeline) builds print-ready PDF and editable DOCX from `sog-1st-pass.md` on every push to `main`, published via GitHub Actions to GitHub Pages: https://johnspeare.github.io/joint-38/. Offline web app: not started, deliberately deferred until phase 2 lands (see `WEB_APP_NOTES.md`).
 
-**CI/publishing plan:** repo will be hosted on GitHub. `FD-SOGs.pdf` is gitignored — it's a build artifact, not committed. We still build it locally during iteration to preview before pushing. Eventually a CI job (GitHub Actions, on push/check-in) will run the build script(s) and publish the generated assets (PDF, and later the web app) rather than committing them to the repo. CI wiring itself is not done yet.
+### Review-ingestion pipeline (planned, not yet built)
+
+Phase 2 will route through human reviewers in Google Docs, not directly in Markdown — Google Docs' Markdown import/export is lossy (this is exactly what produced the formatting mess `sog-1st-pass.md` started from: escaped underscores, lost images, flattened lists). Its **.docx** round-trip is much higher fidelity, so the plan is:
+
+1. `pipeline/build_sog_docx.py` generates the review copy. It gets uploaded to Google Docs; reviewers edit natively there (comments/suggestions, real Word-style editing, no Markdown involved).
+2. Reviewer resolves/accepts all suggestions in Google Docs, then downloads the final `.docx` and drops it into a folder (mechanism/location TBD when this is actually built).
+3. A script:
+   - Grabs the round-trip baseline from git — i.e., regenerates the *same* pre-review `.docx` from whatever commit was used to produce the reviewer's copy, so the comparison is apples-to-apples even if `main` has moved on since.
+   - Converts both the baseline and the dropped-in reviewed `.docx` to Markdown via `pandoc --from=docx --to=gfm`.
+   - Diffs the two. Because both went through the identical mechanical conversion, the diff isolates genuine editorial changes from Pandoc's own formatting choices (which would otherwise dominate a diff against the hand-maintained `sog-1st-pass.md`).
+   - Fixes up the isolated changes to match `sog-1st-pass.md`'s conventions (tight lists, no stray escaping, etc.) before merging — not a blind patch apply.
+4. Rebuild both outputs, spot-check, commit referencing the review round.
+
+Deliberately not built until the first real reviewed `.docx` comes back — no value in engineering the fixup step against a hypothetical diff.
 
 ---
 
@@ -234,22 +245,23 @@ The project now has a git repo (`main` branch), to be pushed to GitHub. Phases, 
 
 ```bash
 # See the shape of the doc:
-rg -c "^# |^## |^### |^#### " "FD SOGs.md"
+rg -c "^# |^## |^### |^#### " sog-1st-pass.md
 
 # List all H2 sections:
-rg -n "^## " "FD SOGs.md"
+rg -n "^## " sog-1st-pass.md
 
 # Full-doc word count:
-wc -w "FD SOGs.md"
+wc -w sog-1st-pass.md
 
-# Detect pandoc leftover patterns (F1, F2, F4):
-rg -c "<!-- -->" "FD SOGs.md"          # F1: list separators
-rg -n "^<table" "FD SOGs.md"           # F2: HTML tables
-rg -n '^[0-9]+\\\.' "FD SOGs.md"       # F4: escaped ordered-list markers
+# Rebuild both outputs (needs pandoc + soffice on PATH, python-docx installed):
+.venv/bin/python pipeline/build_sog_docx.py
+.venv/bin/python pipeline/build_sog_pdf.py
 
-# Rebuild PDF:
-.venv/bin/python build_sog_pdf.py
+# Preview a PDF page range:
+pdftoppm -png -r 100 -f 2 -l 4 "Joint Fire 3&8 Standard Operating Guide DRAFT.pdf" /tmp/pg && open /tmp/pg-02.png
 
-# Preview a page range:
-pdftoppm -png -r 100 -f 2 -l 4 FD-SOGs.pdf /tmp/pg && open /tmp/pg-02.png
+# Reset to the pre-editorial formatting baseline if a phase-2 edit needs to be rolled back:
+git reset --hard formatting-baseline
 ```
+
+The old root-level `build_sog_pdf.py` (WeasyPrint) still works and is kept for local formatting experiments/comparisons — it is not part of the live CI pipeline (`pipeline/` is).
