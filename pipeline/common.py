@@ -82,13 +82,14 @@ def restyle_title_page(docx_path: Path) -> None:
     h1.add_run(TITLE_PAGE_LINE_2)
 
     image_paragraph.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    image_paragraph.paragraph_format.space_before = Inches(1.7)
     logo_shape = doc.inline_shapes[0]
     logo_shape.width = TITLE_LOGO_SIZE
     logo_shape.height = TITLE_LOGO_SIZE
 
     revision_p = doc.add_paragraph()
     revision_p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    revision_p.paragraph_format.space_before = Inches(3.3)
+    revision_p.paragraph_format.space_before = Inches(1.6)
     run = revision_p.add_run(TITLE_PAGE_REVISION)
     run.font.size = Pt(10)
     run.font.color.rgb = RGBColor(0x55, 0x55, 0x55)
