@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 .DS_Store
 FD-SOGs.pdf
+pipeline/_pandoc-default-reference.docx
+/Joint Fire 3&8 Standard Operating Guide DRAFT.docx
+/Joint Fire 3&8 Standard Operating Guide DRAFT.pdf

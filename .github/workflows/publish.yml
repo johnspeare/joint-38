@@ -1,0 +1,62 @@
+name: Build and publish SOG documents
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "sog-1st-pass.md"
+      - "FD-SOGs-assets/**"
+      - "pipeline/**"
+      - ".github/workflows/publish.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Only one Pages deployment at a time; let in-flight runs finish rather
+# than cancelling (a build getting replaced mid-deploy could publish a
+# half-updated site).
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Pandoc and LibreOffice
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc libreoffice-writer
+
+      - name: Build DOCX
+        run: python3 pipeline/build_sog_docx.py
+
+      - name: Build PDF
+        run: python3 pipeline/build_sog_pdf.py
+
+      - name: Assemble Pages site
+        run: |
+          mkdir -p _site
+          cp "Joint Fire 3&8 Standard Operating Guide DRAFT.docx" _site/
+          cp "Joint Fire 3&8 Standard Operating Guide DRAFT.pdf" _site/
+          python3 pipeline/make_index.py > _site/index.html
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
