@@ -25,6 +25,8 @@ REPO_ROOT = PIPELINE_DIR.parent
 ASSETS_DIR = REPO_ROOT / "FD-SOGs-assets"
 DEFAULT_REFERENCE = PIPELINE_DIR / "_pandoc-default-reference.docx"
 OUTPUT = PIPELINE_DIR / "reference.docx"
+WATERMARK_PATH = PIPELINE_DIR / "watermark-draft.png"
+WATERMARK_SIZE = Inches(5.5)
 
 BRAND_RED = RGBColor(0x8B, 0x00, 0x00)
 FOOTER_NOTICE = "STANDARD OPERATING GUIDELINES — UNCONTROLLED WHEN PRINTED"
@@ -85,6 +87,68 @@ def add_thin_table_borders(doc: Document, style_name: str = "Table") -> None:
     tbl_pr.append(borders)
 
 
+def add_watermark(paragraph) -> None:
+    """Insert the DRAFT watermark as a floating image, centered on the page
+    and sent behind all text, so it shows through the body content without
+    disturbing header/body layout (the running logo included).
+
+    python-docx's add_picture() only produces an inline (in-text-flow)
+    image (<wp:inline>). A watermark needs to be a floating image
+    (<wp:anchor>) positioned relative to the page — there's no high-level
+    API for that, so this rebuilds the drawing's XML directly.
+    """
+    run = paragraph.add_run()
+    run.add_picture(str(WATERMARK_PATH), width=WATERMARK_SIZE, height=WATERMARK_SIZE)
+    drawing = run._r.find(qn("w:drawing"))
+    inline = drawing.find(qn("wp:inline"))
+
+    extent = inline.find(qn("wp:extent"))
+    effect_extent = inline.find(qn("wp:effectExtent"))
+    doc_pr = inline.find(qn("wp:docPr"))
+    cnv_graphic_frame_pr = inline.find(qn("wp:cNvGraphicFramePr"))
+    graphic = inline.find(qn("a:graphic"))
+
+    anchor = OxmlElement("wp:anchor")
+    for name, value in {
+        "distT": "0",
+        "distB": "0",
+        "distL": "0",
+        "distR": "0",
+        "simplePos": "0",
+        "relativeHeight": "1",
+        "behindDoc": "1",
+        "locked": "0",
+        "layoutInCell": "1",
+        "allowOverlap": "1",
+    }.items():
+        anchor.set(name, value)
+
+    simple_pos = OxmlElement("wp:simplePos")
+    simple_pos.set("x", "0")
+    simple_pos.set("y", "0")
+
+    position_h = OxmlElement("wp:positionH")
+    position_h.set("relativeFrom", "page")
+    align_h = OxmlElement("wp:align")
+    align_h.text = "center"
+    position_h.append(align_h)
+
+    position_v = OxmlElement("wp:positionV")
+    position_v.set("relativeFrom", "page")
+    align_v = OxmlElement("wp:align")
+    align_v.text = "center"
+    position_v.append(align_v)
+
+    wrap_none = OxmlElement("wp:wrapNone")
+
+    # Schema-required child order for CT_Anchor.
+    for el in (simple_pos, position_h, position_v, extent, effect_extent, wrap_none, doc_pr, cnv_graphic_frame_pr, graphic):
+        if el is not None:
+            anchor.append(el)
+
+    drawing.replace(inline, anchor)
+
+
 def main() -> None:
     subprocess.run(
         ["pandoc", "-o", str(DEFAULT_REFERENCE), "--print-default-data-file", "reference.docx"],
@@ -138,6 +202,10 @@ def main() -> None:
     header_run = header_p.add_run()
     header_run.add_picture(str(ASSETS_DIR / "38-logo.png"), height=Inches(0.45))
     section.first_page_header.paragraphs[0].text = ""
+
+    # DRAFT watermark on every page, including the title page.
+    add_watermark(header_p)
+    add_watermark(section.first_page_header.paragraphs[0])
 
     doc.save(str(OUTPUT))
     DEFAULT_REFERENCE.unlink()

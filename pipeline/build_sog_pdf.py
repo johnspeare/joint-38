@@ -25,7 +25,6 @@ Requires: pandoc and soffice (LibreOffice) on PATH, `pip install python-docx`.
 
 from __future__ import annotations
 
-import re
 import shutil
 import subprocess
 import sys
@@ -34,16 +33,13 @@ from pathlib import Path
 from xml.sax.saxutils import escape as xml_escape
 
 from common import (
-    ASSETS_DIR,
     DOC_BASENAME,
     REFERENCE_DOCX,
     load_preprocessed_source,
     restyle_title_page,
+    split_after_title_logo,
     use_letters_for_nested_lists,
 )
-
-TITLE_LINE_RE = re.compile(r"^(# .+)\n", re.MULTILINE)
-TITLE_LOGO_IMAGE = (ASSETS_DIR / "38-logo-title.png").as_posix()
 
 PAGE_BREAK = '\n```{=openxml}\n<w:p><w:r><w:br w:type="page"/></w:r></w:p>\n```\n'
 
@@ -89,21 +85,10 @@ End Sub</script:module>
 
 
 def build_pdf_markdown(md_text: str) -> str:
-    """Reorder title page -> TOC -> body, each on its own page (see module docstring)."""
-    m = TITLE_LINE_RE.match(md_text)
-    if not m:
-        raise ValueError("expected the Markdown source to start with a single H1 title line")
-    title_line = m.group(1)
-    rest = md_text[m.end():]
-
-    scaffold = (
-        f"{title_line}\n"
-        f"\n![]({TITLE_LOGO_IMAGE}){{width=2.5in}}\n"
-        f"{PAGE_BREAK}"
-        f"{TOC_FIELD}"
-        f"{PAGE_BREAK}"
-    )
-    return scaffold + rest
+    """Insert page-break -> TOC -> page-break right after the title+logo block
+    that load_preprocessed_source() already inserted (see module docstring)."""
+    head, rest = split_after_title_logo(md_text)
+    return head + PAGE_BREAK + TOC_FIELD + PAGE_BREAK + rest
 
 
 def run_pandoc_to_docx(md_text: str, out_docx: Path) -> None:

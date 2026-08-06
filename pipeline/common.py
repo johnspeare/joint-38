@@ -1,7 +1,7 @@
 """Shared constants and Markdown preprocessing for the docx/PDF build pipeline.
 
 Both build_sog_docx.py and build_sog_pdf.py start from the same Markdown
-source and need the same two fixups before handing it to Pandoc:
+source and need the same fixups before handing it to Pandoc:
 
 1. Swap the chain-of-command SVG for its PNG counterpart. Word/LibreOffice's
    SVG support can't render mermaid-cli's <foreignObject> node labels any
@@ -13,6 +13,14 @@ source and need the same two fixups before handing it to Pandoc:
    `{height=...}` attribute (needs the `attributes` Pandoc extension) fixes
    it, matching the `max-height: 6.5in` rule already in the old WeasyPrint
    CSS.
+3. Insert the title-page logo right after the H1. This has to be shared,
+   not PDF-only: restyle_title_page() (below) assumes the paragraph right
+   after the H1 is the logo image, and silently mangles whatever paragraph
+   *is* there if that assumption is wrong — this used to be PDF-only,
+   which meant the docx build had no logo there at all, so
+   restyle_title_page() was centering/huge-spacing the "Introduction"
+   heading and force-squashing the Chain of Command diagram (the actual
+   first image in that build) into a 3.25"x3.25" square.
 """
 
 from __future__ import annotations
@@ -40,6 +48,13 @@ REFERENCE_DOCX = Path(__file__).resolve().parent / "reference.docx"
 _CHAIN_OF_COMMAND_RE = re.compile(
     r"!\[([^\]]*)\]\(FD-SOGs-assets/chain-of-command\.svg\)"
 )
+_TITLE_LINE_RE = re.compile(r"^# .+\n", re.MULTILINE)
+TITLE_LOGO_IMAGE = (ASSETS_DIR / "38-logo-title.png").as_posix()
+TITLE_LOGO_WIDTH = "2.5in"
+_TITLE_AND_LOGO_RE = re.compile(
+    r"^# .+\n\n!\[\]\(" + re.escape(TITLE_LOGO_IMAGE) + r"\)\{width=" + re.escape(TITLE_LOGO_WIDTH) + r"\}\n",
+    re.MULTILINE,
+)
 
 
 def preprocess_markdown(md_text: str) -> str:
@@ -50,12 +65,34 @@ def preprocess_markdown(md_text: str) -> str:
         alt = m.group(1)
         return f"![{alt}]({png_path}){{height=6in}}"
 
-    return _CHAIN_OF_COMMAND_RE.sub(_swap, md_text)
+    md_text = _CHAIN_OF_COMMAND_RE.sub(_swap, md_text)
+
+    m = _TITLE_LINE_RE.match(md_text)
+    if not m:
+        raise ValueError("expected the Markdown source to start with a single H1 title line")
+    title_line = m.group(0)
+    rest = md_text[m.end():]
+    md_text = f"{title_line}\n![]({TITLE_LOGO_IMAGE}){{width={TITLE_LOGO_WIDTH}}}\n" + rest
+
+    return md_text
 
 
 def load_preprocessed_source() -> str:
     md_text = SOURCE_MD.read_text(encoding="utf-8")
     return preprocess_markdown(md_text)
+
+
+def split_after_title_logo(md_text: str) -> tuple[str, str]:
+    """Split already-preprocessed Markdown right after the title+logo block.
+
+    For build_sog_pdf.py, which needs to insert its page-break/TOC scaffold
+    right after the (already shared-inserted) title and logo, without
+    re-inserting a second logo.
+    """
+    m = _TITLE_AND_LOGO_RE.match(md_text)
+    if not m:
+        raise ValueError("expected preprocessed Markdown to start with the title heading + logo image block")
+    return m.group(0), md_text[m.end():]
 
 
 def restyle_title_page(docx_path: Path) -> None:

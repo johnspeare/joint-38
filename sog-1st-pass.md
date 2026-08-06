@@ -32,8 +32,6 @@ Our mission shall be accomplished through quality SERVICE delivery as follows:
 
 ![Chain of Command — Joint Fire Protection District 3 & 8](FD-SOGs-assets/chain-of-command.svg)
 
-*Editable source: [`FD-SOGs-assets/chain-of-command.mmd`](FD-SOGs-assets/chain-of-command.mmd). Regenerate the SVG with `mmdc -i chain-of-command.mmd -o chain-of-command.svg -b transparent`.*
-
 ## Job Descriptions
 
 **Chief**
