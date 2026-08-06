@@ -10,7 +10,7 @@ All fire department personnel shall follow these policies and accompanying proce
 
 All members will understand and follow these policies and procedures. Deviation from these policies and procedures is permitted due to unforeseen circumstances.
 
-Officers of the department are responsible to ensure their subordinates understand and follow these policies and procedures. Officers will document and report deviations to the Fire Chief, or his/her designee, for review.
+Officers of the department are responsible to ensure their subordinates understand and follow these policies and procedures. Officers shall document and report deviations to the Fire Chief, or his/her designee, for review.
 
 ## Mission Statement
 
@@ -32,7 +32,7 @@ Our mission shall be accomplished through quality SERVICE delivery as follows:
 
 ![Chain of Command — Joint Fire Protection District 3 & 8](FD-SOGs-assets/chain-of-command.svg)
 
-<sub>Editable source: [`FD-SOGs-assets/chain-of-command.mmd`](FD-SOGs-assets/chain-of-command.mmd). Regenerate the SVG with `mmdc -i chain-of-command.mmd -o chain-of-command.svg -b transparent`.</sub>
+*Editable source: [`FD-SOGs-assets/chain-of-command.mmd`](FD-SOGs-assets/chain-of-command.mmd). Regenerate the SVG with `mmdc -i chain-of-command.mmd -o chain-of-command.svg -b transparent`.*
 
 ## Job Descriptions
 
@@ -78,41 +78,24 @@ All new members shall undergo an orientation program as set forth by the trainin
 
 The orientation program shall cover the following topics:
 
-Written Policies
-
-Operating Guidelines
-
-Chain of Command
-
-Incident Command
-
-Fire Scene Operations
-
-Auto Accident Operations
-
-Mutual Aid Operations
-
-Hazmat Scene Operations
-
-Rescue Operations
-
-Safety Equipment
-
-Protective Clothing
-
-Self-Contained Breathing Apparatus (SCBA)
-
-SCBA Fit Test
-
-Blood Borne Pathogens
-
-Communications
-
-Wildland Training
-
-Driver Training
-
-Recordkeeping
+- Written Policies
+- Operating Guidelines
+- Chain of Command
+- Incident Command
+- Fire Scene Operations
+- Auto Accident Operations
+- Mutual Aid Operations
+- Hazmat Scene Operations
+- Rescue Operations
+- Safety Equipment
+- Protective Clothing
+- Self-Contained Breathing Apparatus (SCBA)
+- SCBA Fit Test
+- Blood Borne Pathogens
+- Communications
+- Wildland Training
+- Driver Training
+- Recordkeeping
 
 ## Training
 
@@ -131,13 +114,13 @@ Any training of fire fighters which includes live fire fighting exercises will b
 
 No new fire fighter may be permitted to participate in structural fire fighting activities or trainings which require the individual to enter or be in close proximity to the building, enclosed structure, vehicle or vessel until that individual has completed required training.
 
-To maintain active status as a firefighter with the Fire Department, all members must attend 40% of training session(s) per year and meet mandatory training. Failure to do so may result in the member being placed on probation, at which time active status may only be regained after approval of the Chief or the Training Officer. If after 6 months of probationary status a member does not satisfactorily meet training requirements, the member’s status with the department should be terminated.
+To maintain active status as a firefighter with the Fire Department, all members shall attend 40% of training session(s) per year and meet mandatory training. Failure to do so may result in the member being placed on probation, at which time active status may only be regained after approval of the Chief or the Training Officer. If after 6 months of probationary status a member does not satisfactorily meet training requirements, the member’s status with the department should be terminated.
 
 A member whose active status is in jeopardy due to failing to meet training requirements will receive a verbal and written warning from the Chief or Training Officer.
 
 A member whose status is changed from active to probationary status will receive a written notification from the Chief or Training Officer. At this time a meeting will be scheduled with that member and the Chief or his/her designee, to discuss requirements and necessities to regain active status.
 
-Exceptions and petitions for minimum training requirements may be made to the Chief. Under special circumstances the Chief may alter department minimum training requirements.  Training must meet the minimum requirements set forth by the Washingtons Safety and Health Standards (SPS 330.)
+Exceptions and petitions for minimum training requirements may be made to the Chief. Under special circumstances the Chief may alter department minimum training requirements. Training shall meet the minimum requirements set forth by the Washington Safety Standards for Firefighters (chapter 296-305 WAC), administered by the Washington State Department of Labor & Industries under the Washington Industrial Safety and Health Act (chapter 49.17 RCW).
 
 ## Driving Requirements
 
@@ -154,11 +137,11 @@ State and local laws provide certain exemptions for authorized emergency vehicle
 ### Before entering a fire station
 
 1. A Spotter should always be used when backing, if available.  
-2. Consideration must be taken for the possibility of pedestrians within the fire station.
+2. Consideration shall be given to the possibility of pedestrians within the fire station.
 
 ### Before exiting from a fire station
 
-1. The driver will ensure all apparatus compartment doors are securely closed.  
+1. The driver shall ensure all apparatus compartment doors are securely closed.  
 2. All personnel are properly secured by seat belts.  
 3. The bay door is raised fully and enough clearance is available to clear apparatus height.  
 4. Test brakes before entering the street.
@@ -237,7 +220,7 @@ The IC is faced with many responsibilities when he/she arrives on scene. Unless 
 
 ### Assuming Command
 
-The first department member or unit to arrive on the scene of an incident shall establish command of the incident. **THE INITIAL INCIDENT COMMANDER SHALL REMAIN** **IN COMMAND UNTIL COMMAND IS TRANSFERRED OR THE INCIDENT/COMMAND** **IS TERMINATED.**
+The first department member or unit to arrive on the scene of an incident shall establish command of the incident. **The initial Incident Commander shall remain in command until command is transferred or the incident/command is terminated.**
 
 ### Scene Size Up and Initial Report
 
@@ -250,8 +233,8 @@ The member or unit establishing command initiates the command process with an in
 
 ### Transfer of Command
 
-1. The first arriving Unit on the scene will establish and CONTINUE COMMAND until transferred within the following guidelines:  
-   1. A face-to-face briefing between command, and the officer command is being transferred to, must be completed.  
+1. The first arriving Unit on the scene shall establish and continue command until transferred within the following guidelines:  
+   1. A face-to-face briefing between command and the officer command is being transferred to shall be completed.  
    2. The officer command is being transferred to is willing to accept the responsibilities of command.  
    3. Under NO circumstances will command be transferred to a unit that is not on scene.  
    4. Once the officer that command is being transferred to has been briefed, The Incident Command will advise dispatch that the officer taking command has been briefed and is now command of the Incident.  
@@ -267,12 +250,12 @@ A reliable communications system is essential to obtain information on emergenci
 
 ### General Communication Guidelines
 
-1. Any time you go in route, arrive on scene, or clear a call you must advise dispatch.  
+1. Any time you go in route, arrive on scene, or clear a call you shall advise dispatch.  
    Example: *North Fire “Dispatch”, Vehicle Number Example: 3812 is en-route to “call.”*  
 2. Be sure the receiver is ready to receive the transmission. Verify that the message is acknowledged once the message has been sent. A brief repeat of the message is far better than just a” COPY”. A brief summary reply confirms that the correct message has been received.  
 3. Know what you are going to say before transmitting. Choose terms that communicate the desired message clearly without wasting airtime. Per NIMS all radio traffic is to be done in a “common English” fashion and try to control your emotions to prevent garbled transmissions.  
 4. Orders given over the radio should tell you what to do, not necessarily how to do it.  
-5. **DO NOT** interfere with other transmissions unless you have Emergency Traffic.
+5. **Do not** interfere with other transmissions unless you have Emergency Traffic.
 
 ## Accountability
 
@@ -465,9 +448,9 @@ Universal precautions shall be observed to prevent contact with blood and other 
 
 * Gloves will be worn for all patient/victim contact. Gloves will be worn for touching blood and body fluids, mucus membranes or non-intact skin of all patients, for handling items soiled with blood or body fluids, and for performing all cleaning of soiled surfaces. Gloves are to removed and hands washed after contact with each patient or each use for cleaning or handling potentially infectious materials.  
 * All firefighters will wash hands and exposed skin with soap and water when feasible, or flush mucus membranes with water as soon as practical following contact with potentially infectious materials.  
-* Hands must be washed for a minimum of 15 seconds after doffing gloves, before eating or preparing food, and after contact with body fluids, mucus membranes or broken skin.  
+* Hands shall be washed for a minimum of 15 seconds after doffing gloves, before eating or preparing food, and after contact with body fluids, mucus membranes or broken skin.  
 * When hand washing is not possible, firefighters will clean their hands with an antiseptic towel or hand cleanser, and then wash their hands with soap and water at the earliest possible time.  
-* Any other skin, mucus membrane, or body area that has come in contact with potentially infectious material must be washed as soon as possible.  
+* Any other skin, mucus membrane, or body area that has come in contact with potentially infectious material shall be washed as soon as possible.  
 * Immediately after use, sharp items such as needles and lancets shall be placed in a leak-proof, puncture-resistant container. Contaminated sharps shall not be recapped or otherwise manipulated by hand. Whenever possible, firefighters will leave handling and disposal of sharps to EMS. When firefighters must dispose of sharps or contaminated broken glassware, all handling will be with tongs or forceps. Also, glass can be cleaned up with a brush and dustpan.  
 * All procedures involving blood or OPIM shall be performed to minimize splashing and spattering.  
 * Infectious waste, any disposable item which comes in contact with body fluids, shall be handled with gloves and shall be placed in an impermeable red bag.  
@@ -477,7 +460,7 @@ Universal precautions shall be observed to prevent contact with blood and other 
 
 * When PPE is removed it shall be decontaminated or disposed of in an appropriate container.  
 * Personnel in contact with patients/victims will have examination gloves and goggles with them at all times. These are available on each engine and ladder truck.  
-* Gloves will be worn for all patient/victim contact. Gloves must be worn for touching blood and body fluids, mucus membranes or non-intact skin of all patients/victims, and for cleaning of soiled surfaces.  
+* Gloves will be worn for all patient/victim contact. Gloves shall be worn for touching blood and body fluids, mucus membranes or non-intact skin of all patients/victims, and for cleaning of soiled surfaces.  
 * Gloves are to be removed and hands washed after contact with each patient or each use for cleaning or handling potentially infectious items.  
 * Structural fire fighting protective clothing will be worn for all incidents requiring this protection. Additionally latex gloves will be worn under the firefighters gloves when infectious materials may be encountered such as during vehicle extrication. Because of the potential for burns, latex gloves should not be worn under fire fighting gloves where there is exposure to extreme heat.  
 * Masks shall be worn in combination with goggles or glasses with solid side shields whenever droplets of blood or OPIM may be splashed in the eyes, nose, or mouth. Face shields on structural fire fighting helmets shall not be used for exposure control; however, SCBA masks are acceptable.  
@@ -493,7 +476,7 @@ Universal precautions shall be observed to prevent contact with blood and other 
 A contaminated sharp is any object that can puncture or cut the skin and is soiled with, or reasonably anticipated to be exposed to, blood or other potentially infectious materials.
 
 * A sharps container is carried in all rescue vehicles.  
-* The sharps container must be kept in an upright position when used and shall be replaced immediately after the first use, not used until full.  
+* The sharps container shall be kept in an upright position when used and shall be replaced immediately after the first use, not used until full.  
 * Sharps will only be picked up with pliers or tongs, never by hand.  
 * Sharps containers should be closed to prevent spillage, placed in a second container if leaking, and handled with care.  
 * Used sharps containers shall be capped, taped, and dated for disposal.  
@@ -518,7 +501,7 @@ Contaminated materials shall be handled as little as possible. When handling con
 
 * All personnel who are at risk to occupational exposure will have the Hepatitis B vaccination, post exposure evaluation and follow up made available at no cost.  
 * The Hepatitis B vaccination will be available after the firefighter receives training on the Hepatitis B vaccine, its safety, method of administration, the benefits of being vaccinated, and within ten working days of initial shift assignment (career personnel) or station acceptance (volunteer personnel). The vaccination will not be given to anyone who has received the complete Hepatitis B vaccination series, or if antibody testing shows that the firefighter is immune. If the individual is allergic to yeast, an alternate Hepatitis B vaccine will be offered.  
-* Each firefighter must sign a consent/refusal form verifying that this vaccination was offered to him/her.
+* Each firefighter shall sign a consent/refusal form verifying that this vaccination was offered to him/her.
 
 #### Post-Exposure Evaluation and Follow-up
 
@@ -606,7 +589,7 @@ This program provides procedures and protocols designed to prevent employee over
 The training officer shall serve as Program Administrator. This person has the training and experience to administer or oversee the respiratory program including evaluating its effectiveness.
 
 1. Determines the need for respiratory protection.  
-2. Establishes and maintain a Respiratory Protection Program in compliance with all requirements of Washington Department of Safety and Professional Services, Chapter SPS 330, Fire Department Safety and Health Standards.  
+2. Establishes and maintains a Respiratory Protection Program in compliance with all requirements of the Washington State Department of Labor & Industries, chapter 296-305 WAC, Safety Standards for Firefighters.
 3. Provides all employees in the program with respirators appropriate to the purpose intended.  
 4. Selects a physician or licensed health care professional to administer the medical evaluation program, as well as coordinating the medical evaluation program.  
 5. Fit tests applicable firefighters.  
@@ -627,7 +610,7 @@ The training officer shall serve as Program Administrator. This person has the t
 
 Joint Fire Protection District 3&8 members who respond to and function in toxic atmospheres shall be equipped with Self-Contained Breathing Apparatus (SCBA) and trained in its proper use and care. These respirators shall be used in accordance with the manufacturer’s recommendations and appropriate governing performance testing guidelines.
 
-Until an atmosphere has been found not to be so, it shall be considered IDLH (Immediately Dangerous to Life and Health). Where an atmosphere has potential to become IDLH it shall be entered under the assumption that it is ALREADY IDLH.
+Until an atmosphere has been found not to be so, it shall be considered IDLH (Immediately Dangerous to Life and Health). Where an atmosphere has potential to become IDLH it shall be entered under the assumption that it is already IDLH.
 
 Joint Fire Protection District 3&8 provides the following respirators for use in IDLH atmospheres:
 
@@ -656,7 +639,7 @@ In addition to the above, SCBA shall be worn by all personnel operating at fire 
 1. Atmospheres that have been reported to have a smoke or CO detector sounding but there are no signs of elements present or occupants feeling ill. Members shall investigate and if monitoring proves existence, members shall fully don SCBA face piece.  
 2. Atmospheres, scenes, or conditions that are potentially dynamic, changing and/or unknown.
 
-Premature removal of SCBA must be avoided. This is particularly significant during overhaul when smoldering materials may produce increased quantities of carbon monoxide and other toxic products. In these cases, SCBA must be used or the atmosphere must be changed.
+Premature removal of SCBA shall be avoided. This is particularly significant during overhaul when smoldering materials may produce increased quantities of carbon monoxide and other toxic products. In these cases, SCBA shall be used or the atmosphere shall be changed.
 
 In fire situations, the decision to remove SCBA shall be made by incident commander based on an evaluation and metering of atmospheric conditions. Prior to removal, fire areas shall be thoroughly ventilated and, where necessary, continuous ventilation shall be provided.
 
@@ -672,7 +655,7 @@ For protection against particulates, Joint Fire Protection District 3&8 will pro
 
 ### Procedures for IDLH (Immediately Dangerous to Life and Health) Atmospheres
 
-### (2 In/2 Out)
+### Two-In/Two-Out
 
 The following are not meant to preclude an Incident Commander from starting suppression (not entering) or rescue operations (entering) in a structural incident. The requirement intends that the Rapid Intervention Team (RIT) be established as soon as practical to ensure safety of firefighters, yet not detract from the responsibility to provide rescue and suppression to citizens.
 
@@ -686,7 +669,7 @@ The following are not meant to preclude an Incident Commander from starting supp
 4. While working in IDLH atmospheres, during interior firefighting operations in fires that have progressed beyond the incipient stage, or hazmat operations, employees entering will work in teams having a minimum of two (2) persons who remain in visual or voice contact at all times.  
 5. Two firefighters shall be located outside the IDLH atmosphere as the RIT. Visual, voice, radio, or signal line communication will be maintained between the firefighters in the IDLH atmosphere and the firefighters located outside the IDLH atmosphere (RIT).  
 6. The firefighters located outside the IDLH atmosphere as the RIT shall be trained and equipped to provide an effective emergency rescue of the firefighters inside the IDLH.  
-7. The Incident Commander is to be notified before the RIT located outside the IDLH atmosphere enters the IDLH atmosphere to provide an emergency rescue. The Incident Commander must immediately provide additional assistance, if necessary.  
+7. The Incident Commander is to be notified before the RIT located outside the IDLH atmosphere enters the IDLH atmosphere to provide an emergency rescue. The Incident Commander shall immediately provide additional assistance if necessary.  
 8. Once notified, the RIT provides necessary assistance appropriate to the situation.
 
 ***NOTE:** Nothing in this rule is meant to preclude firefighters from performing emergency rescue activities before an entire team has assembled, however, such action is not to be considered a standard of operation.*
@@ -701,7 +684,7 @@ The following are not meant to preclude an Incident Commander from starting supp
 
 ### Fit testing procedure
 
-1. All employees wearing respirators must be fit tested with the same make, model, style, and the appropriate individual size that will be used on the job. The Respiratory Protection Program Administrator will oversee the fit testing of fire department employees.  
+1. All employees wearing respirators shall be fit tested with the same make, model, style, and the appropriate individual size that will be used on the job. The Respiratory Protection Program Administrator will oversee the fit testing of fire department employees.  
 2. Fit tests will be conducted on all employees who use respirators following the initial medical evaluation as a new employee, at least annually thereafter, or whenever the employer observes or receives a report of changes in the employee’s physical condition that could affect respirator fit, or the employee states that the fit of the respirator is unacceptable.
 
 Some factors that may affect mask fit are:
@@ -714,15 +697,19 @@ Some factors that may affect mask fit are:
 
 Fit tests will be administered using an OSHA accepted qualitative test. The protocol used will be stated on the fit test record for each employee.
 
-### Medical evaluation of FIREFIGHTERS required to use respirators
+### Medical Evaluation of Firefighters Required to Use Respirators
 
-Using a respirator may place physiological burdens on firefighting personnel that vary with the type of work in which the respirator is used and the medical status of the employee. All new employees must undergo a medical evaluation prior to being fit tested or required to use the respirator. Medical evaluations shall be administered to employees of the fire department by the following Physician or other Licensed Health Care Professional (PLHCP):
+Using a respirator may place physiological burdens on firefighting personnel that vary with the type of work in which the respirator is used and the medical status of the employee. All new employees shall undergo a medical evaluation prior to being fit tested or required to use the respirator. Medical evaluations shall be administered to employees of the fire department by the following Physician or other Licensed Health Care Professional (PLHCP):
 
-### Providence Medical Center
+Providence Medical Center
+
+`[REVIEW REQUIRED: Confirm that Providence Medical Center is the current PLHCP for firefighter medical evaluations, and add the specific department, contact person, phone, and address the department is supposed to use.]`
 
 The Department shall identify a Physician or other Licensed Health Care Professional (PLHCP) to administer a medical questionnaire to each employee who uses SCBA or respirators. The questionnaire shall be administered confidentially during the employee’s normal work hours. The questionnaire will determine the need for a follow-up physical examination. The department shall use the following PLHCP to administer the questionnaire:
 
-### NFPA.
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+`[REVIEW REQUIRED: The source document lists "NFPA" as the PLHCP administering the medical questionnaire. NFPA is a standards body, not a Physician or Licensed Health Care Professional. Identify the actual PLHCP for questionnaire administration.]`
 
 Medical questionnaires shall be administered prior to initial fit test to all firefighters required to use SCBA or respirators.
 
@@ -782,7 +769,7 @@ Effective against a number of gram positive and negative bacteria, fungi and vir
 6. Finally rinse face piece under running clean tap water  
 7. Apply air pressure to remove interior liquids  
 8. Wipe out any excess rinse water with a clean, dry, towel. Allow to dry.  
-9. **DO NOT USE THE FIREHOUSE AIR COMPRESSOR TO DRY ANY PART OF THE SCBA\! THE LUBRICATING OIL THAT MAY BE CONTAINED IN THE AIR STREAM MAY BE HAZARDOUS AND COULD DAMAGE THE RUBBER COMPONENTS**  
+9. **Do not use the firehouse air compressor to dry any part of the SCBA. The lubricating oil that may be contained in the air stream may be hazardous and could damage the rubber components.**  
 10. Inspect SCBA and regulator for cleanliness and damage  
 11. Leak test SCBA.  
 12. Return to operation.
@@ -836,7 +823,7 @@ Fire department personnel shall ensure that respirators that fail an inspection 
 
 ### Inspections
 
-Each PASS (Personal Alert Safety System) must be tested weekly and prior to use.
+Each PASS (Personal Alert Safety System) shall be tested weekly and prior to use.
 
 Each SCBA is required to be inspected and tested at least monthly and prior to use. All air cylinders carried on the apparatus and spares in each station will be inspected for any damage, cleanliness and proper fills.
 
@@ -887,7 +874,7 @@ The purpose of this test is to compare the cylinder pressure gauge and the Senti
 ### Procedure
 
 1. Open the cylinder valve and note the pressure reading on the cylinder pressure gauge.  
-2. Compare the shoulder gauge pressure reading to the cylinder gauge reading. The two values must be within \+/- 10% of the full scale
+2. Compare the shoulder gauge pressure reading to the cylinder gauge reading. The two values shall be within +/- 10% of the full scale
 
 ### Quality and Quantity of Breathing Air
 
@@ -913,11 +900,11 @@ The fire department shall insure that cylinders used to supply breathing air to 
 
 1. Cylinders are tested and maintained as prescribed in the Shipping Container Specification Regulations of the Department of Transportation (49 CFR part 173 and part 178\) test requirements of five years for composite cylinders supplied to MSA and five years for steel or aluminum cylinders.  
 2. Note: composite cylinders have a maximum use life of 15 years.  
-3. The moisture content in the cylinder does not exceed a dew point of \-50 degrees F. (-45.6 degrees C.) at one (1) atmospheric pressure.
+3. The moisture content in the cylinder does not exceed a dew point of -50 degrees F. (-45.6 degrees C.) at one (1) atmospheric pressure.
 
 ### Respiratory Hazards and Training on Respiratory Use
 
-The Fire Department is required to provide training to those who use respirators. The training must be comprehensive, understandable, occur annually, and more often if necessary. Documentation of this training shall occur.
+The Fire Department is required to provide training to those who use respirators. The training shall be comprehensive, understandable, occur annually, and more often if necessary. Documentation of this training shall occur.
 
 The Fire Department shall ensure that each firefighter can demonstrate knowledge of at least the following:
 
@@ -995,7 +982,7 @@ Personnel can be seriously or fatally injured if machinery or equipment they are
 
 This requires that designated fire department personnel (company officers, chiefs, etc.) work with facility personnel to turn off and disconnect the machinery or equipment from its energy source(s) before working in and around the equipment. This also requires that designated fire department personnel lock-out/tag-out the energy isolating device(s) to prevent the release of hazardous stored energy and take steps to verify that the energy has been effectively isolated.
 
-Upon arrival at an emergency incident involving machinery or equipment that was or is involved in fire or entrapment of victims, the company officer or crew leader shall retrieve the lock-out/tag-out equipment that is located on engines. The Officer in Charge must work closely with facility personnel familiar with the lock-out/tag-out procedures specific to the equipment or machinery that is involved to ensure the following:
+Upon arrival at an emergency incident involving machinery or equipment that was or is involved in fire or entrapment of victims, the company officer or crew leader shall retrieve the lock-out/tag-out equipment that is located on engines. The Officer in Charge shall work closely with facility personnel familiar with the lock-out/tag-out procedures specific to the equipment or machinery involved to ensure the following:
 
 1. All energy sources to the machinery or equipment have been de-energized.  
 2. The Officer in Charge places fire department lock-out/tag-out equipment to secure energy sources.  
@@ -1005,12 +992,12 @@ Upon arrival at an emergency incident involving machinery or equipment that was 
 
 ### Non-Emergency/Servicing/Maintenance Procedure
 
-1. Notify all affected personnel that servicing or maintenance is required on a machine or equipment and that the machine or equipment must be shut down and locked out to perform the servicing or maintenance.  
+1. Notify all affected personnel that servicing or maintenance is required on a machine or equipment and that the machine or equipment shall be shut down and locked out to perform the servicing or maintenance.  
 2. The authorized person shall refer to the manufacturer’s procedure to identify the type and magnitude of the energy that the machine or equipment utilizes, shall understand the hazards of the energy, and shall know the methods to control the energy.  
 3. If the machine or equipment is operating, shut it down by the normal stopping procedure (depress the stop button, open switch, close valve, etc.).  
 4. De-activate the energy isolating device(s) so that the machine or equipment is isolated from the energy source(s).  
 5. Lock out the energy isolating device(s) with assigned individual lock(s).  
-6. Stored or residual energy (such as that in capacitors, springs, elevated machine members, rotating flywheels, hydraulic systems, and air, gas, steam, or water pressure, etc.) must be dissipated or restrained by methods such as grounding, repositioning, blocking, bleeding down, etc.  
+6. Stored or residual energy (such as that in capacitors, springs, elevated machine members, rotating flywheels, hydraulic systems, and air, gas, steam, or water pressure, etc.) shall be dissipated or restrained by methods such as grounding, repositioning, blocking, bleeding down, etc.  
 7. Ensure that the equipment is disconnected from the energy source(s) by first checking that no personnel are exposed, then verify the isolation of the equipment by operating the push button or other normal operating control(s) or by testing to make certain the equipment will not operate.  
 8. **Caution: Return operating control(s) to neutral or "off" position after verifying the isolation of the equipment.**  
 9. The machine or equipment is now locked out.
@@ -1032,7 +1019,7 @@ If equipment is deemed unsafe the equipment shall remain in the off position. Th
 The only person that shall have the authority to remove the lock or tag from a piece of equipment or machine is the individual who originally locked out the device. In the event that this individual has left the immediate area, the Officer in Charge may authorize the removal of the locking device or tag, however only before:
 
 1. Making a valid attempt to contact the individual who originally locked out the device.  
-2. If that person cannot be reached, the Officer in Charge must ensure that all tools have been removed, all guards have been replaced and all personnel are free from any hazard before the lock and tag are removed and the machinery, equipment or process are returned to service.
+2. If that person cannot be reached, the Officer in Charge shall ensure that all tools have been removed, all guards have been replaced, and all personnel are free from any hazard before the lock and tag are removed and the machinery, equipment or process are returned to service.
 
 In the event that a lockout, tag-out situation occurs during normal operations (not at the scene of an emergency), the Chief of the Department or Safety Officer will fill the Officer in Charge’s role described above.
 
@@ -1042,16 +1029,16 @@ In the event that a lockout, tag-out situation occurs during normal operations (
 
 #### Arrival on Scene
 
-1. The Officer will provide a scene size-up, assume command, and develop a fire suppression plan  
-2. The Officer will complete a 360-degree viewing of the structure to determine number of stories, type of structure, what is showing, location of problem, exposures, what is burning, where it is going, and the need for additional resources  
-3. The Officer will ensure that a proper communication system has been coordinated for fireground activities
+1. The Officer shall provide a scene size-up, assume command, and develop a fire suppression plan.
+2. The Officer shall complete a 360-degree viewing of the structure to determine number of stories, type of structure, what is showing, location of problem, exposures, what is burning, where it is going, and the need for additional resources.
+3. The Officer shall ensure that a proper communication system has been coordinated for fireground activities.
 
 #### Scene Safety
 
 1. There shall be at least 2 personnel on any interior attack hose-line.  
 2. There shall be at least 2 personnel on any interior search and rescue.  
 3. There should be a “R.I.T.” in place on any interior operation or any situation where personnel are exposed or could be exposed to any IDLH situation.  
-4. Personnel must be authorized and properly trained before participating in any interior structural fire attack or search and rescue operations.
+4. Personnel shall be authorized and properly trained before participating in any interior structural fire attack or search and rescue operations.
 
 #### Incident Actions
 
@@ -1072,7 +1059,7 @@ Confinement
 1. The strategy of confinement means preventing the fire from extending to uninvolved sections of the building.  
 2. Whenever possible, the most effective method of confining fire spread is a direct attack on the fire.  
 3. The Incident Commander shall decide whether to make an offensive approach, aggressive interior attack, or a defensive approach, attacking the fire from the outside. There maybe situations when both approaches could be used, but a defensive attack should not be used when crews are operating on the interior.  
-4. All avenues of fire spread must be considered examples: shafts, openings, utility raceways, ducts etc.  
+4. All avenues of fire spread shall be considered — examples: shafts, openings, utility raceways, ducts, etc.  
 5. Where fires involve concealed spaces (attic, ceilings, construction voids, etc.) it becomes very important that the vent crews open up and fire attacks operate fire streams into such areas.
 
 Extinguishment
@@ -1083,7 +1070,7 @@ Extinguishment
 Overhaul
 
 1. The purpose of overhaul is to make sure the fire is completely out.  
-2. Overhaul operations must be properly coordinated with fire investigation efforts.  
+2. Overhaul operations shall be properly coordinated with fire investigation efforts.  
 3. Unsafe conditions should be identified early in the overhaul process and definite efforts made to avoid the possible problems associated with the same.  
 4. During overhaul most fire fighters are more relaxed, tired, perhaps less alert and thus more apt to get injured.  
 5. Personnel should not remove their breathing apparatus until the area is completely cleared of toxic gases.  
@@ -1125,9 +1112,9 @@ Utility Control
 
 #### Arrival on Scene
 
-1. The Driver Operator will position the apparatus in a way that will provide the best protection for the crew during fire suppression activities  
-2. The driver operator will engage the pump and stand by the pump panel for further instructions  
-3. The Officer will provide a scene size-up, assume command, and develop a fire suppression plan
+1. The Driver/Operator shall position the apparatus in a way that will provide the best protection for the crew during fire suppression activities.
+2. The Driver/Operator shall engage the pump and stand by the pump panel for further instructions.
+3. The Officer shall provide a scene size-up, assume command, and develop a fire suppression plan.
 
 #### Scene Safety
 
@@ -1137,19 +1124,19 @@ Utility Control
 
 #### Incident Actions
 
-1. The attack team will pull the hose line instructed by the Officer  
-2. Additional firefighters will do as instructed by the officer  
-3. The driver/operator will charge the hose line when directed and continue to monitor the pump operations  
-4. The attack team will approach the vehicle slowly from the side extinguishing the fire as they approach. Caution should be taken as the team approached for exploding bumpers, fuel tanks, tires, etc.  
-5. When the fire is under control the engine compartment and trunk of the vehicle on fire will be opened and cooled. The vehicles battery cables should be disconnected or cut when possible, with the negative wire disconnected / cut first and isolated.
+1. The attack team shall pull the hose line as instructed by the Officer.
+2. Additional firefighters shall do as instructed by the Officer.
+3. The Driver/Operator shall charge the hose line when directed and continue to monitor the pump operations.
+4. The attack team shall approach the vehicle slowly from the side, extinguishing the fire as they approach. Caution should be taken as the team approaches for exploding bumpers, fuel tanks, tires, etc.
+5. When the fire is under control, the engine compartment and trunk of the vehicle on fire shall be opened and cooled. The vehicle's battery cables should be disconnected or cut when possible, with the negative wire disconnected/cut first and isolated.
 
 ### Vehicle Accidents
 
 #### Arrival on Scene
 
-1. The Driver Operator will position the apparatus in a way that will provide the best protection for the crew during rescue and operation activities  
-2. The Officer will provide a scene size-up, assume command, determine type of incident, number of vehicles involved, extent of damage to vehicles involved, extent of injuries, and if extrication is needed  
-3. The Officer will request additional resources as needed (EMS, Life Flight)
+1. The Driver/Operator shall position the apparatus in a way that will provide the best protection for the crew during rescue and operation activities.
+2. The Officer shall provide a scene size-up, assume command, and determine type of incident, number of vehicles involved, extent of damage to vehicles involved, extent of injuries, and whether extrication is needed.
+3. The Officer shall request additional resources as needed (EMS, Life Flight).
 
 #### Scene Safety
 
@@ -1170,11 +1157,11 @@ Command will assign teams as needed for:
 
 #### Arrival on Scene
 
-1. The Officer will provide a scene size-up, assume command, and develop a fire suppression plan  
-2. The Officer will determine the location and size of the fire, direction and characteristics of fire travel, the fuel burning, and exposures  
-3. The Officer will request additional resources as needed  
-4. The Driver/Operator will park the apparatus in a safe, accessible location pointing away from the fire with the windows closed and the keys in the ignition  
-5. Consider evacuations of citizens
+1. The Officer shall provide a scene size-up, assume command, and develop a fire suppression plan.
+2. The Officer shall determine the location and size of the fire, direction and characteristics of fire travel, the fuel burning, and exposures.
+3. The Officer shall request additional resources as needed.
+4. The Driver/Operator shall park the apparatus in a safe, accessible location pointing away from the fire, with the windows closed and the keys in the ignition.
+5. Consider evacuations of citizens.
 
 #### Scene Safety
 
@@ -1196,7 +1183,7 @@ Command will assign teams as needed for:
 4. If offensive attack is indicated, the head of the fire is to be attacked first. If that is not possible, the flanks should be attacked while working toward the head of the fire.  
 5. If the fire is large and fast moving, then a direct attack may not be possible. In such cases, an indirect and/or parallel attack may be utilized by creating a fire line a distance ahead of the fire to halt the progress of the fire.  
 6. Different methods of attack may be used simultaneously according to the situation  
-7. Teams assigned to structural protection must keep hose lines flexible enough to be able to quickly break away in the event of being over run  
+7. Teams assigned to structural protection shall keep hose lines flexible enough to quickly break away in the event of being overrun  
 8. Collaborate with the DNR, Forest Service Officials, and specialists/technicians as  
 9. Communications and accountability of all incident personnel shall be maintained at all times.
 
@@ -1204,7 +1191,7 @@ Command will assign teams as needed for:
 
 **The Joint Fire Protection District 3&8 functions at the OPERATIONS level**. At the operations level, we possess the basic knowledge necessary to protect the public from harm due to the exposure of hazardous materials. Prior to responding to a known or suspected hazardous materials incident, all personnel shall have Hazardous Materials training at the operations level.
 
-An incident involving hazardous materials can pose significant risk to the public and responding personnel. While all effort shall be made to protect the public, responders must NOT rush into the incident. Many HAZMAT incidents require the assistance, involvement, and response of other agencies; as such, mitigating the incident can take an extended period of time. All actions shall be based on informed decisions from qualified individuals.
+An incident involving hazardous materials can pose significant risk to the public and responding personnel. While all effort shall be made to protect the public, responders shall not rush into the incident. Many HAZMAT incidents require the assistance, involvement, and response of other agencies; as such, mitigating the incident can take an extended period of time. All actions shall be based on informed decisions from qualified individuals.
 
 Examples of activities and functions appropriate at the **OPERATIONS** level include:
 
@@ -1274,7 +1261,7 @@ Rescue mode: Rescue mode is defined as situations where the victim is believed o
 
 Confined space rescue operations present a significant danger to fire department personnel. The safe and effective management of these operations requires special considerations and resources. Examples of possible confined spaces includes tunnels, sewers, tanks, process vessels, manholes, storm drains, furnaces, silos, and industrial spaces.
 
-**Joint Fire Protection District 3&8 functions at the AWARENESS level**. **Therefore it is the policy of the Joint Fire Protection District 3&8 that personnel SHALL NOT enter into a confined space. Entry is defined as breaking the plane of the opening to the confined space.**
+**Joint Fire Protection District 3&8 functions at the AWARENESS level**. **Therefore, it is the policy of the Joint Fire Protection District 3&8 that personnel shall not enter into a confined space. Entry is defined as breaking the plane of the opening to the confined space.**
 
 Examples of activities and functions appropriate at the **AWARENESS** level include:
 
@@ -1287,7 +1274,7 @@ Examples of activities and functions appropriate at the **AWARENESS** level incl
 
 #### Arrival on Scene
 
-1. A. The first-in unit should position the apparatus appropriately  
+1. The first-in unit should position the apparatus appropriately.
 2. The first arriving officer should establish command and complete an initial size-up including:  
    1. Secure any witnesses  
    2. Obtain the confined space entry permit and any other available information  
@@ -1325,7 +1312,7 @@ Trench: An excavation in which the depth is greater than the width and is less t
 
 Trench rescue operations present a significant danger to fire department personnel. The safe and effective management of these operations requires special considerations and resources.
 
-**Joint Fire Protection District 3&8 functions at the AWARENESS level**. **Therefore it is the policy of Joint Fire Protection District 3&8 that personnel SHALL NOT enter into an unsafe trench or excavation.**
+**Joint Fire Protection District 3&8 functions at the AWARENESS level**. **Therefore, it is the policy of Joint Fire Protection District 3&8 that personnel shall not enter into an unsafe trench or excavation.**
 
 Examples of activities and functions appropriate at this level include:
 
@@ -1347,18 +1334,18 @@ Examples of activities and functions appropriate at this level include:
 
 #### Scene Safety
 
-1. Establish hot, warm, and cold zones (utilize barrier tape and natural boundaries)
-
-Hot – 0-100’ from trench Warm – 100-500’ from trench Cold – 500’ and further from trench
-
-2. Secure and/or shut down machinery and traffic within 300’ of trench  
-3. Implement lock out/tag out  
-4. Place ground pads within 4 feet of trench
+1. Establish hot, warm, and cold zones (utilize barrier tape and natural boundaries):
+   1. Hot: 0–100’ from trench.
+   2. Warm: 100–500’ from trench.
+   3. Cold: 500’ and further from trench.
+2. Secure and/or shut down machinery and traffic within 300’ of trench.
+3. Implement lock out/tag out.
+4. Place ground pads within 4 feet of trench.
 
 #### Incident Actions
 
 1. If victim is partially buried, lower lifeline and instruct victim to tie around themselves  
-2. If indicated, lower ladder into trench \- for victim self-rescue only  
+2. If indicated, lower ladder into trench — for victim self-rescue only.
 3. If victim is buried, mark last known location using dry chemical extinguisher  
 4. Establish atmospheric monitoring  
 5. Establish ventilation of trench (if necessary)  
@@ -1380,13 +1367,13 @@ The number one basic self survival responsibility is to avoid getting into situa
 The rescue of trapped or lost firefighters within a burning building is extremely time sensitive due to our SCBAs providing a limited supply of air.
 
 1. All companies entering the hazard zone shall have at least one portable radio and rescue tools. If it is possible, all members on the team should have individual portable radios.  
-2. Minimum entry crew size is two members. These members must remain intact and together.  
-3. Crews must also be working on a specific assignment and be working under the direct supervision of a Division Officer or Command.  
+2. Minimum entry crew size is two members. These members shall remain intact and together.  
+3. Crews shall also be working on a specific assignment and be working under the direct supervision of a Division Officer or Command.  
 4. Crews will follow all SCBA guidelines, including, but not limited to PASS device usage.
 
 #### Emergency Procedures
 
-When a firefighter(s) become lost, trapped or experiences an equipment malfunction, the following procedures must be followed.
+When a firefighter or firefighters become lost, trapped, or experience an equipment malfunction, the following procedures shall be followed.
 
 1. Call For Help Immediately – Report on a portable radio “Mayday – Mayday – Mayday”. Announce your situation while continuing to find your way out. Firefighters should not delay notification of distress. The Mayday announcement should occur as soon as the firefighter thinks that he/she may be in trouble. The longer the delay of notification, the smaller the window of survivability will become.  
 2. Lost/trapped firefighter(s) should give Command information: LUNAR  
@@ -1395,22 +1382,22 @@ When a firefighter(s) become lost, trapped or experiences an equipment malfuncti
    - N = Name (names of lost or trapped crew members)  
    - A = Assignment (assignment crew was working on or assigned to prior to trouble)  
    - R = Resources you need (any special needs or information that may assist the RIT in locating and removing affected crew(s))
-3. **THE TERM “MAYDAY” WILL BE RESERVED ONLY TO REPORT LOST OR TRAPPED FIREFIGHTERS. THE TERM “EMERGENCY TRAFFIC” WILL BE USED TO REPORT ALL OTHER FIRE GROUND EMERGENCIES.**  
-4. **If a Mayday is heard, all other radio traffic on that channel will cease, until the Mayday operation is complete. The Incident Commander will then designate a new radio frequency for all unaffected fire ground units to switch to. The IC will also notify dispatch of the change in fire ground channels, and have dispatch announce this change.**  
+3. **The term “Mayday” shall be reserved only to report lost or trapped firefighters. The term “Emergency Traffic” shall be used to report all other fire ground emergencies.**  
+4. **If a Mayday is heard, all other radio traffic on that channel shall cease until the Mayday operation is complete. The Incident Commander shall then designate a new radio frequency for all unaffected fire ground units to switch to. The IC shall also notify dispatch of the change in fire ground channels and have dispatch announce this change.**  
 5. Radio Channels –  
    1. Crews or personnel declaring a Mayday should remain on the assigned operations channel. Once contact is made with the IC, affected crew shall remain on that channel.  
    2. After a Mayday is broadcast, the stricken firefighter(s), the Rapid Intervention Team, and the Safety Officer will stay on the designated channel, until resolution of the incident is achieved.  
    3. All communications will be directed to the RIT officer. All non-affected companies shall switch to another channel as assigned by the IC and the communications center.  
    4. All companies shall continue to operate in their originally assigned Division/Group.
-6. Activate PASS Device – As soon as a firefighter recognizes he/she is lost or trapped, the PASS device must be manually activated to sound the audible tone. If the device interferes with radio communications it may be turned off temporarily. Once messages are completed, the device must again be manually activated.  
+6. Activate PASS Device – As soon as a firefighter recognizes he/she is lost or trapped, the PASS device shall be manually activated to sound the audible tone. If the device interferes with radio communications it may be turned off temporarily. Once messages are completed, the device shall again be manually activated.  
 7. Crews Stay Together – Members that separate from each other make it more difficult for rescuers to locate all members of the crew. Crew members who stay together enhance their chances for all to be rescued and allows for easier, more efficient extraction  
 8. Follow Hose or Lifeline Out - Crew members should stay with the hose line and follow it out whenever possible. The hose line should always be treated as the safety line to the outside. The RIT team may follow the hose line into the structure to locate distressed firefighters. Where lifeline ropes are in use, follow the life line to the outside.  
 9. Searching For an Exit – A lost firefighter should always attempt to exit out of the building by whatever means possible. Where doors, windows, or other means of egress are not available, firefighters should next attempt to reach an exterior wall. Once at an exterior wall the firefighter can try to locate windows, doors, or hallways that generally lead to the outside. Rescuers will first search hallways, around windows and doors before sweeping large areas if victim location is unknown. Getting to hallways, doors, or windows will greatly increase the chances of being rescued early. Breeching walls for escape or fresh air can aid survivability. These actions will also provide predictable activities that will aid rescuers.  
-10. Retreat to a Safe Refuge – Where firefighter cannot find a way out, but there is a safe refuge (protected room or floor) away from the fire that the firefighter can retreat to, he/she should take advantage of this location. Command and the RIT team must then be notified of this location as soon as possible.  
-11. Stay Calm and Conserve Air – A conscious effort must be made by the firefighter(s) to control breathing. Unnecessary talking or physical activity must cease, unless absolutely necessary. Firefighters must control and pace their activities and breathing to extend their SCBA supply.  
+10. Retreat to a Safe Refuge – Where firefighter cannot find a way out, but there is a safe refuge (protected room or floor) away from the fire that the firefighter can retreat to, he/she should take advantage of this location. Command and the RIT team shall then be notified of this location as soon as possible.  
+11. Stay Calm and Conserve Air – A conscious effort shall be made by the firefighter or firefighters to control breathing. Unnecessary talking or physical activity shall cease unless absolutely necessary. Firefighters shall control and pace their activities and breathing to extend their SCBA supply.  
 12. Horizontal Position – If a firefighter cannot get out, he/she should assume a horizontal position on the floor that maximizes the audible effects of the PASS device. The firefighter should attempt to take this position at an exterior wall, doorway, or hallway that maximizes quick discovery by rescue crews.  
 13. Flashlight / Tapping Noise – In assuming a position to await rescuers, the firefighter(s) should attempt to position their flashlight towards the ceiling. This will enhance the rescuers ability to see the light and locate the downed firefighter. If able the firefighter should attempt tapping noises to assist in location by rescuers, (hitting a tool on a metal door, tapping on the floor).  
-14. Company or Division / Group Officers – Company officers who are unable to locate a crew or firefighters assigned to them, must immediately notify command and use Mayday to notify all personnel operating on the scene. When possible the officer’s report should include who is missing, their last known location, and the actions being taken. Fire fighting positions must not be abandoned during the rescue effort, the officers must control free-lancing. Command will initiate a rescue effort. On-going fire suppression and ventilation must continue to afford the victims increased opportunity for survival.  
+14. Company or Division / Group Officers – Company officers who are unable to locate a crew or firefighters assigned to them shall immediately notify command and use Mayday to notify all personnel operating on the scene. When possible, the officer’s report should include who is missing, their last known location, and the actions being taken. Fire fighting positions shall not be abandoned during the rescue effort; the officers shall control free-lancing. Command shall initiate a rescue effort. On-going fire suppression and ventilation shall continue to afford the victims increased opportunity for survival.  
 15. Personal Accountability Report – Immediately following declaration of a Mayday, a PAR shall be taken. This is important to confirm if additional personnel are safe and accounted for. With the exception of the RIT and Safety Officer, the PAR shall be conducted on the alternate radio channel assigned by the IC and communication’s center, as to not interfere with direct communication between RIT and effected crew(s).
 
 ### Rehab
@@ -1432,8 +1419,6 @@ The IC shall establish rehab when conditions indicate that rest and rehabilitati
 * Intensity – mental and/or physical stress at incidents such as major extrications, interior search and rescue, etc.
 
 The Rehab Manager shall function within the incident command system and report to the Incident Commander (IC) or the Incident Safety Officer (if established).
-
-**HF**
 
 #### Staffing of Rehab
 
@@ -1472,15 +1457,15 @@ Rehab should be in a location that will provide physical rest by allowing person
 
 #### Rehab period
 
-1. All personnel involved in emergency operations should be routinely evaluated in rehab. The following criteria should be used as a general guideline:  
-   1. After the use of two 30 minute SCBA cylinders  
-   2. After use of a single 45 or 60 minute SCBA cylinder  
-   3. After 40 minutes of intense work without SCBA
+1. All personnel involved in emergency operations should be routinely evaluated in rehab. The following criteria should be used as a general guideline:
+   1. After the use of two 30-minute SCBA cylinders.
+   2. After use of a single 45- or 60-minute SCBA cylinder.
+   3. After 40 minutes of intense work without SCBA.
 
-   \*However, extreme weather or strenuous working conditions may decrease the intervals.
+   Extreme weather or strenuous working conditions may decrease the intervals.
 
-2. Members entering rehab shall rest for a minimum of 10 minutes. Members shall rest for a minimum of 20 minutes if meeting the above listed criteria. Personnel requiring rest periods of greater than 30 minutes should be closely monitored for medical conditions. Those who exhibit problems with the baseline medical assessment after 30 minutes should be treated following EMS protocols and may require transport to the hospital.  
-3. Personnel requiring more than one hour of rest shall be released from duty and transported to the hospital
+2. Members entering rehab shall rest for a minimum of 10 minutes. Members shall rest for a minimum of 20 minutes if meeting the above listed criteria. Personnel requiring rest periods of greater than 30 minutes should be closely monitored for medical conditions. Those who exhibit problems with the baseline medical assessment after 30 minutes should be treated following EMS protocols and may require transport to the hospital.
+3. Personnel requiring more than one hour of rest shall be released from duty and transported to the hospital.
 
 #### Hydration
 
@@ -1525,17 +1510,17 @@ Qualified Firefighter: Any individual possessing a minimum of a Washington State
 
 #### Establishing RIT
 
-1. A Rapid Intervention Team (a minimum of 2 qualified firefighters) will be established when operations are being performed in an IDLH atmosphere as soon as is practicable.  
-2. The establishment of a RIT is the responsibility if the Incident Commander and preferably will consist of more than the minimum of two members. The decision will be based on the following:  
-   1. Incident type.  
-   2. Building construction.  
-   3. Size of building.  
+1. A Rapid Intervention Team (a minimum of 2 qualified firefighters) shall be established when operations are being performed in an IDLH atmosphere as soon as is practicable.
+2. The establishment of a RIT is the responsibility of the Incident Commander and preferably will consist of more than the minimum of two members. The decision will be based on the following:
+   1. Incident type.
+   2. Building construction.
+   3. Size of building.
    4. Number of personnel operating within the IDLH atmosphere.
 
-\*Note: These are not meant to be limiting factors when establishing the RIT.
+   Note: These are not meant to be limiting factors when establishing the RIT.
 
-3. If the incident is in a high or mid-rise structure, large area facility, or other areas with multiple IDLH atmospheres, the incident commander shall establish the necessary number of Rapid Intervention Teams so that the rescue can be accomplished without a deployment delay. A team should be considered for each remote access point on any large facility. The incident commander will be responsible for determining the number of teams needed based on the specifics of the incident.  
-4. Due to the highly stressful and sometimes technical nature of incidents involving the rescue of emergency personnel, it is preferable that the RIT members be some of the more experienced and highly trained members.  
+3. If the incident is in a high or mid-rise structure, large area facility, or other areas with multiple IDLH atmospheres, the incident commander shall establish the necessary number of Rapid Intervention Teams so that the rescue can be accomplished without a deployment delay. A team should be considered for each remote access point on any large facility. The incident commander will be responsible for determining the number of teams needed based on the specifics of the incident.
+4. Due to the highly stressful and sometimes technical nature of incidents involving the rescue of emergency personnel, it is preferable that the RIT members be some of the more experienced and highly trained members.
 5. The incident commander will appoint a team leader after establishing the RIT. The Rapid Intervention Team leader reports directly to the Incident Commander throughout the incident, until deployed.
 
 #### RIT Responsibilities
@@ -1644,7 +1629,7 @@ It is the policy of the Joint Fire Protection District 3&8 to provide the highes
 
 ## Injury and Illness Reporting
 
-If any member suffers an injury or illness, as a result of his or her duties while serving as a member of the Joint Fire Protection District 3&8 his/her medical expenses may be covered by the provisions of the Worker’s Compensation Act. An injured or ill member must immediately notify his/her Commanding officer or Fire Chief of the injury/illness and incident and complete appropriate paperwork.
+If any member suffers an injury or illness, as a result of his or her duties while serving as a member of the Joint Fire Protection District 3&8 his/her medical expenses may be covered by the provisions of the Worker’s Compensation Act. An injured or ill member shall immediately notify his/her Commanding officer or Fire Chief of the injury/illness and incident and complete appropriate paperwork.
 
 ## Physical and Mental Capabilities
 
@@ -1698,7 +1683,7 @@ and applicants are guaranteed equal opportunities.
 
 The most productive and satisfying work environment is one in which work is accomplished in a spirit of mutual trust and respect. Harassment is a form of discrimination that is offensive, impairs morale, undermines the integrity of employment relationships and causes serious harm to the productivity, efficiency and stability of our organization. Joint Fire Protection District 3&8 does not now, nor will ever endorse or condone any form of discrimination or harassment by any members.
 
-All employees have a right to work in an environment free from discrimination and harassing conduct, including sexual harassment. Harassment on the basis of an employee's **race, color, creed, ancestry, national origin, age, disability, sex, arrest or conviction record, marital status, sexual orientation, membership in the military reserve or use or nonuse of lawful products away from work is expressly prohibited under this policy**. Harassment on any of these bases is also illegal under Section 111.31-111.39, Washington Statutes.
+All employees have a right to work in an environment free from discrimination and harassing conduct, including sexual harassment. Harassment on the basis of an employee's **race, color, creed, ancestry, national origin, age, disability, sex, arrest or conviction record, marital status, sexual orientation, membership in the military reserve or use or nonuse of lawful products away from work is expressly prohibited under this policy**. Harassment on any of these bases is also illegal under the Washington Law Against Discrimination, chapter 49.60 RCW (including RCW 49.60.180, Unfair practices of employers).
 
 **DEFINITION:** In general, harassment means persistent and unwelcome conduct or actions on any of the bases underlined above. Sexual harassment is one type of harassment and includes unwelcome sexual advances, unwelcome physical contact of a sexual nature or unwelcome verbal or physical conduct of a sexual nature.
 
@@ -1731,26 +1716,33 @@ Any member or employee who believes he or she is being discriminated against or 
 
 Information on your right to file a state or federal harassment complaint is also available from:
 
-State of Washington Equal Rights Agency
+Washington State Human Rights Commission
 
-201 East Washington Avenue  
-Madison, WI 53703  
-Phone: (608) 266-6860  
-[https://dwd.Washington.gov/er/](https://dwd.wisconsin.gov/er/)
+Olympia Headquarters: 711 South Capitol Way, Suite 402, Olympia, WA 98501  
+Mailing address: PO Box 42490, Olympia, WA 98504-2490  
+Toll-free: 1-800-233-3247  
+Local: (360) 753-6770  
+[https://www.hum.wa.gov](https://www.hum.wa.gov)
 
-US Equal Employment Opportunity Commission
+The Commission also maintains a Spokane satellite office serving eastern Washington, including Stevens County:
 
-Reuss Federal Plaza  
-310 West Washington Avenue, Suite 500  
-Milwaukee, WI 53203-2292  
-1-800-669-4000  
-[http://www.eeoc.gov](http://www.eeoc.gov/)
+Rock Pointe Plaza III, 1330 North Washington Street, Suite 2460, Spokane, WA 99201  
+Phone: (509) 568-3196
+
+US Equal Employment Opportunity Commission — Seattle Field Office
+
+Federal Office Building  
+909 First Avenue, Suite 400  
+Seattle, WA 98104-1061  
+1-800-669-4000 (national info line)  
+Local: (206) 220-6884  
+[https://www.eeoc.gov](https://www.eeoc.gov)
 
 Upon notification of a discrimination or harassment complaint, a confidential and impartial investigation will be promptly commenced and will include direct interviews with involved parties and where necessary with members or employees who may be witnesses or have knowledge of matters relating to the complaint. The parties of the complaint will be notified of the findings and their options.
 
 ### Retaliation
 
-Retaliation of any kind against any member or employee bringing a complaint or assisting in the investigation of a complaint is prohibited. Such member or employee may not be adversely affected in any manner related to their employment. Such retaliation is also illegal under [Section111.322 (2m), Washington Statutes](http://folio.legis.state.wi.us/cgi-bin/om_isapi.dll?clientID=46728346&infobase=stats.nfo&j1=111.322\(2m\)&jump=111.322\(2m\)&softpage=Browse_Frame_Pg).
+Retaliation of any kind against any member or employee bringing a complaint or assisting in the investigation of a complaint is prohibited. Such member or employee may not be adversely affected in any manner related to their employment. Such retaliation is also illegal under [RCW 49.60.210, Unfair practices — Discrimination against person opposing unfair practice — Retaliation against whistleblower](https://app.leg.wa.gov/rcw/default.aspx?cite=49.60.210), part of the Washington Law Against Discrimination.
 
 ### Disciplinary Action
 
@@ -1923,7 +1915,7 @@ Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Date of Birth: \_\_\_/\_\_\_\_/\_\_\_\_ Height: \_\_\_\_\_\_ ft. \_\_\_\_\_\_ in. Weight: \_\_\_\_\_\_\_\_\_\_ lbs. Sex: Male Female
 
-Phone: (\_\_\_\_\_\_) \_\_\_\_\_\_ \-\_\_\_\_\_\_\_\_ The best time to reach you at this number: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Phone: (\_\_\_\_\_\_) \_\_\_\_\_\_-\_\_\_\_\_\_\_\_ The best time to reach you at this number: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Job title: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -2223,7 +2215,7 @@ Time of Event:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Witnesses:\_\_\_\_\_\_\
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**TO BE COMPLETED ONLY IF INJURY**
+**To Be Completed Only If Injury**
 
 |  |  |
 | :---- | :---- |
@@ -2233,4 +2225,77 @@ Time of Event:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Witnesses:\_\_\_\_\_\_\
 
 Signature of Member/ Employee: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Signature of Officer/Fire Chief: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+Signature of Officer/Fire Chief: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+---
+
+## Review Notes
+
+*This section summarizes items that require verification, correction, or a policy decision by department leadership before adoption. It is added by the editor and is not part of the operational SOG. Each item cross-references an inline flag in the body of the document.*
+
+### Substantive citation and jurisdiction issues (Wisconsin content in a Washington SOG)
+
+The document was adapted from a Wisconsin-based template. Several agency names, statutes, addresses, and URLs still pointed to Wisconsin authorities and have been corrected to their Washington equivalents. Resolutions for items 1–6 are recorded in the next subsection ("Wisconsin → Washington replacements applied"). Item numbering (1–16) is preserved across subsections for cross-reference stability.
+
+### Wisconsin → Washington replacements applied
+
+The following resolutions were applied to items 1–6 above. The corresponding inline `[FLAGGED: ...]` tags in the body have been removed.
+
+1. **Training section — SPS 330 citation.** Replaced "Washingtons Safety and Health Standards (SPS 330.)" with "Washington Safety Standards for Firefighters (chapter 296-305 WAC), administered by the Washington State Department of Labor & Industries under the Washington Industrial Safety and Health Act (chapter 49.17 RCW)." The typo "Washingtons" → "Washington's" is no longer relevant because the sentence was rewritten. Sources verified: `app.leg.wa.gov/wac/default.aspx?cite=296-305` (chapter title "Safety Standards for Firefighters") and `lni.wa.gov/safety-health/safety-topics/industry-topics/fire-fighting` (L&I as administering agency; WISHA statutory authority under chapter 49.17 RCW).
+2. **Respiratory Protection — Program Administrator responsibilities.** Replaced "Washington Department of Safety and Professional Services, Chapter SPS 330, Fire Department Safety and Health Standards" with "Washington State Department of Labor & Industries, chapter 296-305 WAC, Safety Standards for Firefighters." Sources verified: same as item 1.
+3. **Equal Opportunity — statute citation.** Replaced "Section 111.31-111.39, Washington Statutes" with "Washington Law Against Discrimination, chapter 49.60 RCW (including RCW 49.60.180, Unfair practices of employers)." Sources verified: `app.leg.wa.gov/rcw/default.aspx?cite=49.60.180` and MRSC (`mrsc.org/explore-topics/personnel/rights/employment-discrimination`), which confirm chapter 49.60 RCW is the Washington Law Against Discrimination and RCW 49.60.180 is the core employer-unfair-practices section.
+4. **Complaint Procedures — state contact block.** Replaced the "State of Washington Equal Rights Agency" block (Madison, WI) with the Washington State Human Rights Commission contact block: Olympia headquarters at 711 South Capitol Way, Suite 402, Olympia, WA 98501; mailing address PO Box 42490, Olympia, WA 98504-2490; toll-free 1-800-233-3247; local (360) 753-6770; `https://www.hum.wa.gov`. Also added the Spokane satellite office (Rock Pointe Plaza III, 1330 North Washington Street, Suite 2460, Spokane, WA 99201; (509) 568-3196) because it serves Stevens County. Sources verified: `hum.wa.gov/about-us/contact-us` (headquarters, mailing address, phones); `hum.wa.gov` general brochure PDF (Spokane satellite office address and phone).
+5. **Complaint Procedures — EEOC office.** Replaced the Milwaukee EEOC address block with the EEOC Seattle Field Office: Federal Office Building, 909 First Avenue, Suite 400, Seattle, WA 98104-1061; local (206) 220-6884; toll-free 1-800-669-4000; `https://www.eeoc.gov`. Sources verified: `eeoc.gov/field-office/seattle/location` (address); `eeoc.gov/federal-sector/management-directive/appendix-n-eeo-md-110-equal-employment-opportunity-commission` (local phone 206-220-6884 and geographic jurisdiction: Alaska, Idaho, Oregon, Montana, and Washington); `eeoc.gov/contact-eeoc` (1-800-669-4000 remains the current national info line).
+6. **Retaliation — statute citation and link.** Replaced "Section 111.322(2m), Washington Statutes" and its `legis.state.wi.us` URL with "RCW 49.60.210, Unfair practices — Discrimination against person opposing unfair practice — Retaliation against whistleblower," linked to `https://app.leg.wa.gov/rcw/default.aspx?cite=49.60.210`, and framed as part of the Washington Law Against Discrimination. Sources verified: `app.leg.wa.gov/rcw/default.aspx?cite=49.60.210` (statute title and text) and Washington Civil Jury Instructions (`govt.westlaw.com/wciji`) citing RCW 49.60.210(1) as the WLAD anti-retaliation provision.
+
+### Content and template artifacts requiring clarification
+
+7. **Respiratory Protection — PLHCP identifications.** The source document formatted two PLHCP answers as `###` headings (`### Providence Medical Center` after "medical evaluations shall be administered...by the following PLHCP" and `### NFPA.` after "the department shall use the following PLHCP to administer the questionnaire"). Both are data values, not section titles, and the second is not a PLHCP at all (NFPA is a standards body). The Providence entry was converted from a heading to plain text with a `[REVIEW REQUIRED]` flag asking for the specific contact information. The NFPA entry was removed and replaced with a fill-in-the-blank line and a `[REVIEW REQUIRED]` flag to identify the actual PLHCP for questionnaire administration.
+8. **Rehab section — orphan "HF" label.** The source contained a paragraph consisting solely of `**HF**` between the Rehab Manager paragraph and the "Staffing of Rehab" subsection. Its meaning could not be inferred and it added no operational content, so it was removed. If "HF" was intended as a meaningful label (e.g., a form field, a hazard flag, or a section marker), restore it with the intended content.
+
+### Formatting corrections applied (mechanical, per style guide Section 18)
+
+- Fixed broken numbered lists caused by intervening paragraphs or notes in: Trench Rescue → Scene Safety (hot/warm/cold zones now nested as substeps of step 1); Rehab → Rehab Period (weather-modifier note reflowed as continuation text of step 1); Respiratory Protection → Establishing RIT (limiting-factors note reflowed as continuation text of step 2).
+- Fixed a stray letter marker `1. A. The first-in unit...` in Confined Space Rescue → Arrival on Scene.
+- Converted the Orientation Program topics from a run of individual paragraphs to a proper bulleted list (Section 18.2 — a list of items should be a list, not blank-line-separated paragraphs).
+- Retitled two headings: `### Medical evaluation of FIREFIGHTERS required to use respirators` → `### Medical Evaluation of Firefighters Required to Use Respirators` (Section 18.3, no ALL-CAPS in headings); `### (2 In/2 Out)` → `### Two-In/Two-Out`.
+- Replaced the raw `<sub>...</sub>` HTML wrapper around the Chain of Command diagram source note with italic text (Section 18.6 — no raw HTML in source).
+- Removed unnecessary backslash escapes on hyphens (`\-50 degrees` → `-50 degrees`; `into trench \-` → `into trench —`; `\_\_\_\_ \-\_\_\_\_` → `\_\_\_\_-\_\_\_\_` in the questionnaire phone field). The long `\_\_\_\_\_\_\_\_\_` fill-in-the-blank runs in the appendices were preserved intact per Section 18.5.
+- Normalized two hidden non-breaking spaces (U+00A0) on the Training section's SPS 330 line to regular ASCII spaces.
+- Applied Stage A of the modal-terms standardization pass (Section 4.2): `must` → `shall` in body prose (~40 conversions, excluding OSHA-quoted regulatory text and two grammatical-trigger clauses); directive `will` → `shall` in numbered arrival-on-scene / incident-action procedures and a small number of unambiguous role-directed sentences (~7 conversions); all ALL-CAPS emphasis blocks rewritten to normal-case bold (10 conversions). See Review Notes items 11–13 for the full accounting, including what was intentionally preserved and what was deferred to a Stage B pass.
+
+### Additional items observed but not changed (flagged for leadership review)
+
+9. **Chain of Command image source.** The diagram source note remains as an italic caption. If the build pipeline previously depended on the `<sub>` HTML tag for smaller font sizing, verify that italic rendering is acceptable in both the PDF and DOCX outputs (Section 18.6 defers image and text sizing to the pipeline).
+10. **Injury/Incident Reporting Form (Appendix E).** The table cell at "Was medical treatment or first aid necessary?" uses a raw `<br>` HTML tag to force line breaks inside the cell. This is technically a Section 18.6 violation, but a plain Markdown table cell has no clean way to include line breaks. Leaving as-is; consider restructuring the row into separate rows if a fully HTML-free source is required.
+11. **Modal-term standardization — Stage A applied; Stage B deferred.** A conservative first pass on the mandatory-modal terminology was applied per Section 4.2:
+
+    - **`must` → `shall` in body prose (~40 conversions).** Every `must` that clearly expressed a mandatory requirement in ordinary procedural text was converted to `shall`. This preserves the single-mandatory-modal principle of Section 4.2 (SHALL is the department's one mandatory-requirement modal; MUST is reserved for boxed Warning/Caution blocks — and per the leadership decision recorded during editing, no boxed Warning/Caution blocks were introduced in this pass).
+    - **Directive `will` → `shall` (targeted, ~7 conversions).** Only the unambiguous "Role + will + directive verb" pattern was converted, and only inside numbered arrival-on-scene / incident-action procedures (Structure Fires, Vehicle Fires, Vehicle Accidents, Wildland Fires) and a few obvious directives elsewhere (the driver's pre-exit inspection; officers documenting deviations to the Chief; the MAYDAY term-reservation and radio-cease blocks; the Transfer of Command lead sentence). Programmatic, predictive, and passive `will` (e.g., "the training will include...," "a record will be maintained...") was NOT touched, because in many cases it describes what the program does rather than directing a specific actor to do it.
+    - **ALL-CAPS emphasis blocks → normal-case bold (10 conversions).** The IC command-retention statement, the Communications "DO NOT interfere" rule, the SCBA compressor caution, the Confined Space / Trench Rescue "SHALL NOT enter" statements, the two MAYDAY term-reservation and radio-cease blocks, the "ALREADY IDLH" emphasis, and the "TO BE COMPLETED ONLY IF INJURY" form label were all rewritten to normal (or title) case with bold retained. No boxed Warning/Caution blocks were introduced.
+    - **Case in prose:** `shall` remains lowercase in body prose (matching Section 4.2's own example sentences and the document's existing convention). ALL CAPS is reserved for warning-block emphasis, which this pass avoided introducing.
+
+    **Not done in this pass (Stage B — recommend a follow-up pass with department review):**
+    - Every existing `should` statement was left in place. Some read as genuinely recommended practice (e.g., "A Spotter should always be used when backing, if available"); others may be intended as mandatory (e.g., "Personnel should not remove their breathing apparatus until the area is completely cleared of toxic gases"). Each needs a leadership classification of SHALL vs. SHOULD vs. MAY.
+    - The permissive-as-mandatory constructions "may only" and "no ... may" (e.g., "Fire apparatus may only be operated by...," "No new fire fighter may be permitted to participate in structural fire fighting...") were left as-is. Grammatically they express mandatory restrictions but are phrased as permissions; a follow-up pass should rewrite each as either SHALL (mandatory positive) or SHALL NOT (mandatory negative).
+    - The remaining ~120 `will` occurrences that were not clearly directive-in-a-procedure were left alone.
+
+12. **OSHA regulatory text — intentionally preserved.** Four occurrences of `must` were left as-is because they are verbatim excerpts from OSHA's Respirator Medical Evaluation Questionnaire (29 CFR 1910.134 Appendix C). Per Section 12.1 (Citation Accuracy), quoted regulatory text is not rewritten:
+    - "Your employer must allow you to answer this questionnaire during normal working hours..." (Appendix C, employee/employer instructions)
+    - "The following information must be provided by every employee..." (Appendix C, Section 1 header)
+    - "Questions 1 through 9 must be answered by every employee..." (Appendix C, Part A header)
+    - "Questions 10 through 15 below must be answered..." (Appendix C, Part A conditional-questions header)
+
+13. **Grammatical-trigger `must` — intentionally preserved.** Two occurrences of `must` were left as-is because they express operational necessity ("needs to"), not a policy directive:
+    - "In situations where assistance is not available and the apparatus must be immediately moved, the Driver shall first walk completely around the apparatus..." — the mandatory clause is the second half (SHALL); the first half is a trigger condition.
+    - "When firefighters must dispose of sharps or contaminated broken glassware, all handling will be with tongs or forceps." — same pattern: the trigger clause is not itself a mandatory instruction.
+
+    Recommend the follow-up modal-terms pass rewrite these two as "when the apparatus needs to be moved" and "when firefighters need to dispose of..." for absolute clarity, but they are not incorrect as they stand.
+14. **Active voice and command voice.** Many procedures are written in passive voice or without an explicit actor (Section 4.1, Section 7.1). Not corrected wholesale in this pass. Recommend a dedicated voice-and-actor pass.
+15. **Wildland Fires — Incident Actions.** Item 8 reads "Collaborate with the DNR, Forest Service Officials, and specialists/technicians as" — the sentence appears to be truncated. `[REVIEW REQUIRED: Complete the sentence — collaborate as what? "as appropriate," "as needed," "as directed by the IC," etc.]`
+16. **Stevens County Public Health referral phone number.** The Member Assistance Referral Program lists 509-684-2262 for Stevens County public health. `[REVIEW REQUIRED: Verify current phone number and confirm the referral relationship still exists.]`
+17. **Section numbering and heading hierarchy in Respiratory Protection.** `### Responsibilities` sits directly above `### Program Administrator` and `### Fire Department Members` (which look like they should be subsections of Responsibilities). The current file uses `####` only under `## Incident Guidelines` (per Section 18.3, do not introduce a new heading depth), so no structural change was made. If leadership wants sub-subsections here, `####` can be extended into Respiratory Protection with a note to the pipeline.
+18. **Communications section — Stevens County VHF radio.** The section states "Stevens County currently runs on a VHF radio system that has repeated channels. Stevens County Fire Dispatch is located in Colville." `[REVIEW REQUIRED: Verify this is still current — radio and dispatch details change over time.]`
+
+*End of Review Notes.*
+

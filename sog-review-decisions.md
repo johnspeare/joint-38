@@ -1,12 +1,12 @@
 # Standard Operating Guidelines — Review Summary and Decisions Log
 
-*Joint Fire Protection District 3 & 8 · Companion document to `sog-1st-edit.md` · Prepared for the Chief's review*
+*Joint Fire Protection District 3 & 8 · Companion document to `sog-1st-pass.md` · Prepared for the Chief's review*
 
 ---
 
 ## Executive Summary
 
-**Purpose.** This document accompanies the edited draft of the District's Standard Operating Guidelines (`sog-1st-edit.md`). It exists so the Chief can efficiently approve the substantive changes already made, decide a short list of remaining policy questions, and see the open items that need information from the department before the SOG can be finalized.
+**Purpose.** This document accompanies the edited draft of the District's Standard Operating Guidelines (`sog-1st-pass.md`). It exists so the Chief can efficiently approve the substantive changes already made, decide a short list of remaining policy questions, and see the open items that need information from the department before the SOG can be finalized.
 
 **What was changed in the draft.** Two substantive edit passes were made against the baseline (`sog-1st-pass.md`):
 
@@ -29,7 +29,7 @@ Formatting cleanup (broken numbered lists, ALL-CAPS headings, stray HTML, hidden
 
 ### 1.1 Jurisdictional corrections (Wisconsin → Washington)
 
-The baseline document referenced Wisconsin authorities in six places. All six are now corrected in the draft; the Chief's role here is to confirm that these are the right Washington authorities for the District. Full source citations for each replacement are in the Review Notes section of `sog-1st-edit.md` (items 1–6 under "Wisconsin → Washington replacements applied").
+The baseline document referenced Wisconsin authorities in six places. All six are now corrected in the draft; the Chief's role here is to confirm that these are the right Washington authorities for the District. Full source citations for each replacement are in the Review Notes section of `sog-1st-pass.md` (items 1–6 under "Wisconsin → Washington replacements applied").
 
 | # | Where in the SOG | Was | Now |
 |---|---|---|---|
@@ -129,14 +129,14 @@ Two sentences in the baseline are grammatically phrased as *permissions* but ope
 
 ## Section 4 — Open Issues (Information Needed Before Adoption)
 
-Independent of the modal-classification decisions above, four items need information from the department. Each is flagged inline in `sog-1st-edit.md` with `[REVIEW REQUIRED]`.
+Independent of the modal-classification decisions above, four items need information from the department. Each is flagged inline in `sog-1st-pass.md` with `[REVIEW REQUIRED]`.
 
 1. **PLHCP identifications (Respiratory Protection).** The baseline listed two answers where the SOG asks who provides Physician-or-Licensed-Healthcare-Professional services: one was "Providence Medical Center" (converted from a heading to plain text and flagged), the other was "NFPA" (removed because NFPA is a standards body, not a healthcare provider). **Needed:** the correct provider name and contact for (a) firefighter medical evaluations and (b) OSHA medical-evaluation questionnaire administration.
 2. **Wildland Fires — Incident Actions item 8 (truncated sentence).** The sentence reads *"Collaborate with the DNR, Forest Service Officials, and specialists/technicians as"* and stops mid-clause. **Needed:** completion of the sentence (e.g., "as directed by the IC," "as incident complexity warrants").
 3. **Stevens County Public Health referral phone number.** The Member Assistance Referral Program lists 509-684-2262. **Needed:** confirmation the number and referral relationship are current.
 4. **Stevens County Fire Dispatch / VHF radio.** The Communications section states dispatch is located in Colville on a VHF system with repeated channels. **Needed:** confirmation the details are current.
 
-Two additional non-blocking items are listed in the Review Notes section of `sog-1st-edit.md` (an orphaned "HF" label removed from the Rehab section, and a Chain-of-Command diagram caption converted from `<sub>` HTML to italics); neither requires a leadership decision unless the build pipeline complains.
+Two additional non-blocking items are listed in the Review Notes section of `sog-1st-pass.md` (an orphaned "HF" label removed from the Rehab section, and a Chain-of-Command diagram caption converted from `<sub>` HTML to italics); neither requires a leadership decision unless the build pipeline complains.
 
 ---
 
@@ -144,7 +144,7 @@ Two additional non-blocking items are listed in the Review Notes section of `sog
 
 1. **Chief reviews Punch Lists A, B, and C** and returns decisions (a single markup on this document is sufficient).
 2. **Department fills in the four Open Issues** in Section 4.
-3. **Tech writer applies the Stage B decisions** to `sog-1st-edit.md`, removes the corresponding `[REVIEW REQUIRED]` and Review Notes items, and produces a `sog-2nd-edit.md`.
+3. **Tech writer applies the Stage B decisions** to `sog-1st-pass.md`, removes the corresponding `[REVIEW REQUIRED]` and Review Notes items, and produces a `sog-2nd-edit.md`.
 4. **Optional third pass** — active-voice / actor-clarification review of procedures currently written in passive voice (noted in Review Notes item 14). Not required for adoption; recommended for readability.
 5. **Adoption** — final document goes to the Board of Commissioners for approval per District policy.
 
