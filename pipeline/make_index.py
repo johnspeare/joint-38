@@ -37,7 +37,6 @@ HTML = f"""<!DOCTYPE html>
   <li><a href="{quote(DOCX_NAME)}">{DOCX_NAME}</a> — editable</li>
   <li><a href="{SOURCE_URL}">Markdown source</a></li>
 </ul>
-<p class="soon">Coming soon: Offline mobile web app version</p>
 </body>
 </html>
 """
