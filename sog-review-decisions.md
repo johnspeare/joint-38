@@ -1,25 +1,25 @@
 # Standard Operating Guidelines — Review Summary and Decisions Log
 
-*Joint Fire Protection District 3 & 8 · Companion document to `sog-1st-pass.md` · Prepared for the Chief's review*
+*Joint Fire Protection District 3 & 8 · Companion document to [Standard Operating Guidelines](https://johnspeare.github.io/joint-38/Joint%20Fire%203%268%20Standard%20Operating%20Guide%20DRAFT.docx) · Prepared for the Chief's review*
 
 ---
 
 ## Executive Summary
 
-**Purpose.** This document accompanies the edited draft of the District's Standard Operating Guidelines (`sog-1st-pass.md`). It exists so the Chief can efficiently approve the substantive changes already made, decide a short list of remaining policy questions, and see the open items that need information from the department before the SOG can be finalized.
+**Purpose.** This document accompanies the edited draft of the District's [Standard Operating Guidelines](https://johnspeare.github.io/joint-38/Joint%20Fire%203%268%20Standard%20Operating%20Guide%20DRAFT.docx). It exists so the Chief can efficiently approve the substantive changes already made, decide a short list of remaining policy questions, and see the open items that need information from the department before the SOG can be finalized.
 
-**What was changed in the draft.** Two substantive edit passes were made against the baseline (`sog-1st-pass.md`):
+**What was changed in the draft.** Two substantive edit passes were made:
 
-1. **Jurisdictional corrections.** The baseline was adapted from a Wisconsin template and still cited Wisconsin agencies, statutes, and offices in six places. All six were replaced with the correct Washington authorities (WAC 296-305, RCW 49.17, RCW 49.60, the Washington State Human Rights Commission, and the EEOC Seattle Field Office). Each replacement is source-verified and documented in the Review Notes section of the draft.
-2. **Mandatory-language standardization (Stage A).** The draft was aligned to a single mandatory modal — **shall** — for all binding requirements, matching the style guide and long-standing fire-service convention. Roughly forty `must` statements and seven directive `will` statements were converted; ten ALL-CAPS emphasis blocks were rewritten in normal case with bold retained. Verbatim OSHA regulatory text was left untouched.
+1. **Jurisdictional corrections.** The baseline was adapted from a Wisconsin template and still cited Wisconsin agencies, statutes, and offices in six places. All six were replaced with the correct Washington authorities. Each replacement is source-verified and documented in the Review Notes section of the draft.
+2. **Mandatory-language standardization (Stage A).** The draft was aligned to a single mandatory modal — **shall** — for all binding requirements, matching the style guide and long-standing fire-service convention. 
 
-Formatting cleanup (broken numbered lists, ALL-CAPS headings, stray HTML, hidden characters) was also completed. That work is mechanical and does not require the Chief's sign-off; the details are in the Review Notes section of the draft for the tech writer's reference.
+Formatting cleanup was also completed. That work is mechanical and does not require the Chief's sign-off; the details are in the Review Notes section of the draft for the tech writer's reference.
 
-**What the Chief needs to decide.** Three short lists:
+**What the Chief needs to decide.** Three lists:
 
-- **Punch List A — Sign-off on Wisconsin → Washington replacements** (Section 1 below). One-line confirm-or-correct for each of the six items.
-- **Punch List B — Stage B modal classification** (Section 2 below). Five safety-critical `should` statements where the recommendation is to promote to **shall** based on OSHA, WAC, or NFPA authority. Everything else in the "should" category can remain as-is unless the Chief flags something specific.
-- **Punch List C — Permissive-as-mandatory rewrites** (Section 3 below). Two short sentences currently phrased as "may only / no ... may" that should be rewritten as "shall / shall not." Editorial mechanics only, but a policy read.
+- **Punch List A — Sign-off on Wisconsin → Washington replacements** (Section 1 below). 
+- **Punch List B — Stage B modal classification** (Section 2 below). Five safety-critical `should` statements where the recommendation is to promote to **shall** based on OSHA, WAC, or NFPA authority. 
+- **Punch List C — Permissive-as-mandatory rewrites** (Section 3 below). Two short sentences currently phrased as "may only / no ... may" that should be rewritten as "shall / shall not." 
 
 **Open items.** Independent of the decisions above, four pieces of information are needed from the department before adoption: two PLHCP identifications, one truncated sentence, and two contact-verification checks. Section 4 lists them.
 
@@ -29,7 +29,7 @@ Formatting cleanup (broken numbered lists, ALL-CAPS headings, stray HTML, hidden
 
 ### 1.1 Jurisdictional corrections (Wisconsin → Washington)
 
-The baseline document referenced Wisconsin authorities in six places. All six are now corrected in the draft; the Chief's role here is to confirm that these are the right Washington authorities for the District. Full source citations for each replacement are in the Review Notes section of `sog-1st-pass.md` (items 1–6 under "Wisconsin → Washington replacements applied").
+The baseline document referenced Wisconsin authorities in six places. Confirm that these are the right Washington authorities for the District.
 
 | # | Where in the SOG | Was | Now |
 |---|---|---|---|
@@ -136,18 +136,8 @@ Independent of the modal-classification decisions above, four items need informa
 3. **Stevens County Public Health referral phone number.** The Member Assistance Referral Program lists 509-684-2262. **Needed:** confirmation the number and referral relationship are current.
 4. **Stevens County Fire Dispatch / VHF radio.** The Communications section states dispatch is located in Colville on a VHF system with repeated channels. **Needed:** confirmation the details are current.
 
-Two additional non-blocking items are listed in the Review Notes section of `sog-1st-pass.md` (an orphaned "HF" label removed from the Rehab section, and a Chain-of-Command diagram caption converted from `<sub>` HTML to italics); neither requires a leadership decision unless the build pipeline complains.
-
 ---
 
-## Section 5 — Recommended Next Steps
 
-1. **Chief reviews Punch Lists A, B, and C** and returns decisions (a single markup on this document is sufficient).
-2. **Department fills in the four Open Issues** in Section 4.
-3. **Tech writer applies the Stage B decisions** to `sog-1st-pass.md`, removes the corresponding `[REVIEW REQUIRED]` and Review Notes items, and produces a `sog-2nd-edit.md`.
-4. **Optional third pass** — active-voice / actor-clarification review of procedures currently written in passive voice (noted in Review Notes item 14). Not required for adoption; recommended for readability.
-5. **Adoption** — final document goes to the Board of Commissioners for approval per District policy.
-
----
 
 *End of Review Summary.*
