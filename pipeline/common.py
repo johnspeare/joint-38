@@ -37,7 +37,7 @@ from docx.shared import Inches, Pt, RGBColor
 DOC_BASENAME = "Joint Fire 3&8 Standard Operating Guide DRAFT"
 TITLE_PAGE_LINE_1 = "Joint Fire Protection 3 & 8"
 TITLE_PAGE_LINE_2 = "Standard Operating Guidelines"
-TITLE_PAGE_REVISION = "Revised Summer 2026"
+TITLE_PAGE_REVISION = "Revised November 2026"
 TITLE_LOGO_SIZE = Inches(3.25)
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
