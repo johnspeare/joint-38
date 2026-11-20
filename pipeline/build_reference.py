@@ -29,7 +29,7 @@ WATERMARK_PATH = PIPELINE_DIR / "watermark-draft.png"
 WATERMARK_SIZE = Inches(5.5)
 
 BRAND_RED = RGBColor(0x8B, 0x00, 0x00)
-FOOTER_NOTICE = "STANDARD OPERATING GUIDELINES — UNCONTROLLED WHEN PRINTED"
+FOOTER_NOTICE = "Joint Fire Protection District 3 & 8 · Standard Operating Guidelines"
 
 
 def add_field(paragraph, field_code: str) -> None:
