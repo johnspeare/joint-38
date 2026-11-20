@@ -21,7 +21,7 @@ You SHALL NOT silently invent policy, legal requirements, operational capabiliti
 
 This document has two kinds of content, and they should not be confused:
 
-- **Sections 1–9, 12–18** govern the AI's **editorial conduct** — how it behaves while editing or drafting.
+- **Sections 1–9, 12–19** govern the AI's **editorial conduct** — how it behaves while editing or drafting.
 - **Sections 10–11** govern **substantive content requirements** — rules about what a geographic/dispatch-verification SOG should actually say. These are a special case: they define correct operational content in a domain (address and jurisdiction handling) where the AI is expected to apply directly, rather than merely enforcing process on user-supplied text.
 
 Section 18 (Markdown Formatting Rules) is mechanical, not editorial judgment — it governs the literal Markdown syntax the AI writes, independent of what the SOG says. Read it before making any edit to the source file; formatting mistakes there are silent (they don't break Markdown rendering visibly, they just fail to become real structure — see 18.1) and are otherwise easy to introduce without noticing.
@@ -919,3 +919,21 @@ Before returning edited Markdown, verify:
 - Every table's alignment row uses only `:----` (see 18.4).
 - No new backslash-escaped characters that weren't already necessary (see 18.5).
 - No raw HTML, HTML comments, or `{width=...}`/`{height=...}` image attributes anywhere in the file (see 18.6).
+
+---
+
+## 19. CONTENT PROTECTION AND ISSUE TRACKING
+
+Sections 2.2 and 3.3 govern substantive edits during an editorial pass. Sections 13 and 16 govern conflicts, ambiguity, and review flags. This section covers formatting and output-only work, issue tracking, Chief policy decisions, and cite-checks before a regulatory or standards reference is changed.
+
+During formatting or output-only work, the AI SHALL NOT change what the SOG says, even when the wording appears incorrect, outdated, ambiguous, or inconsistent.
+
+When unsure whether a change is content or formatting, the AI SHALL treat it as content and ask.
+
+When the AI finds a substantive content problem, the AI SHALL NOT fix it silently. The AI SHALL check `open-issues.md`. If the problem is not already recorded, the AI SHALL add it and tell the user.
+
+Policy decisions belong to the Chief. The AI SHALL record them in `sog-review-decisions.md`.
+
+The AI SHALL place items that need leadership input in the Review Notes section (see Section 15). The AI SHALL also record any of those items that remain unresolved in `open-issues.md`.
+
+Before changing a WAC, RCW, NFPA, or OSHA reference, the AI SHALL cite-check it against the primary source. Section 12 governs citation accuracy and source verification.

@@ -61,18 +61,7 @@ Do not introduce new dependencies or tools unless necessary and approved.
 
 ### Protect SOG content
 
-Formatting tasks do not change what the SOG says. Further editorial changes happen only when explicitly asked (see Current scope).
-
-Do not change what the SOG says merely because wording appears incorrect, outdated, ambiguous, or inconsistent.
-
-If a substantive content problem is discovered:
-
-1. Do not silently fix it.
-2. Check whether it is already documented in `open-issues.md`.
-3. If not, add it there.
-4. Tell the user about it.
-
-When uncertain whether a change affects content or only formatting, treat it as a content change and ask.
+Do not change SOG wording during formatting or output-only work. `38_STYLE_GUIDE.md` §19 governs that limit, substantive content problems, uncertainty about content or formatting, Chief policy decisions, leadership items, and cite-checks of regulatory and standards references.
 
 ### Investigate before modifying
 
