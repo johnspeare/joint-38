@@ -1,10 +1,14 @@
-# CLAUDE.md — Joint Fire 3 & 8 SOGs
+# Joint Fire 3 & 8 SOGs
+
+This repository contains the Standard Operating Guidelines (SOGs) for Joint Fire Protection District 3 & 8, a rural fire department in Washington.
+
+The Markdown master (`sog-1st-pass.md`) is built into a PDF and an editable DOCX by the pipeline under `pipeline/`.
+
+The published site is https://johnspeare.github.io/joint-38/.
 
 ## Project
 
-This repository contains the Standard Operating Guidelines (SOGs) for Joint Fire Protection District 3 & 8, a rural Washington State fire department.
-
-The project is currently in a **maintenance and output-polish phase**.
+The project is in a **maintenance and output-polish phase**, plus editorial passes. A second editorial pass (modal-term standardization, WAC corrections, new respirator procedures, Review Notes) was applied and published in November 2026 per `38_STYLE_GUIDE.md`.
 
 ## Current scope
 
@@ -20,8 +24,7 @@ Remaining work is limited to:
 
 * Do **not** build a web application.
 * Do **not** create new application features or assets.
-* Do **not** begin the deferred editorial/content-editing phase.
-* Do **not** apply `38_STYLE_GUIDE.md` unless explicitly asked.
+* Further editorial changes to SOG content, and applying `38_STYLE_GUIDE.md`, only when explicitly asked. Policy decisions stay with the Chief (see `sog-review-decisions.md`).
 * Do not redesign the project architecture unless the user explicitly requests it.
 
 The goal is to **improve the existing project, not expand its scope**.
@@ -30,14 +33,15 @@ The goal is to **improve the existing project, not expand its scope**.
 
 ## Source of truth
 
-* `sog-1st-pass.md` — current Markdown master and source of truth.
+* `sog-1st-pass.md` — Markdown master and source of truth. The filename is kept because the pipeline reads it; it now holds the edited draft.
+* `sog-review-decisions.md` — the Chief's decision log.
 * `open-issues.md` — current outstanding issues and deferred work.
 * `pipeline/` — current production output pipeline.
 * `FD-SOGs-assets/` — existing source and generated assets.
-* `38_STYLE_GUIDE.md` — future editorial/content-editing guidance; currently out of scope.
+* `38_STYLE_GUIDE.md` — editorial guidance used for the November 2026 pass. Apply it only when explicitly asked.
 * `handoff.md` — detailed project history, technical background, previous decisions, and troubleshooting information.
 
-Do not assume historical plans in `handoff.md` are still active. **This file (`CLAUDE.md`) defines the current scope.**
+Do not assume historical plans in `handoff.md` are still active. **This file (`README.md`) defines the current scope.**
 
 Read `handoff.md` when detailed historical or technical context is needed rather than loading/reproducing its contents unnecessarily.
 
@@ -57,7 +61,7 @@ Do not introduce new dependencies or tools unless necessary and approved.
 
 ### Protect SOG content
 
-This is currently an output/formatting project, not an editorial project.
+Formatting tasks do not change what the SOG says. Further editorial changes happen only when explicitly asked (see Current scope).
 
 Do not change what the SOG says merely because wording appears incorrect, outdated, ambiguous, or inconsistent.
 
@@ -115,6 +119,16 @@ build_sog_pdf.py
 is retained for local formatting experiments/comparisons. It is **not** the production pipeline.
 
 The published site is deployed through GitHub Actions/GitHub Pages from `main`.
+
+Cover revision text is `TITLE_PAGE_REVISION` in `pipeline/common.py`. Update it when issuing a new revision.
+
+Footer text is `FOOTER_NOTICE` in `pipeline/build_reference.py`. Changing it requires regenerating `pipeline/reference.docx`:
+
+```bash
+.venv/bin/python pipeline/build_reference.py
+```
+
+A push to `main` that touches `sog-1st-pass.md`, `FD-SOGs-assets/**`, `pipeline/**`, or `.github/workflows/publish.yml` triggers the GitHub Actions build and deploy. The jobs have timeouts. If the apt install step hangs, cancel the run and re-run it.
 
 Do not replace the existing pipeline or introduce a new deployment architecture unless explicitly requested.
 

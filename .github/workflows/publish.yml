@@ -30,9 +30,10 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Install Pandoc and LibreOffice
+        timeout-minutes: 5
         run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc libreoffice-writer
+          sudo apt-get -o Acquire::Retries=3 -o Acquire::http::Timeout=20 update
+          sudo apt-get -o Acquire::Retries=3 -o Acquire::http::Timeout=20 install -y --no-install-recommends pandoc libreoffice-writer fonts-liberation
 
       - name: Install Python dependencies
         run: pip install python-docx==1.2.0
