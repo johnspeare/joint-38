@@ -643,7 +643,7 @@ In fire situations, the decision to remove SCBA shall be made by incident comman
 
 If there is any doubt about respiratory safety, SCBA use shall be maintained until the atmosphere is established to be safe by testing.
 
-If a firefighter detects a vapor or gas breakthrough, changes in breathing resistance or leakage of the face piece the firefighter will notify his partner and Officer or the Incident Commander and leave the area immediately.
+If a firefighter detects a vapor or gas breakthrough, changes in breathing resistance or leakage of the face piece the firefighter shall notify their partner and Officer or the Incident Commander and leave the area immediately.
 
 ### Respirators for atmospheres that are not IDLH
 
@@ -651,9 +651,20 @@ For protection against particulates, Joint Fire Protection District 3&8 will pro
 
 ### Procedures for Respirators for Use in Firefighting
 
+1. Members shall don SCBA before entering any atmosphere described under "Respirators for IDLH (Immediately Dangerous to Life and Health) atmospheres" and shall perform a user seal check, as described under "General use procedures."
+2. Members using SCBA shall operate in teams of two or more (WAC 296-305-04001(3)).
+3. Members shall remove SCBA only as described under "Respirators for IDLH (Immediately Dangerous to Life and Health) atmospheres."
+4. A member who detects a vapor or gas breakthrough, a change in breathing resistance, or face piece leakage shall follow the notification and exit requirements in that section.
+
 ### Procedures for IDLH (Immediately Dangerous to Life and Health) Atmospheres
 
+1. The Incident Commander shall treat an atmosphere as IDLH as described under "Selection of respirators."
+2. Members shall enter an IDLH atmosphere in teams of at least two who remain in visual or voice contact at all times.
+3. At least two members shall remain outside the IDLH atmosphere as the Rapid Intervention Team (RIT), as described under "Two-In/Two-Out" and "Rapid Intervention Team (RIT)" (WAC 296-305-05002(3) and (5)).
+
 ### Two-In/Two-Out
+
+Firefighters shall not engage in interior structural firefighting without at least two standby firefighters outside the hot zone (WAC 296-305-05002(5)). In the initial stages of a working structural fire, a minimum of four members is required: two working in the hot zone and two outside (WAC 296-305-05002(3)).
 
 The following are not meant to preclude an Incident Commander from starting suppression (not entering) or rescue operations (entering) in a structural incident. The requirement intends that the Rapid Intervention Team (RIT) be established as soon as practical to ensure safety of firefighters, yet not detract from the responsibility to provide rescue and suppression to citizens.
 
@@ -701,13 +712,9 @@ Using a respirator may place physiological burdens on firefighting personnel tha
 
 Providence Medical Center
 
-`[REVIEW REQUIRED: Confirm that Providence Medical Center is the current PLHCP for firefighter medical evaluations, and add the specific department, contact person, phone, and address the department is supposed to use.]`
-
 The Department shall identify a Physician or other Licensed Health Care Professional (PLHCP) to administer a medical questionnaire to each employee who uses SCBA or respirators. The questionnaire shall be administered confidentially during the employee’s normal work hours. The questionnaire will determine the need for a follow-up physical examination. The department shall use the following PLHCP to administer the questionnaire:
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-`[REVIEW REQUIRED: The source document lists "NFPA" as the PLHCP administering the medical questionnaire. NFPA is a standards body, not a Physician or Licensed Health Care Professional. Identify the actual PLHCP for questionnaire administration.]`
 
 Medical questionnaires shall be administered prior to initial fit test to all firefighters required to use SCBA or respirators.
 
@@ -733,7 +740,7 @@ The program administrator, employee and physician will arrange an appropriate ti
 The Joint Fire Protection District 3&8 shall provide personnel with a respirator that is sanitary, and in good working order. Fire department personnel shall ensure that respirators are cleaned and disinfected using the procedures recommended by the respirator manufacturer. The respirators shall be cleaned and disinfected at the following intervals:
 
 1. Respirators issued for the exclusive use of a firefighter shall be cleaned and disinfected per the manufacturer’s instructions as often as necessary to be maintained in a sanitary condition.  
-2. Respirators issued to more than one firefighter shall be cleaned and disinfected per the manufacturer’s instructions after each use and the respirator cleanliness shall be insured before being worn by different individuals.  
+2. Respirators issued to more than one firefighter shall be cleaned and disinfected per the manufacturer’s instructions after each use and the respirator cleanliness shall be ensured before being worn by different individuals.  
 3. Respirators used in fit testing and training shall be cleaned and disinfected after each use.  
 4. Respirator face pieces assigned to personnel (personal face pieces) shall be cleaned and disinfected per the manufacturer’s instructions as required by the user of the face piece.  
 5. The face piece shall be placed in a clean, dry container in a manner that prevents deformation of the face seal, other damage or contamination. The face piece will be stored with the head harness to the back, not over the lens – this will help prevent deformation of the face piece seal.  
@@ -743,7 +750,7 @@ The Program Administrator or his/her designee will ensure an adequate supply of 
 
 ### Cleaning Procedures
 
-Operational Recommendations: \**\** In order to decrease the possibility of contaminant entry, it is recommended that protective covers be in place to limit contamination of dust and particles.  
+Operational Recommendations: In order to decrease the possibility of contaminant entry, it is recommended that protective covers be in place to limit contamination of dust and particles.  
 Cleaning Recommendation:  
 Cleaning is recommended after each usage where contaminants may come in contact with any part of the unit.
 
@@ -802,7 +809,7 @@ Air cylinders shall be maintained in a fully charged state and shall be recharge
 
 For fire department respirators, fire department personnel shall:
 
-1. Inspect and certify that the respirator ready for use by documenting the date the inspection was performed (at least monthly), the name (or a signature) of the person who made the inspection, the findings, required remedial action, and a serial number or any other means of identifying the inspected respirator.  
+1. Inspect and certify that the respirator is ready for use by documenting the date the inspection was performed (at least monthly), the name (or a signature) of the person who made the inspection, the findings, required remedial action, and a serial number or any other means of identifying the inspected respirator.  
 2. Provide this information on inspection forms, specifically, weekly and after use inspection forms. This information shall be maintained in each station until replaced following a subsequent certification.  
 3. Inspection records shall be forwarded to the department designees responsible for record keeping.
 
@@ -894,7 +901,7 @@ Standards for breathing air and hazards associated include:
 4. Carbon dioxide content of 1,000 ppm or less.  
 5. Lack of a noticeable odor.
 
-The fire department shall insure that cylinders used to supply breathing air to respirators meet the following requirements:
+The fire department shall ensure that cylinders used to supply breathing air to respirators meet the following requirements:
 
 1. Cylinders are tested and maintained as prescribed in the Shipping Container Specification Regulations of the Department of Transportation (49 CFR part 173 and part 178\) test requirements of five years for composite cylinders supplied to MSA and five years for steel or aluminum cylinders.  
 2. Note: composite cylinders have a maximum use life of 15 years.  
@@ -1182,7 +1189,7 @@ Command will assign teams as needed for:
 5. If the fire is large and fast moving, then a direct attack may not be possible. In such cases, an indirect and/or parallel attack may be utilized by creating a fire line a distance ahead of the fire to halt the progress of the fire.  
 6. Different methods of attack may be used simultaneously according to the situation  
 7. Teams assigned to structural protection shall keep hose lines flexible enough to quickly break away in the event of being overrun  
-8. Collaborate with the DNR, Forest Service Officials, and specialists/technicians as  
+8. Collaborate with the DNR, Forest Service Officials, and specialists/technicians as needed.  
 9. Communications and accountability of all incident personnel shall be maintained at all times.
 
 ### Hazardous Materials
@@ -2225,75 +2232,36 @@ Signature of Member/ Employee: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 Signature of Officer/Fire Chief: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
----
-
 ## Review Notes
 
-*This section summarizes items that require verification, correction, or a policy decision by department leadership before adoption. It is added by the editor and is not part of the operational SOG. Each item cross-references an inline flag in the body of the document.*
-
-### Substantive citation and jurisdiction issues (Wisconsin content in a Washington SOG)
-
-The document was adapted from a Wisconsin-based template. Several agency names, statutes, addresses, and URLs still pointed to Wisconsin authorities and have been corrected to their Washington equivalents. Resolutions for items 1–6 are recorded in the next subsection ("Wisconsin → Washington replacements applied"). Item numbering (1–16) is preserved across subsections for cross-reference stability.
-
-### Wisconsin → Washington replacements applied
-
-The following resolutions were applied to items 1–6 above. The corresponding inline `[FLAGGED: ...]` tags in the body have been removed.
-
-1. **Training section — SPS 330 citation.** Replaced "Washingtons Safety and Health Standards (SPS 330.)" with "Washington Safety Standards for Firefighters (chapter 296-305 WAC), administered by the Washington State Department of Labor & Industries under the Washington Industrial Safety and Health Act (chapter 49.17 RCW)." The typo "Washingtons" → "Washington's" is no longer relevant because the sentence was rewritten. Sources verified: `app.leg.wa.gov/wac/default.aspx?cite=296-305` (chapter title "Safety Standards for Firefighters") and `lni.wa.gov/safety-health/safety-topics/industry-topics/fire-fighting` (L&I as administering agency; WISHA statutory authority under chapter 49.17 RCW).
-2. **Respiratory Protection — Program Administrator responsibilities.** Replaced "Washington Department of Safety and Professional Services, Chapter SPS 330, Fire Department Safety and Health Standards" with "Washington State Department of Labor & Industries, chapter 296-305 WAC, Safety Standards for Firefighters." Sources verified: same as item 1.
-3. **Equal Opportunity — statute citation.** Replaced "Section 111.31-111.39, Washington Statutes" with "Washington Law Against Discrimination, chapter 49.60 RCW (including RCW 49.60.180, Unfair practices of employers)." Sources verified: `app.leg.wa.gov/rcw/default.aspx?cite=49.60.180` and MRSC (`mrsc.org/explore-topics/personnel/rights/employment-discrimination`), which confirm chapter 49.60 RCW is the Washington Law Against Discrimination and RCW 49.60.180 is the core employer-unfair-practices section.
-4. **Complaint Procedures — state contact block.** Replaced the "State of Washington Equal Rights Agency" block (Madison, WI) with the Washington State Human Rights Commission contact block: Olympia headquarters at 711 South Capitol Way, Suite 402, Olympia, WA 98501; mailing address PO Box 42490, Olympia, WA 98504-2490; toll-free 1-800-233-3247; local (360) 753-6770; `https://www.hum.wa.gov`. Also added the Spokane satellite office (Rock Pointe Plaza III, 1330 North Washington Street, Suite 2460, Spokane, WA 99201; (509) 568-3196) because it serves Stevens County. Sources verified: `hum.wa.gov/about-us/contact-us` (headquarters, mailing address, phones); `hum.wa.gov` general brochure PDF (Spokane satellite office address and phone).
-5. **Complaint Procedures — EEOC office.** Replaced the Milwaukee EEOC address block with the EEOC Seattle Field Office: Federal Office Building, 909 First Avenue, Suite 400, Seattle, WA 98104-1061; local (206) 220-6884; toll-free 1-800-669-4000; `https://www.eeoc.gov`. Sources verified: `eeoc.gov/field-office/seattle/location` (address); `eeoc.gov/federal-sector/management-directive/appendix-n-eeo-md-110-equal-employment-opportunity-commission` (local phone 206-220-6884 and geographic jurisdiction: Alaska, Idaho, Oregon, Montana, and Washington); `eeoc.gov/contact-eeoc` (1-800-669-4000 remains the current national info line).
-6. **Retaliation — statute citation and link.** Replaced "Section 111.322(2m), Washington Statutes" and its `legis.state.wi.us` URL with "RCW 49.60.210, Unfair practices — Discrimination against person opposing unfair practice — Retaliation against whistleblower," linked to `https://app.leg.wa.gov/rcw/default.aspx?cite=49.60.210`, and framed as part of the Washington Law Against Discrimination. Sources verified: `app.leg.wa.gov/rcw/default.aspx?cite=49.60.210` (statute title and text) and Washington Civil Jury Instructions (`govt.westlaw.com/wciji`) citing RCW 49.60.210(1) as the WLAD anti-retaliation provision.
-
-### Content and template artifacts requiring clarification
-
-7. **Respiratory Protection — PLHCP identifications.** The source document formatted two PLHCP answers as `###` headings (`### Providence Medical Center` after "medical evaluations shall be administered...by the following PLHCP" and `### NFPA.` after "the department shall use the following PLHCP to administer the questionnaire"). Both are data values, not section titles, and the second is not a PLHCP at all (NFPA is a standards body). The Providence entry was converted from a heading to plain text with a `[REVIEW REQUIRED]` flag asking for the specific contact information. The NFPA entry was removed and replaced with a fill-in-the-blank line and a `[REVIEW REQUIRED]` flag to identify the actual PLHCP for questionnaire administration.
-8. **Rehab section — orphan "HF" label.** The source contained a paragraph consisting solely of `**HF**` between the Rehab Manager paragraph and the "Staffing of Rehab" subsection. Its meaning could not be inferred and it added no operational content, so it was removed. If "HF" was intended as a meaningful label (e.g., a form field, a hazard flag, or a section marker), restore it with the intended content.
-
-### Formatting corrections applied (mechanical, per style guide Section 18)
-
-- Fixed broken numbered lists caused by intervening paragraphs or notes in: Trench Rescue → Scene Safety (hot/warm/cold zones now nested as substeps of step 1); Rehab → Rehab Period (weather-modifier note reflowed as continuation text of step 1); Respiratory Protection → Establishing RIT (limiting-factors note reflowed as continuation text of step 2).
-- Fixed a stray letter marker `1. A. The first-in unit...` in Confined Space Rescue → Arrival on Scene.
-- Converted the Orientation Program topics from a run of individual paragraphs to a proper bulleted list (Section 18.2 — a list of items should be a list, not blank-line-separated paragraphs).
-- Retitled two headings: `### Medical evaluation of FIREFIGHTERS required to use respirators` → `### Medical Evaluation of Firefighters Required to Use Respirators` (Section 18.3, no ALL-CAPS in headings); `### (2 In/2 Out)` → `### Two-In/Two-Out`.
-- Replaced the raw `<sub>...</sub>` HTML wrapper around the Chain of Command diagram source note with italic text (Section 18.6 — no raw HTML in source).
-- Removed unnecessary backslash escapes on hyphens (`\-50 degrees` → `-50 degrees`; `into trench \-` → `into trench —`; `\_\_\_\_ \-\_\_\_\_` → `\_\_\_\_-\_\_\_\_` in the questionnaire phone field). The long `\_\_\_\_\_\_\_\_\_` fill-in-the-blank runs in the appendices were preserved intact per Section 18.5.
-- Normalized two hidden non-breaking spaces (U+00A0) on the Training section's SPS 330 line to regular ASCII spaces.
-- Applied Stage A of the modal-terms standardization pass (Section 4.2): `must` → `shall` in body prose (~40 conversions, excluding OSHA-quoted regulatory text and two grammatical-trigger clauses); directive `will` → `shall` in numbered arrival-on-scene / incident-action procedures and a small number of unambiguous role-directed sentences (~7 conversions); all ALL-CAPS emphasis blocks rewritten to normal-case bold (10 conversions). See Review Notes items 11–13 for the full accounting, including what was intentionally preserved and what was deferred to a Stage B pass.
+*This section summarizes items that require verification, correction, or a policy decision by department leadership before adoption. It is added by the editor and is not part of the operational SOG.*
 
 ### Additional items observed but not changed (flagged for leadership review)
 
-9. **Chain of Command image source.** The diagram source note remains as an italic caption. If the build pipeline previously depended on the `<sub>` HTML tag for smaller font sizing, verify that italic rendering is acceptable in both the PDF and DOCX outputs (Section 18.6 defers image and text sizing to the pipeline).
-10. **Injury/Incident Reporting Form (Appendix E).** The table cell at "Was medical treatment or first aid necessary?" uses a raw `<br>` HTML tag to force line breaks inside the cell. This is technically a Section 18.6 violation, but a plain Markdown table cell has no clean way to include line breaks. Leaving as-is; consider restructuring the row into separate rows if a fully HTML-free source is required.
-11. **Modal-term standardization — Stage A applied; Stage B deferred.** A conservative first pass on the mandatory-modal terminology was applied per Section 4.2:
-
-    - **`must` → `shall` in body prose (~40 conversions).** Every `must` that clearly expressed a mandatory requirement in ordinary procedural text was converted to `shall`. This preserves the single-mandatory-modal principle of Section 4.2 (SHALL is the department's one mandatory-requirement modal; MUST is reserved for boxed Warning/Caution blocks — and per the leadership decision recorded during editing, no boxed Warning/Caution blocks were introduced in this pass).
-    - **Directive `will` → `shall` (targeted, ~7 conversions).** Only the unambiguous "Role + will + directive verb" pattern was converted, and only inside numbered arrival-on-scene / incident-action procedures (Structure Fires, Vehicle Fires, Vehicle Accidents, Wildland Fires) and a few obvious directives elsewhere (the driver's pre-exit inspection; officers documenting deviations to the Chief; the MAYDAY term-reservation and radio-cease blocks; the Transfer of Command lead sentence). Programmatic, predictive, and passive `will` (e.g., "the training will include...," "a record will be maintained...") was NOT touched, because in many cases it describes what the program does rather than directing a specific actor to do it.
-    - **ALL-CAPS emphasis blocks → normal-case bold (10 conversions).** The IC command-retention statement, the Communications "DO NOT interfere" rule, the SCBA compressor caution, the Confined Space / Trench Rescue "SHALL NOT enter" statements, the two MAYDAY term-reservation and radio-cease blocks, the "ALREADY IDLH" emphasis, and the "TO BE COMPLETED ONLY IF INJURY" form label were all rewritten to normal (or title) case with bold retained. No boxed Warning/Caution blocks were introduced.
-    - **Case in prose:** `shall` remains lowercase in body prose (matching Section 4.2's own example sentences and the document's existing convention). ALL CAPS is reserved for warning-block emphasis, which this pass avoided introducing.
-
-    **Not done in this pass (Stage B — recommend a follow-up pass with department review):**
-    - Every existing `should` statement was left in place. Some read as genuinely recommended practice (e.g., "A Spotter should always be used when backing, if available"); others may be intended as mandatory (e.g., "Personnel should not remove their breathing apparatus until the area is completely cleared of toxic gases"). Each needs a leadership classification of SHALL vs. SHOULD vs. MAY.
-    - The permissive-as-mandatory constructions "may only" and "no ... may" (e.g., "Fire apparatus may only be operated by...," "No new fire fighter may be permitted to participate in structural fire fighting...") were left as-is. Grammatically they express mandatory restrictions but are phrased as permissions; a follow-up pass should rewrite each as either SHALL (mandatory positive) or SHALL NOT (mandatory negative).
-    - The remaining ~120 `will` occurrences that were not clearly directive-in-a-procedure were left alone.
-
-12. **OSHA regulatory text — intentionally preserved.** Four occurrences of `must` were left as-is because they are verbatim excerpts from OSHA's Respirator Medical Evaluation Questionnaire (29 CFR 1910.134 Appendix C). Per Section 12.1 (Citation Accuracy), quoted regulatory text is not rewritten:
-    - "Your employer must allow you to answer this questionnaire during normal working hours..." (Appendix C, employee/employer instructions)
-    - "The following information must be provided by every employee..." (Appendix C, Section 1 header)
-    - "Questions 1 through 9 must be answered by every employee..." (Appendix C, Part A header)
-    - "Questions 10 through 15 below must be answered..." (Appendix C, Part A conditional-questions header)
-
-13. **Grammatical-trigger `must` — intentionally preserved.** Two occurrences of `must` were left as-is because they express operational necessity ("needs to"), not a policy directive:
+1. **Respiratory protection — PLHCP.** Providence Medical Center is named as the PLHCP for medical evaluations without contact information, and the two PLHCP blanks (questionnaire administration and follow-up examinations) are empty. Provide the provider details.
+2. **Member assistance referral program.** Verify that the Stevens County public health number (509-684-2262) is current and that the referral relationship still exists.
+3. **Communications.** Verify that the Stevens County VHF system and Colville dispatch statement are current.
+4. **Wildland fires — Incident actions, item 8.** The sentence ended "...specialists/technicians as." It now reads "as needed" to match the parallel Hazmat item. Confirm the intended wording.
+5. **Two-In/Two-Out and RIT — rescue entry before a full team assembles.** The Two-In/Two-Out paragraph and the "Important" note under "Rapid Intervention Team (RIT)" allow this. WAC 296-305-05002(4) allows it only with at least three personnel (2-in/1-out) present and equipped, and only for a known rescue where immediate action could prevent loss of life or serious injury. Confirm the intended wording. Not changed, because it alters a safety requirement.
+6. **Respiratory protection — Quality and quantity of breathing air.** The section cites Compressed Gas Association G-7.1-1989 and a dew point of -50 degrees F. WAC 296-305-04001(6) requires the 2003 edition of NFPA 1989 or the 1997 edition of ANSI/CGA G7-1 (minimum Grade D) and a water vapor level of 24 ppm or less. Confirm the intended standard and reconcile the moisture criterion. Not changed.
+7. **Injury/Incident Reporting Form (Appendix E).** The table cell at "Was medical treatment or first aid necessary?" uses a raw `<br>` HTML tag to force line breaks inside the cell. This is technically a Section 18.6 violation, but a plain Markdown table cell has no clean way to include line breaks. Leaving as-is; consider restructuring the row into separate rows if a fully HTML-free source is required.
+8. **Modal-term standardization — Stage A applied; Stage B deferred.** A conservative first pass on the mandatory-modal terminology was applied per Section 4.2:
+   - **must → shall in body prose (~40 conversions).** Every must that clearly expressed a mandatory requirement in ordinary procedural text was converted to shall. This preserves the single-mandatory-modal principle of Section 4.2 (SHALL is the department's one mandatory-requirement modal; MUST is reserved for boxed Warning/Caution blocks — and per the leadership decision recorded during editing, no boxed Warning/Caution blocks were introduced in this pass).
+   - **Directive will → shall (targeted, ~7 conversions).** Only the unambiguous "Role + will + directive verb" pattern was converted, and only inside numbered arrival-on-scene / incident-action procedures (Structure Fires, Vehicle Fires, Vehicle Accidents, Wildland Fires) and a few obvious directives elsewhere (the driver's pre-exit inspection; officers documenting deviations to the Chief; the MAYDAY term-reservation and radio-cease blocks; the Transfer of Command lead sentence). Programmatic, predictive, and passive will (e.g., "the training will include...," "a record will be maintained...") was NOT touched, because in many cases it describes what the program does rather than directing a specific actor to do it.
+   - **ALL-CAPS emphasis blocks → normal-case bold (10 conversions).** The IC command-retention statement, the Communications "DO NOT interfere" rule, the SCBA compressor caution, the Confined Space / Trench Rescue "SHALL NOT enter" statements, the two MAYDAY term-reservation and radio-cease blocks, the "ALREADY IDLH" emphasis, and the "TO BE COMPLETED ONLY IF INJURY" form label were all rewritten to normal (or title) case with bold retained. No boxed Warning/Caution blocks were introduced.
+   - **Case in prose.** shall remains lowercase in body prose (matching Section 4.2's own example sentences and the document's existing convention). ALL CAPS is reserved for warning-block emphasis, which this pass avoided introducing.
+   - **Not done in this pass (Stage B — recommend a follow-up pass with department review):**
+     - Every existing should statement was left in place. Some read as genuinely recommended practice (e.g., "A Spotter should always be used when backing, if available"); others may be intended as mandatory (e.g., "Personnel should not remove their breathing apparatus until the area is completely cleared of toxic gases"). Each needs a leadership classification of SHALL vs. SHOULD vs. MAY.
+     - The permissive-as-mandatory constructions "may only" and "no ... may" (e.g., "Fire apparatus may only be operated by...," "No new fire fighter may be permitted to participate in structural fire fighting...") were left as-is. Grammatically they express mandatory restrictions but are phrased as permissions; a follow-up pass should rewrite each as either SHALL (mandatory positive) or SHALL NOT (mandatory negative).
+     - The remaining ~120 will occurrences that were not clearly directive-in-a-procedure were left alone.
+9. **OSHA regulatory text — intentionally preserved.** Four occurrences of must were left as-is because they are verbatim excerpts from OSHA's Respirator Medical Evaluation Questionnaire (29 CFR 1910.134 Appendix C). Per Section 12.1 (Citation Accuracy), quoted regulatory text is not rewritten:
+   - "Your employer must allow you to answer this questionnaire during normal working hours..." (Appendix C, employee/employer instructions)
+   - "The following information must be provided by every employee..." (Appendix C, Section 1 header)
+   - "Questions 1 through 9 must be answered by every employee..." (Appendix C, Part A header)
+   - "Questions 10 through 15 below must be answered..." (Appendix C, Part A conditional-questions header)
+10. **Grammatical-trigger must — intentionally preserved.** Two occurrences of must were left as-is because they express operational necessity ("needs to"), not a policy directive:
     - "In situations where assistance is not available and the apparatus must be immediately moved, the Driver shall first walk completely around the apparatus..." — the mandatory clause is the second half (SHALL); the first half is a trigger condition.
     - "When firefighters must dispose of sharps or contaminated broken glassware, all handling will be with tongs or forceps." — same pattern: the trigger clause is not itself a mandatory instruction.
-
-    Recommend the follow-up modal-terms pass rewrite these two as "when the apparatus needs to be moved" and "when firefighters need to dispose of..." for absolute clarity, but they are not incorrect as they stand.
-14. **Active voice and command voice.** Many procedures are written in passive voice or without an explicit actor (Section 4.1, Section 7.1). Not corrected wholesale in this pass. Recommend a dedicated voice-and-actor pass.
-15. **Wildland Fires — Incident Actions.** Item 8 reads "Collaborate with the DNR, Forest Service Officials, and specialists/technicians as" — the sentence appears to be truncated. `[REVIEW REQUIRED: Complete the sentence — collaborate as what? "as appropriate," "as needed," "as directed by the IC," etc.]`
-16. **Stevens County Public Health referral phone number.** The Member Assistance Referral Program lists 509-684-2262 for Stevens County public health. `[REVIEW REQUIRED: Verify current phone number and confirm the referral relationship still exists.]`
-17. **Section numbering and heading hierarchy in Respiratory Protection.** `### Responsibilities` sits directly above `### Program Administrator` and `### Fire Department Members` (which look like they should be subsections of Responsibilities). The current file uses `####` only under `## Incident Guidelines` (per Section 18.3, do not introduce a new heading depth), so no structural change was made. If leadership wants sub-subsections here, `####` can be extended into Respiratory Protection with a note to the pipeline.
-18. **Communications section — Stevens County VHF radio.** The section states "Stevens County currently runs on a VHF radio system that has repeated channels. Stevens County Fire Dispatch is located in Colville." `[REVIEW REQUIRED: Verify this is still current — radio and dispatch details change over time.]`
-
-*End of Review Notes.*
-
+    - Recommend the follow-up modal-terms pass rewrite these two as "when the apparatus needs to be moved" and "when firefighters need to dispose of..." for absolute clarity, but they are not incorrect as they stand.
+11. **Active voice and command voice.** Many procedures are written in passive voice or without an explicit actor (Section 4.1, Section 7.1). Not corrected wholesale in this pass. Recommend a dedicated voice-and-actor pass.
+12. **Section numbering and heading hierarchy in Respiratory Protection.** The Responsibilities heading sits directly above Program Administrator and Fire Department Members (which look like they should be subsections of Responsibilities). The current file uses a fourth heading level only under Incident Guidelines (per Section 18.3, do not introduce a new heading depth), so no structural change was made. If leadership wants sub-subsections here, that fourth level can be extended into Respiratory Protection with a note to the pipeline.
