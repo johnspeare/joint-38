@@ -39,11 +39,8 @@ The goal is to **improve the existing project, not expand its scope**.
 * `pipeline/` — current production output pipeline.
 * `FD-SOGs-assets/` — existing source and generated assets.
 * `38_STYLE_GUIDE.md` — editorial guidance used for the November 2026 pass. Apply it only when explicitly asked.
-* `handoff.md` — detailed project history, technical background, previous decisions, and troubleshooting information.
 
-Do not assume historical plans in `handoff.md` are still active. **This file (`README.md`) defines the current scope.**
-
-Read `handoff.md` when detailed historical or technical context is needed rather than loading/reproducing its contents unnecessarily.
+**This file (`README.md`) defines the current scope.**
 
 ---
 
@@ -159,8 +156,6 @@ Do not assume a successful build means the output is correct.
 ## Existing technical constraints
 
 Several technical problems have already been investigated and have intentional workarounds.
-
-Before changing the relevant area, consult `handoff.md` for the detailed explanation rather than rediscovering the problem.
 
 Important examples include:
 
